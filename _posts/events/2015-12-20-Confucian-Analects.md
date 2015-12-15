@@ -4,7 +4,7 @@ title: 第三十八期 《论语》 by 嵇义达
 category: event
 description: 从《论语》看孔子的人生哲学与教育理念
 published: True
-header-img: http://i3.sinaimg.cn/ast/2011/0701/U5593P54DT20110701121653.jpg
+header-img: http://img.91ddcc.com/ue_12900_6892.jpg
 ---
 
 ## 报名链接
