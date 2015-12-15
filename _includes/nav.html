@@ -12,8 +12,8 @@
 <nav class="uk-navbar navbar-custom uk-width-1-1">
 
     <ul class="uk-navbar-nav uk-hidden-small">
-        <li><a class="navbar-brand {{ main_nav }}" href="{{ site.baseurl }}/">{{ site.title }}</a></li>
-        <li><a class="navbar-brand {{ la_nav }}" href="{{ site.baseurl }}/la">LA分部</a></li>
+      <li><a class="navbar-brand {{ main_nav }}" href="{{ "/" | prepend: site.baseurl | prepend: site.url }}">{{ site.title }}</a></li>
+        <li><a class="navbar-brand {{ la_nav }}" href="{{ "/la" | prepend: site.baseurl | prepend: site.url }}">LA分部</a></li>
     </ul>
 
     <div class="uk-navbar-flip uk-hidden-small nav">
@@ -25,14 +25,14 @@
      </div>
 
     <a href="#offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
-    <a class="uk-navbar-brand uk-navbar-center uk-visible-small" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="uk-navbar-brand uk-navbar-center uk-visible-small" href="{{ "/" | prepend: site.baseurl | prepend: site.url }}">{{ site.title }}</a>
 </nav>
 
 <div id="offcanvas" class="uk-offcanvas">
     <div class="uk-offcanvas-bar">
         <ul class="uk-nav uk-nav-offcanvas">
             {% for dale in site.data.nav %}
-                <li><a href="{{ site.baseurl }}{{ location }}{{ dale.href }}">{{ dale.title }}</a></li>
+                <li><a href="{{ dale.href | prepend: location | prepend: site.baseurl | prepend: site.url }}">{{ dale.title }}</a></li>
             {% endfor %}
         </ul>
     </div>
