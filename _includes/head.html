@@ -8,14 +8,10 @@
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/uikit/2.23.0/js/uikit.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/uikit/2.23.0/js/uikit.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/uikit/2.23.0/js/components/slideshow.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.23.0/css/uikit.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.23.0/css/uikit.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.23.0/css/components/slideshow.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.23.0/css/components/slidenav.css" />
-
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.23.0/css/uikit.min.css" />
-    <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="/www/css/style.css">
+    <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl | prepend: site.url }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 </head>
