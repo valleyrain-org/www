@@ -44,7 +44,7 @@ description: "欢迎来到谷雨书苑"
                 <h3 class="service-heading uk-text-center"><a href="events/past">往期活动...</a></h3>
 	        <div class="tiles">
 
-	        {% for post in site.categories.event reversed limit:2 %} 
+	        {% for post in site.categories.event reversed limit:1 %} 
 	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
 	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
 
