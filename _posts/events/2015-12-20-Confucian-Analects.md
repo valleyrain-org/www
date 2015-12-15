@@ -22,7 +22,7 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 
 ## 分享人: 嵇义达
 
-嵇义达，原籍安徽怀宁，1956年生於香港，毕业於国立台湾大学电机工程系，纽约州立大学哲学博士，曾任教波士顿东北大学电机电脑工程系助教授，及任职英特尔公司高级工程师；英文著作有GaAs High-Speed Devices, Physics, Technology, and Circuit Applications，及历史小说I am Kaiser William等。义达的父亲嵇哲，是研究先秦诸子学的学者，早逝於新加坡大学任内，未能亲聆讲述《论语》；义达十三岁时，蒙著名史学家牟润孙教授亲授《论语》，中年后他研读经学，私淑父亲同门先辈，中国经学大家黄焯教授的诗学。在中文著作方面，有《论语注评释》，尚未出版。目前正在纂写英文神学的书，Catastrophe Theology。
+嵇义达，原籍安徽怀宁，1956年生於香港，毕业於国立台湾大学电机工程系，纽约州立大学哲学博士，曾任教波士顿东北大学电机电脑工程系助理教授，及任职英特尔公司高级工程师。英文著作有GaAs High-Speed Devices, Physics, Technology, and Circuit Applications，及历史小说I am Kaiser William等。嵇义达的父亲嵇哲，是研究先秦诸子学的学者，早逝於新加坡大学任内，未能亲聆讲述《论语》；义达十三岁时，蒙著名史学家牟润孙教授亲授《论语》，中年后他研读经学，私淑父亲同门先辈，中国经学大家黄焯教授的诗学。在中文著作方面，有《论语注评释》，尚未出版。目前正在纂写英文神学的书，Catastrophe Theology。
 
 ## 分享内容：从《论语》看孔子的人生哲学与教育理念
 
