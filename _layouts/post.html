@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+{% include header-with-img.html %}
+    <div class="uk-container uk-container-center uk-margin-large-bottom">
+        <div class="uk-grid">
+            <div class="uk-width-1-1 uk-width-large-2-3 uk-width-medium-5-6 uk-container-center">
+                <div class="post-heading">
+                    <h1>{{ page.title }}</h1>
+                    {% if page.subtitle %}
+                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    {% endif %}
+                    <span class="meta">{{ page.date | date: "%B %-d, %Y" }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article class="uk-container uk-container-center">
+        <div class="uk-grid">
+            <div class="dont-break-out uk-width-1-1 uk-width-large-2-3 uk-width-medium-5-6 uk-container-center">
+
+                {{ content }}
+
+                <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous">
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-uk-tooltip title="{{page.previous.title}}">&larr; Previous Post</a>
+                    </li>
+                    {% endif %}
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-uk-tooltip title="{{page.next.title}}">Next Post &rarr;</a>
+                    </li>
+                    {% endif %}
+                </ul>
+            </div>
+
+            <div class="uk-width-1-1 uk-width-large-2-3 uk-width-medium-5-6 uk-container-center">
+               {% include comments.html %}
+            </div>
+        </div>
+</article>
+
+<hr>

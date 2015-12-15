@@ -1,0 +1,20 @@
+- title: "活动预告"
+  href: "/events/upcoming"
+
+- title: "活动回顾"
+  href: "/events/past"
+
+- title: "原创作品"
+  href: "/works"
+
+- title: "影评书评"
+  href: "/reviews"
+
+- title: "谷雨动态"
+  href: "/news"
+
+- title: "FAQ"
+  href: "/faq"
+
+- title: "关于我们"
+  href: "/about"

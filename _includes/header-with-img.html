@@ -1,0 +1,10 @@
+<!-- Post Header -->
+{% if page.header-img %}
+    {% if page.header-img contains 'http' %}
+        <header class="intro-header" style="background-image: url('{{ page.header-img }}')">
+    {% else %}
+        <header class="intro-header" style="background-image: url('{{site.baseurl}}/{{ page.header-img }}')">
+    {% endif %}
+{% else %}
+    <header class="intro-header" style="background-image: url('{{site.baseurl}}/{{ site.header-img }}')">
+{% endif %}

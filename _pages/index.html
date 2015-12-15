@@ -1,0 +1,170 @@
+---
+layout: home
+permalink: /
+description: "欢迎来到谷雨书苑"
+---
+
+<!-- Portfolio Grid Section -->
+<section id="portfolio" class="bg-light-gray">
+    <div class="uk-container uk-container-center">
+        <div class="uk-grid">
+            <div class="uk-width-1-1">
+                <h1 class="service-heading uk-text-center">谷雨活动与动态</h1>
+            </div>
+
+             <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center"><a href="events/upcoming">活动预告...</a></h3>
+	        <div class="tiles">
+
+	        {% for post in site.categories.event reversed limit:1 %} 
+	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
+	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
+
+        	{% if posttime >= nowunix %}
+               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
+                <a class="uk-thumbnail" href="{{ post.url }}">
+                <img src="{{post.header-img}}" alt="img/guyu.jpg">
+                <div class="uk-thumbnail-caption">{{ post.title}}</div>
+                </a>
+
+	        {% endif %}
+        	{% endfor %}
+	        </div><!-- /.tiles -->
+             </div>
+
+             <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center"><a href="events/past">往期活动...</a></h3>
+	        <div class="tiles">
+
+	        {% for post in site.categories.event reversed limit:2 %} 
+	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
+	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
+
+                {% if posttime < nowunix %}
+
+               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
+                <a class="uk-thumbnail" href="{{ post.url }}">
+                <img src="{{post.header-img}}" alt="img/guyu.jpg">
+                <div class="uk-thumbnail-caption">{{ post.title }}</div>
+                </a>
+
+	        {% endif %}
+        	{% endfor %}
+
+	        </div><!-- /.tiles -->
+             </div>
+
+              <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center"><a href="news">谷雨动态...</a></h3>
+	        <div class="tiles">
+
+                {% for post in site.categories.news limit:1 %} 
+               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
+                <a class="uk-thumbnail" href="{{ post.url }}">
+                <img src="{{post.header-img}}" alt="img/guyu.jpg">
+                <div class="uk-thumbnail-caption">{{ post.title }}</div>
+                </a>
+
+        	{% endfor %}
+
+	        </div><!-- /.tiles -->
+             </div>
+    
+
+      </div>
+    </div>
+</section>
+
+
+<!-- Services Section -->
+<section id="services">
+    <div class="uk-container uk-container-center">
+        <div class="uk-grid">
+            <div class="uk-width-1-1">
+                <h1 class="service-heading uk-text-center">谷雨使命与任务</h1>
+                <p class="section-subheading text-muted">谷雨书苑是一个立足于美国旧金山硅谷，面向广大华人的，自发性的非营利读书分享团体。我们每周日会在线下分享讨论一本书。分享的内容涵盖人文，社科，历史，经济，商业金融等各个领域，以及跟书籍相关的电影，音乐，绘画等。 我们的使命是致力于提高湾区华人圈的精神文化生活水平。读书会自2015年3月底举办第一次读书活动以来，吸引了旧金山湾区各界知识界精英，包括有出版商，影评人，剧本创作者，纪录片拍摄者，电台读书栏目主持人等，同时还吸引了例如知名律师，画家，社会活动家，初创公司创始人等各界贤达。随着分享的书目涵盖范围日益广泛，我们的影响力也越来越大。诚邀喜欢读书的朋友加入我们的大家庭。</p>
+            </div>
+            <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center">名称由来</h3>
+                <p class="text-muted">谷雨取名，一來是因为读书会成立于春末谷雨时节。二來与硅谷的谷相映衬，三來希望给硅谷这个文化沙漠帶來滋润之雨，文化之雨。同時也暗含希望我們读书会给大家带来哪怕只有一丝可以滋润心灵的雨露甘霖。 有各位书友的支持和陪伴，谷雨书苑才能走得更远，做得更好。</p>
+            </div>
+            <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center">读书会活动流程</h3>
+                <p class="text-muted">
+                    提前报名参加即将举行的读书分享活动，具体报名方式见每期活动预告。
+                    开始前每人简短自我介绍，主讲人分享书目。
+                    分享一个小时后休息15分钟，供书友之间交流。
+                    分享时间一共为2.5小时，最后30分钟用来自由讨论。
+                    其他常见问题可以参见<a href="faq">FAQ</a>。
+                </p>
+            </div>
+            <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center">分享的书目</h3>
+                <p class="text-muted">分享的内容涵盖人文，社科，历史，经济，商业金融等各个领域，以及跟书籍相关的电影，音乐，绘画等等。完整的书目可以参见<a href="events">书目分享列表</a>。读者有想要分享的书目也可以与谷雨书苑团队联系(valleyrain.org@gmail.com)，我们会尽量安排书目分享活动。
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="portfolio" class="bg-light-gray">
+    <div class="uk-container uk-container-center">
+        <div class="uk-grid">
+            <div class="uk-width-1-1">
+                <h1 class="service-heading uk-text-center">过往活动图片</h1>
+            </div>
+
+            <div class="uk-container-center uk-width-medium-3-5">
+                <div class="uk-slidenav-position" data-uk-slideshow="{autoplay:true, kenburns:true}">
+		<ul class="uk-slideshow" >
+		    <li><img src="/img/guyuteam.jpg" width="" height="" alt=""></li>
+		    <li><img src="/img/about/qiming.jpg" width="" height="" alt=""></li>
+		    <li><img src="/img/langchao.jpg" width="" height="" alt=""></li>
+		    <li><img src="/img/interview.jpg" width="" height="" alt=""></li>
+		    <li><img src="/img/interview1.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-04-05.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-04-19.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-05-31.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-06-14.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-06-29.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-07-05.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-07-12-shilun.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-08-16.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-08-23.jpg" width="" height="" alt=""></li>
+		    <li><img src="/img/ruandaren.jpg" width="" height="" alt=""></li>
+		    <li><img src="/img/2015-11-29/group.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-11-15.jpg" width="" height="" alt=""></li>
+		</ul>
+		<a href="#" class="uk-slidenav uk-slidenav-contrast uk-slidenav-previous" data-uk-slideshow-item="previous"></a>
+		<a href="#" class="uk-slidenav uk-slidenav-contrast uk-slidenav-next" data-uk-slideshow-item="next"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+

@@ -1,0 +1,26 @@
+<!-- Footer -->
+<footer>
+<div class="uk-container uk-container-center">
+        <div class="uk-grid">
+            <div class="uk-width-large-2-3 uk-width-medium-5-6 uk-container-center uk-text-center">
+                <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="uk-icon-rss uk-icon-button"></a>
+                {% if site.twitter_username %}
+                    <a href="https://twitter.com/{{ site.twitter_username }}" class="uk-icon-twitter uk-icon-button"></a>
+                {% endif %}
+                {% if site.facebook_username %}
+                    <a href="https://www.facebook.com/{{ site.facebook_username }}" class="uk-icon-facebook uk-icon-button"></a>
+                {% endif %}
+                {% if site.github_username %}
+                    <a href="https://github.com/{{ site.github_username }}/www/" class="uk-icon-github uk-icon-button"></a>
+                {% endif %}
+                <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script type="text/javascript">
+    $(document).ready(function (){
+        $('video').addClass('uk-responsive-width');
+    });
+</script>

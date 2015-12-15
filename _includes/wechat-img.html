@@ -1,0 +1,12 @@
+<!-- For wechat sharing -->
+<div style='display:none;'>
+{% if page.header-img %}
+    {% if page.header-img contains 'http' %}
+        <img src='{{ page.header-img }}' />
+    {% else %}
+    <img src='{{site.baseurl}}/{{ page.header-img }}' />
+    {% endif %}
+{% else %}
+    <img src='{{site.baseurl}}/img/logo2.jpg' />
+{% endif %}
+</div>
