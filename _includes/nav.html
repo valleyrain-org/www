@@ -19,7 +19,7 @@
     <div class="uk-navbar-flip uk-hidden-small nav">
         <ul class="uk-navbar-nav">
             {% for dale in site.data.nav %}
-                <li><a href="{{ site.baseurl }}{{ location }}{{ dale.href }}">{{ dale.title }}</a></li>
+                <li><a href="{{ dale.href | prepend: location | prepend: site.baseurl | prepend: site.url }}">{{ dale.title }}</a></li>
             {% endfor %}
         </ul>
      </div>

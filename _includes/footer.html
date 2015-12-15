@@ -3,7 +3,7 @@
 <div class="uk-container uk-container-center">
         <div class="uk-grid">
             <div class="uk-width-large-2-3 uk-width-medium-5-6 uk-container-center uk-text-center">
-                <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="uk-icon-rss uk-icon-button"></a>
+                <a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" class="uk-icon-rss uk-icon-button"></a>
                 {% if site.twitter_username %}
                     <a href="https://twitter.com/{{ site.twitter_username }}" class="uk-icon-twitter uk-icon-button"></a>
                 {% endif %}

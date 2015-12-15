@@ -6,5 +6,5 @@
         <header class="intro-header" style="background-image: url('{{ page.header-img | prepend: "/" | prepend: site.baseurl | prepend: site.url }}')">
     {% endif %}
 {% else %}
-    <header class="intro-header" style="background-image: url('{{site.baseurl}}/{{ site.header-img }}')">
+    <header class="intro-header" style="background-image: url('{{ site.header-img | prepend: "/" | prepend: site.baseurl | prepend: site.url }}')">
 {% endif %}

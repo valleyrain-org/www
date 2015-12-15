@@ -6,4 +6,4 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: {{ "/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}
