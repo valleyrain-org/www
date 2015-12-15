@@ -6,8 +6,8 @@ description: "谷雨书苑是一个立足于美国旧金山硅谷，面向广大
 baseurl: ""
 url: "http://www.valleyrain.org"
 twitter_username: valleyrainbook
-github_username:  valleyrain-org
 facebook_username:  valleyrainbook
+douban_username: valleyrain
 
 # Build settings
 markdown: kramdown
