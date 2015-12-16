@@ -12,7 +12,7 @@
                 {% endif %}
                 {% if site.douban_username %}
                     <a href="http://www.douban.com/people/{{ site.douban_username }} " class="uk-icon-button">
-                        <img alt="豆" src="{{ "/img/douban-ico.png" | prepend: site.baseurl | prepend: site.url }}">
+                        <img alt="豆" style="padding-bottom: 4px;" src="{{ "/img/douban-icon.png" | prepend: site.baseurl | prepend: site.url }}">
                     </a>
                 {% endif %}
                 <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
