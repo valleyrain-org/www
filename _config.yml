@@ -22,3 +22,6 @@ www-data-url: "https://raw.githubusercontent.com/valleyrain-org/www-data/master"
 gems:
     - jekyll-sitemap
     - jekyll-redirect-from
+
+sass:
+    style: compressed
