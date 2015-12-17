@@ -7,6 +7,7 @@ baseurl: ""
 url: "http://www.valleyrain.org"
 twitter_username: valleyrainbook
 facebook_username:  valleyrainbook
+github_username:  valleyrain-org
 douban_username: valleyrain
 
 # Build settings

@@ -10,6 +10,9 @@
                 {% if site.facebook_username %}
                     <a href="https://www.facebook.com/{{ site.facebook_username }}" class="uk-icon-facebook uk-icon-button"></a>
                 {% endif %}
+                {% if site.github_username %}
+                    <a href="https://github.com/{{ site.github_username }}/www/" class="uk-icon-github uk-icon-button"></a>
+                {% endif %}
                 {% if site.douban_username %}
                     <a href="http://www.douban.com/people/{{ site.douban_username }} " class="uk-icon-button">
                         <img alt="豆" style="padding-bottom: 4px;" src="{{ "/img/douban-icon.png" | prepend: site.baseurl | prepend: site.url }}">
