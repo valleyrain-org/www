@@ -34,6 +34,7 @@
             {% for dale in site.data.nav %}
                 <li><a href="{{ dale.href | prepend: location | prepend: site.baseurl | prepend: site.url }}">{{ dale.title }}</a></li>
             {% endfor %}
+                <li><a href="{{ "/la" | prepend: site.baseurl | prepend: site.url }}">LA分部</a></li>
         </ul>
     </div>
 </div>
