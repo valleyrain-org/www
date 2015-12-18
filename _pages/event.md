@@ -1,7 +1,7 @@
 ---
 layout: home
 description: "读书活动列表"
-permalink: /events/
+permalink: /event/
 ---
 
 <section id="services">
