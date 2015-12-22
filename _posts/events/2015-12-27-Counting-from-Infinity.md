@@ -10,15 +10,6 @@ header-img: http://discovermagazine.com/bonus/~/media/images/Bonus/Zhang/_WT2066
 
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20132059532&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
-## 时间和地址
-
-12月20日，周日下午4:00pm - 7:00pm  
-4th Floor, 3777 Stevens Creek Blvd  
-Santa Clara, CA 95051
-
-<iframe width="100%" height="180" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
-
 ## 分享内容
 
 ### 大海捞针: 张益唐与孪生素数猜想
@@ -40,6 +31,16 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 - 纽约时报采访: [美的追求](http://select.yeeyan.org/view/235677/444030)
 - 果壳介绍: [孪生素数猜想，张益唐究竟做了一个什么研究？](http://www.guokr.com/article/437023/)
 - discovermagazine: [Prime Solver](http://discovermagazine.com/bonus/prime-solver)
+
+## 时间和地址
+
+12月20日，周日下午4:00pm - 6:00pm  
+4th Floor, 3777 Stevens Creek Blvd  
+Santa Clara, CA 95051
+
+<iframe width="100%" height="180" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
+
 
 ## 场地介绍：
 
