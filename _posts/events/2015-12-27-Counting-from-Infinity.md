@@ -3,7 +3,7 @@ layout: post
 title: "第三十九期-纪录片《大海捞针: 张益唐与孪生素数猜想》- Tao Guo"
 category: event
 description: 张益唐与孪生素数猜想的纪录片
-header-img: img/2015-12-27/zhangyitang.jpg
+header-img: http://static.nautil.us/1279_995665640dc319973d3173a74a03860c.png
 ---
 
 ## 报名链接
