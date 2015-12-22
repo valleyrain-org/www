@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 第四期读书分享会笔记 － 陆犯焉识
-category: event 
+category: notes 
 description: 第四期陆犯焉识笔记 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 第十六期读书分享会笔记 － 三体
-category: event 
+category: notes 
 author: Kelly
 description: 第十六期三体笔记
 tag: 三体 科幻

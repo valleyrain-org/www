@@ -1,63 +1,41 @@
 seq,date,speaker,bookname,author,category
-1,3/29/2015,Raymond Tian,Zero to One: Notes on Startups; or How to Build the Future,Peter Thiel/Blake Masters,商业,Business Success Personal Development,心理学 创业 Business ,http://book.douban.com/subject/26297606/,,
-2,4/5/2015,Kelly Zhu,陈寅恪《魏晋南北朝史演讲录》,万绳楠,历史,中国历史：魏晋南北朝,历史 魏晋南北朝 思想 ,http://book.douban.com/subject/2032141/,https://www.facebook.com/events/750717495025754/,
-3,4/12/2015,Fanglin Lv,Outliers: The Story of Success,Gladwell Malcolm,成功类,Business Success Personal Development,心理学 社会学 社会科学  成功学 ,http://book.douban.com/subject/3134517/,https://www.facebook.com/events/1640192856210614/,
-4,4/19/2015,Wenjie Lin,陆犯焉识,严歌苓,小说,中国当代文学,中国现当代文学 小说 ,http://book.douban.com/subject/6880158/,https://www.facebook.com/events/654039874729792/,25
-5,4/26/2015,Claire Zhu,旅行的艺术,Alain de Botton,散文,随笔，思想,随笔 生活 散文 旅行 ,http://book.douban.com/subject/1056461/,https://www.facebook.com/events/102973343367558/,40
-6,5/3/2015,郭涛,River town: Two Years on the Yangtze,Peter Hessler,纪实文学,随笔，当代中国探讨,随笔 中国 旅行 ,http://book.douban.com/subject/1828090/,https://www.facebook.com/events/363022133904196/,40
-7,5/10/2015,Jing Zuo,《文学回忆录》-之希腊罗马神话部分,木心 口述、陈丹青 笔录,笔记,艺术综述: 希腊罗马神话,文学 木心 陈丹青 ,http://book.douban.com/subject/20440644/,https://www.facebook.com/events/588332271270514/,
-8,5/17/2015,Weihan Wang,Business Adventures: Twelve Classic Tales from the World of Wall Street ,John Brooks,商业类,Business Success Personal Development,商业 经济 管理 ,http://book.douban.com/subject/25925797/,https://www.facebook.com/events/430113350493650/,60
-9,5/31/2015,周锋锁,The Great Dissent: How Oliver Wendell Holmes Changed His Mind and Changed the History of Free Speech in America,Thomas Healy,政治类,社会科学，法律,社會思想 传记 法律 ,http://book.douban.com/subject/20018499/,https://www.facebook.com/events/1590241204559303/,
-10,6/7/2015,Winston Wu,Guns Germs and Steel,Jared M. Diamond,人类学,社会科学，人类社会发展,人类学 社会学 生物地理学 ,http://book.douban.com/subject/1813841/,https://www.facebook.com/events/600966463379235/,
-11,6/14/2015,Rex Zhen,新教伦理与资本主义精神,马克斯·韦伯,社会学,社会科学,社会学 資本主義 思想 ,http://book.douban.com/subject/1433411/,https://www.facebook.com/events/1168850036474247/,25
-12,6/21/2015,Peng Liang,浪潮之巅,吴军,创业,Business Success Personal Development,互联网 商业 ,http://book.douban.com/subject/6709783/,https://www.facebook.com/events/1603487263255869/,50
-13,6/28/2015,Kun Han,筱竹林中/罗生门,芥川龙之芥／黑泽明,小说/电影,日本当代文学,電影日本文学 ,http://movie.douban.com/subject/1291879/,https://www.facebook.com/events/102668663410211/,25
-14,7/5/2015,Yu Liwei,認識電影，戰後歐美電影流派,路易斯•贾内梯,电影,艺术综述: 战后欧美电影,電影社会思想 ,http://book.douban.com/subject/2326403/,https://www.facebook.com/events/430085660510220/,40+
-15,7/12/2015,Zhu Yuhao,传统十论,秦晖,历史/社会,中国历史： 综述,历史 文化 社会学 ,http://book.douban.com/subject/1076378/,https://www.facebook.com/events/123105834692210/,28
-16,7/19/2015,Andy,三体,刘慈欣,科幻,中国当代文学，科幻, 科幻 ,http://book.douban.com/subject/2567698/,https://www.facebook.com/events/709002629228766/,<50
-17,7/26/2015,刘雁,Fateful Ties: A History of America's Preoccupation with China,Gordon Chang,政治/国际关系,海外中国研究,"历史 社会, 中美关系",http://book.douban.com/subject/26264397/,https://www.facebook.com/events/424933377714086/,40
-18,8/2/2015,Ci Zhang  ,紀錄片總概括  《流浪北京》,吴文光,纪录片,艺术综述:紀錄片,紀錄,http://movie.douban.com/subject/1461188/,https://www.facebook.com/events/1009854215721899/,50
-19,8/9/2015,Rebecca,Wealth and Power,Orville Schell/John Delury,社会/政治,海外中国研究,海外中国研究 历史 中国 政治 ,http://book.douban.com/subject/22796091/,https://www.facebook.com/events/876347262443675/,40
-20,8/16/2015,Tanya,瓦尔登湖,亨利大卫梭罗,散文,随笔，哲学思想,随笔 生活思想 philosophy,http://book.douban.com/subject/3522695/,http://www.valleyrain.org/event/2015/08/16/walden/,25
-21,8/23/2015,Yong,1587: A Year of No Significance,Ray Huang,历史,中国历史：明朝,历史 文化 社会,http://book.douban.com/subject/1858410/,http://www.valleyrain.org/event/2015/08/23/1587/,60
-22,8/30/2015,周大伟,中国大陆法治现状以及若干发展趋势,周大伟,社会/政治,当代中国社会探讨,法治中国,http://book.douban.com/subject/22051540/,http://www.valleyrain.org/event/2015/08/30/details-about-ruling-by-law/,35
-23,9/6/2015,Zhu Lv,伊斯兰艺术,,艺术,艺术综述：伊斯兰,艺术 伊斯兰 历史 绘画 建筑 ,,,
-24,9/13/2015,Zhimin/Yunzhi Gao,正見,宗萨蒋扬钦哲仁波切,佛学,艺术综述：佛学,佛学 宗教 哲学 思想 ,http://book.douban.com/subject/1963912/,,
-25,9/20/2015,郭世佑,近代中国历史研究之难与争吵之易,,历史,中国历史：近代,中国历史,,,
-26,9/27/2015,Li Xiang ,京剧流派艺术赏析,综述,,艺术综述：京剧,"艺术, 京剧",,,
-27,10/4/2015,Qiongying Hu,科幻文学历史及其流派,综述,文学,文学综述：科幻,科幻,,,
-28,10/11/2015,Zhiyong Wang,哥德尔、艾舍尔、巴赫 :GEB集异壁之大成,Douglas Richard Hofstadter,哲学,科普：哲学,科普 哲学 数学 逻辑 人工智能 科学 ,http://book.douban.com/subject/1291204/,,
-29,10/18/2015,Cecil,Go Set a Watchman: A Novel,Harper Lee,小说,外国当代文学,外国文学 小说,http://www.amazon.com/Go-Set-Watchman-A-Novel/dp/0062409859,,
-30,10/25/2015,Zhang Ci ,認識現代舞蹈,,,艺术综述: 现代舞蹈,,,,
-31,11/1/2015,Fengsuo Zhou,"Bonhoeffer: Pastor, Martyr, Prophet, Spy",Eric Metaxas,人物传记,,,,,
-32,11/8/2015,Yoga Yang 杨羽佳,人性的弱點,卡耐基,成功学,Business Success Personal Development,心理学 成功学 励志 ,http://book.douban.com/subject/1056295/,,
-33,11/15/2015,阮大仁,蔣介石日記,,,,,,,
-34,11/22/2015,Tanya,挪威的森林,村上春树,小说,日本当代文学,日本文学,,,
-35,11/29/2015,Kun Han,飞越疯人院,,电影,,,,,
-36,12/6/2015,Tina Sheng,女性话题,,,,,,,
-37,12/13/2015,Yiwei Wang,野生動植物世界相關 ,,生物,,,,,
-38,12/20/2015,Rex,罗马帝国衰亡史,爱德华·吉本,,,,,,
-39,12/27/2015,Christmas Holiday,,,,,,,,
-40,1/3/2016,刘雁,知识分子话题,综述,社会,现代中国探讨,知识分子 文化批评 社会学 人文 哲学 ,,,
-41,1/10/2016,Liz ,Self-Empowerment 101,Rosie E Kuhn,心理學,Business Success Personal Development,"power, success, and failure",,,
-42,1/17/2016,Lena,时间简史,,,科普： 自然科学,科普 自然科学 哲学 ,,,
-43,1/24/2016,,,,,,,,,
-44,1/31/2016,Frank Lin ,易經,,,中国古代哲学,古代 哲学,,,
-45,2/7/2016,Jacky Zhao,我是马拉拉,马拉拉 / 翁雅如、朱浩一,社会,人物传记,励志 人物传记 诺贝尔和平奖 ,http://book.douban.com/subject/26109489/,,
-46,2/14/2016,宋洁,The Practicing Mind,Thomas M. Sterner,心理学,"Business, Success, Personal Development",心理学 自我管理 个人成长 思维 ,http://book.douban.com/subject/6984370/,,
-47,2/21/2016,Tony,人类简史:从动物到上帝,尤瓦尔·赫拉利,人类学,,,,,
-48,2/28/2016,周大伟,北京往事,周大伟,,,,,,
-49,3/6/2016,周大哥朋友,,,,,,,,
-50,3/13/2016,Frank Lin ,孫子兵法 ,孙子,,,,,,
-51,3/20/2016,Ding Yi ,民國憲法/旅行,,,,,,,
-52,3/27/2016,Li Xiang ,新诗,,,,,,,
-53,4/3/2016,國家地理攝影師,國家地理攝影相關,,,,,,,
-54,4/10/2016,Cecil ,情色文學系列,,,,,,,
-55,4/17/2016,Kang Longqi,待定,,,,,,,
-56,4/24/2016,,開放社會及其敵人,卡尔·波普尔,,,,http://book.douban.com/subject/1015748/,,
-57,5/1/2016,,全球通史,,社会,,,,,
-58,5/8/2016,,中國歷代政治得失,钱穆,,,,,,
-59,5/15/2016,Molly Wei,百年孤獨,加西亚·马尔克斯,,,,,,
-60,5/22/2016,Yuan Kun,幕府大將軍,,,,,,,
-61,5/29/2016,陳平,,,,,,,,
-62,6/5/2016,Fei Huang,围城,钱钟书,,中国现代文学,中国现代文学 小说 ,,,
+1,03/29/15,Raymond Tian,Zero to One: Notes on Startups; or How to Build the Future,Peter Thiel/Blake Masters,商业,Business Success Personal Development,心理学 创业 Business ,http://book.douban.com/subject/26297606/,,
+2,04/05/15,Kelly Zhu,陈寅恪《魏晋南北朝史演讲录》,万绳楠,历史,中国历史：魏晋南北朝,历史 魏晋南北朝 思想 ,http://book.douban.com/subject/2032141/,https://www.facebook.com/events/750717495025754/,
+3,04/12/15,Fanglin Lv,Outliers: The Story of Success,Gladwell Malcolm,成功类,Business Success Personal Development,心理学 社会学 社会科学  成功学 ,http://book.douban.com/subject/3134517/,https://www.facebook.com/events/1640192856210614/,
+4,04/19/15,Wenjie Lin,陆犯焉识,严歌苓,小说,中国当代文学,中国现当代文学 小说 ,http://book.douban.com/subject/6880158/,https://www.facebook.com/events/654039874729792/,25
+5,04/26/15,Claire Zhu,旅行的艺术,Alain de Botton,散文,随笔，思想,随笔 生活 散文 旅行 ,http://book.douban.com/subject/1056461/,https://www.facebook.com/events/102973343367558/,40
+6,05/03/15,郭涛,River town: Two Years on the Yangtze,Peter Hessler,纪实文学,随笔，当代中国探讨,随笔 中国 旅行 ,http://book.douban.com/subject/1828090/,https://www.facebook.com/events/363022133904196/,40
+7,05/10/15,Jing Zuo,《文学回忆录》-之希腊罗马神话部分,木心 口述、陈丹青 笔录,笔记,艺术综述: 希腊罗马神话,文学 木心 陈丹青 ,http://book.douban.com/subject/20440644/,https://www.facebook.com/events/588332271270514/,
+8,05/17/15,Weihan Wang,Business Adventures: Twelve Classic Tales from the World of Wall Street ,John Brooks,商业类,Business Success Personal Development,商业 经济 管理 ,http://book.douban.com/subject/25925797/,https://www.facebook.com/events/430113350493650/,60
+9,05/31/15,周锋锁,The Great Dissent: How Oliver Wendell Holmes Changed His Mind and Changed the History of Free Speech in America,Thomas Healy,政治类,社会科学，法律,社會思想 传记 法律 ,http://book.douban.com/subject/20018499/,https://www.facebook.com/events/1590241204559303/,
+10,06/07/15,Winston Wu,Guns Germs and Steel,Jared M. Diamond,人类学,社会科学，人类社会发展,人类学 社会学 生物地理学 ,http://book.douban.com/subject/1813841/,https://www.facebook.com/events/600966463379235/,
+11,06/14/15,Rex Zhen,新教伦理与资本主义精神,马克斯·韦伯,社会学,社会科学,社会学 資本主義 思想 ,http://book.douban.com/subject/1433411/,https://www.facebook.com/events/1168850036474247/,25
+12,06/21/15,Peng Liang,浪潮之巅,吴军,创业,Business Success Personal Development,互联网 商业 ,http://book.douban.com/subject/6709783/,https://www.facebook.com/events/1603487263255869/,50
+13,06/28/15,Kun Han,筱竹林中/罗生门,芥川龙之芥／黑泽明,小说/电影,日本当代文学,電影日本文学 ,http://movie.douban.com/subject/1291879/,https://www.facebook.com/events/102668663410211/,25
+14,07/05/15,Yu Liwei,認識電影，戰後歐美電影流派,路易斯•贾内梯,电影,艺术综述: 战后欧美电影,電影社会思想 ,http://book.douban.com/subject/2326403/,https://www.facebook.com/events/430085660510220/,40+
+15,07/12/15,Zhu Yuhao,传统十论,秦晖,历史/社会,中国历史： 综述,历史 文化 社会学 ,http://book.douban.com/subject/1076378/,https://www.facebook.com/events/123105834692210/,28
+16,07/19/15,Andy,三体,刘慈欣,科幻,中国当代文学，科幻, 科幻 ,http://book.douban.com/subject/2567698/,https://www.facebook.com/events/709002629228766/,<50
+17,07/26/15,刘雁,Fateful Ties: A History of America's Preoccupation with China,Gordon Chang,政治/国际关系,海外中国研究,"历史 社会, 中美关系",http://book.douban.com/subject/26264397/,https://www.facebook.com/events/424933377714086/,40
+18,08/02/15,Ci Zhang  ,紀錄片總概括  《流浪北京》,吴文光,纪录片,艺术综述:紀錄片,紀錄,http://movie.douban.com/subject/1461188/,https://www.facebook.com/events/1009854215721899/,50
+19,08/09/15,Rebecca,Wealth and Power,Orville Schell/John Delury,社会/政治,海外中国研究,海外中国研究 历史 中国 政治 ,http://book.douban.com/subject/22796091/,https://www.facebook.com/events/876347262443675/,40
+20,08/16/15,Tanya,瓦尔登湖,亨利大卫梭罗,散文,随笔，哲学思想,随笔 生活思想 philosophy,http://book.douban.com/subject/3522695/,http://www.valleyrain.org/event/2015/08/16/walden/,25
+21,08/23/15,Yong,1587: A Year of No Significance,Ray Huang,历史,中国历史：明朝,历史 文化 社会,http://book.douban.com/subject/1858410/,http://www.valleyrain.org/event/2015/08/23/1587/,60
+22,08/30/15,周大伟,中国大陆法治现状以及若干发展趋势,周大伟,社会/政治,当代中国社会探讨,法治中国,http://book.douban.com/subject/22051540/,http://www.valleyrain.org/event/2015/08/30/details-about-ruling-by-law/,35
+23,09/06/15,Zhu Lv,伊斯兰艺术,,艺术,艺术综述：伊斯兰,艺术 伊斯兰 历史 绘画 建筑 ,,,
+24,09/13/15,Zhimin/Yunzhi Gao,正見,宗萨蒋扬钦哲仁波切,佛学,艺术综述：佛学,佛学 宗教 哲学 思想 ,http://book.douban.com/subject/1963912/,,
+25,09/20/15,郭世佑,近代中国历史研究之难与争吵之易,,历史,中国历史：近代,中国历史,,,
+26,09/27/15,Li Xiang ,京剧流派艺术赏析,综述,,艺术综述：京剧,"艺术, 京剧",,,
+27,10/04/15,Qiongying Hu,科幻文学历史及其流派,综述,文学,文学综述：科幻,科幻,,,
+28,10/11/15,Zhiyong Wang,哥德尔、艾舍尔、巴赫 :GEB集异壁之大成,Douglas Richard Hofstadter,哲学,科普：哲学,科普 哲学 数学 逻辑 人工智能 科学 ,http://book.douban.com/subject/1291204/,,
+29,10/18/15,Cecil,Go Set a Watchman: A Novel,Harper Lee,小说,外国当代文学,外国文学 小说,http://www.amazon.com/Go-Set-Watchman-A-Novel/dp/0062409859,,
+30,10/25/15,Zhang Ci ,認識現代舞蹈,,,艺术综述: 现代舞蹈,,,,
+31,11/01/15,Fengsuo Zhou,"Bonhoeffer: Pastor, Martyr, Prophet, Spy",Eric Metaxas,人物传记,,,,,
+32,11/08/15,Yoga Yang 杨羽佳,人性的弱點,卡耐基,成功学,Business Success Personal Development,心理学 成功学 励志 ,http://book.douban.com/subject/1056295/,,
+33,11/15/15,阮大仁,蔣介石日記,,,,,,,
+34,11/22/15,Tanya,挪威的森林,村上春树,小说,日本当代文学,日本文学,,,
+35,11/29/15,Kun Han,飞越疯人院,,电影,,,,,
+36,12/06/15,Yiwei Wang,湾区美洲狮的幸福生活,,生物,,,,,
+37,12/13/15,Ding Yi,旅行的三种境界,Ding Yi,,,,,,, 
+38,12/20/15,嵇义达,从《论语》看孔子的人生哲学与教育理念,孔子,国学,,,,,
+39,12/27/15,Christmas Holiday,,,,,,,,
+40,01/03/16,Rex,罗马帝国衰亡史,爱德华·吉本,,,,,,

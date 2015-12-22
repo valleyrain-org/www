@@ -16,6 +16,7 @@ permalink: /event/
                                 <th> 日期 </th>
                                 <th> 主讲人 </th>
                                 <th> 书名 </th>
+                                <th> 链接 </th>
                                 <th> 作者 </th>
                                 <th> 类别 </th>
                             </tr>
@@ -28,6 +29,16 @@ permalink: /event/
                                 <td> {{ book.date }} </td>
                                 <td> {{ book.speaker }} </td>
                                 <td> {{ book.bookname }} </td>
+
+{% for post in site.categories.event reversed %}
+     {% capture bookdate %}{{book.date }}{% endcapture %}
+     {% capture posttime %}{{post.date | date: '%D' }}{% endcapture %}
+
+     {% if posttime == bookdate %}
+           <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+     {% endif %}
+{% endfor %}
+
                                 <td> {{ book.author }} </td>
                                 <td> {{ book.category }} </td>
                             </tr>

@@ -5,6 +5,7 @@ title: "活动回顾"
 description: "过往活动回顾"
 ---
 
+<h3 class="section-heading text-center">往期活动回顾</a></h3>
 <div class="tiles">
 {% for post in site.categories.event %}
      {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
@@ -17,3 +18,11 @@ description: "过往活动回顾"
      {% endif %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+<h3 class="section-heading text-center">过往笔记</a></h3>
+<div class="tiles">
+{% for post in site.categories.notes %} 
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <div class="title-desc">{{ post.description }}</div>
+{% endfor %}
+
