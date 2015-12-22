@@ -28,7 +28,7 @@ header-img: http://discovermagazine.com/bonus/~/media/images/Bonus/Zhang/_WT2066
 ## 相关资料
 
 - 豆瓣电影: <https://movie.douban.com/subject/26314915/>
-- 纽约时报采访: [美的追求](http://select.yeeyan.org/view/235677/444030)
+- 纽约时报采访: [美的追求](http://select.yeeyan.org/view/235677/444030) - [The Pursuit of Beauty](http://www.newyorker.com/magazine/2015/02/02/pursuit-beauty)
 - 果壳介绍: [孪生素数猜想，张益唐究竟做了一个什么研究？](http://www.guokr.com/article/437023/)
 - discovermagazine: [Prime Solver](http://discovermagazine.com/bonus/prime-solver)
 
