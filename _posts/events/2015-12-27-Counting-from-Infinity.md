@@ -3,7 +3,7 @@ layout: post
 title: "第三十九期-纪录片《大海捞针: 张益唐与孪生素数猜想》- Tao Guo"
 category: event
 description: 张益唐与孪生素数猜想的纪录片
-header-img: http://static.nautil.us/1279_995665640dc319973d3173a74a03860c.png
+header-img: http://discovermagazine.com/bonus/~/media/images/Bonus/Zhang/_WT20665.jpg
 ---
 
 ## 报名链接
@@ -39,6 +39,7 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 - 豆瓣电影: <https://movie.douban.com/subject/26314915/>
 - 纽约时报采访: [美的追求](http://select.yeeyan.org/view/235677/444030)
 - 果壳介绍: [孪生素数猜想，张益唐究竟做了一个什么研究？](http://www.guokr.com/article/437023/)
+- discovermagazine: [Prime Solver](http://discovermagazine.com/bonus/prime-solver)
 
 ## 场地介绍：
 
