@@ -6,19 +6,9 @@ description: 从《论语》看孔子的人生哲学与教育理念
 published: True
 header-img: img/2015-12-20/confucian.jpg
 ---
+## 分享音频 
 
-## 报名链接
-
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20009981393&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
-
-## 时间和地址
-
-12月20日，周日下午4:00pm - 7:00pm  
-4th Floor, 3777 Stevens Creek Blvd  
-Santa Clara, CA 95051
-
-<iframe width="100%" height="180" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dSjodZrWlqA" frameborder="0" allowfullscreen></iframe>
 
 ## 分享人: 嵇义达
 
@@ -36,3 +26,15 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 
 硅谷亚洲艺术中心（Silicon Valley Asian Art Center & Narx Gallery），4500平方英尺展厅，平均每月2场艺展，举办中国绘画、书法、雕刻展览和艺术演讲，演奏活动。
 
+## 报名链接
+
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20009981393&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+## 时间和地址
+
+12月20日，周日下午4:00pm - 7:00pm  
+4th Floor, 3777 Stevens Creek Blvd  
+Santa Clara, CA 95051
+
+<iframe width="100%" height="180" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
