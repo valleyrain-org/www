@@ -2,7 +2,6 @@ body {
   font-family: $base-font-family;
   font-size: 16px;
   color: $text-color;
-  webkit-tap-highlight-color: #0085a1;
 }
 
 /* https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
@@ -23,7 +22,6 @@ body {
   -moz-hyphens: auto;
   -webkit-hyphens: auto;
   hyphens: auto;
-
 }
 
 p {
@@ -47,11 +45,8 @@ a {
   color: $text-color;
 }
 
-a:hover,
-a:focus,
-.post-main a {
+a:hover, a:focus, .post-main a {
   color: #0085a1;
-  text-decoration: underline;
 }
 
 hr.small {
