@@ -1,7 +1,8 @@
 body {
   font-family: $base-font-family;
-  font-size: 16px;
+  font-size: $base-font-size;
   color: $text-color;
+  line-height: $base-line-height;
 }
 
 /* https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
@@ -24,11 +25,6 @@ body {
   hyphens: auto;
 }
 
-p {
-  line-height: 1.5;
-  margin: 30px 0 40px;
-}
-
 h1 {
   font-weight: 500;
   font-family: $base-font-family;
@@ -38,7 +34,7 @@ h1 {
 h2, h3, h4, h5, h6 {
   font-weight: bold;
   font-family: $base-font-family;
-  margin-bottom:25px;
+  margin-bottom:15px;
 }
 
 a {
