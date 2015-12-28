@@ -4,9 +4,16 @@
     {% assign location = '/la' %}
     {% assign la_nav = 'navbar-current-site' %}
     {% assign main_nav = 'navbar-other-site' %}
+    {% assign beijing_nav = 'navbar-other-site' %}
+{% elsif page.url contains '/beijing/' %}
+    {% assign location = '/beijing' %}
+    {% assign beijing_nav = 'navbar-current-site' %}
+    {% assign main_nav = 'navbar-other-site' %}
+    {% assign la_nav = 'navbar-other-site' %}
 {% else %}
     {% assign main_nav = 'navbar-current-site' %}
     {% assign la_nav = 'navbar-other-site' %}
+    {% assign beijing_nav = 'navbar-other-site' %}
 {% endif %}
 
 <nav class="uk-navbar navbar-custom uk-width-1-1">
@@ -14,6 +21,7 @@
     <ul class="uk-navbar-nav uk-hidden-small">
       <li><a class="navbar-brand {{ main_nav }}" href="{{ "/" | prepend: site.baseurl | prepend: site.url }}">{{ site.title }}</a></li>
         <li><a class="navbar-brand {{ la_nav }}" href="{{ "/la" | prepend: site.baseurl | prepend: site.url }}">LA分部</a></li>
+        <li><a class="navbar-brand {{ beijing_nav }}" href="{{ "/beijing" | prepend: site.baseurl | prepend: site.url }}">北京分部</a></li>
     </ul>
 
     <div class="uk-navbar-flip uk-hidden-small nav">
@@ -35,6 +43,7 @@
                 <li><a href="{{ dale.href | prepend: location | prepend: site.baseurl | prepend: site.url }}">{{ dale.title }}</a></li>
             {% endfor %}
                 <li><a href="{{ "/la" | prepend: site.baseurl | prepend: site.url }}">LA分部</a></li>
+                <li><a href="{{ "/beijing" | prepend: site.baseurl | prepend: site.url }}">北京分部</a></li>
         </ul>
     </div>
 </div>
