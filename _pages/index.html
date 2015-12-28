@@ -28,7 +28,6 @@ description: "欢迎来到谷雨书苑"
 
         	{% if postyear > nowyear %} 
         	{% capture posttime %}{{ posttime | plus:'365'}}{% endcapture %}
-        	{{posttime}}
         	{% endif %}
         	
         	{% if posttime >= nowunix %}
@@ -51,10 +50,17 @@ description: "欢迎来到谷雨书苑"
                 <h3 class="service-heading uk-text-center"><a href="events/past">往期活动...</a></h3>
 	        <div class="tiles">
 
-	        {% for post in site.categories.event limit:1 %} 
+	        {% for post in site.categories.event limit:2 %} 
 	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
 	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
 
+	        {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+	        {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+
+        	{% if postyear > nowyear %} 
+        	{% capture posttime %}{{ posttime | plus:'365'}}{% endcapture %}
+        	{% endif %}
+ 
                 {% if posttime < nowunix %}
 
                	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
