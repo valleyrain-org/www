@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第四十期-《罗马帝国兴衰史》- Rex Zhen"
+title: "第四十期-《罗马帝国衰亡史》- Rex Zhen"
 category: event
 description: 《罗马帝国衰亡史》（The History of the Decline and Fall of the Roman Empire）是英国历史学家爱德华·吉本的一部巨著，被认为是第一部“现代”历史著作，共有六卷，分期出版。第一卷出版於1776年，第二、三卷出版於1781年，第四、五、六卷出版於1788年。包括罗马帝国的全部历史
 header-img: img/2016-01-03/roman.jpg
@@ -8,7 +8,7 @@ header-img: img/2016-01-03/roman.jpg
 
 ## 报名链接
 
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20235770735&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 分享人：Rex Zhen
 
@@ -16,7 +16,7 @@ header-img: img/2016-01-03/roman.jpg
 
 ## 分享内容
 
-### 罗马帝国兴衰史 
+### 罗马帝国衰亡史 
 
 《罗马帝国衰亡史》以堂皇宏阔的篇幅，叙述了罗马帝国从公元2世纪安东尼时代的赫赫盛极，到l453年君士坦丁熙陷落时黯然谢幕的l300多年的历史风貌。作者在近400万的洋洋文字中，既发怀古之幽思，悲怆叹惋千年帝国的无奈衰颓乃至烟灭；又阐思辨之深彻，诠释剖析盛衰兴替的永恒历史命题。
 
