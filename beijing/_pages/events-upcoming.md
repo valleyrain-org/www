@@ -3,6 +3,7 @@ layout: page
 permalink: /beijing/events/upcoming/
 title: "活动预告"
 description: "近期活动预告"
+header-img: img/beijing-beihai-park.jpg
 ---
 
 <div class="tiles">

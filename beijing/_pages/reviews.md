@@ -3,6 +3,7 @@ layout: page
 title: "影评书评"
 permalink: /beijing/reviews/
 description: "网友影评书评"
+header-img: img/beijing-beihai-park.jpg
 ---
 
 

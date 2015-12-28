@@ -3,6 +3,7 @@ layout: page
 permalink: /beijing/
 title: "北京分部活动"
 description: "谷雨书苑北京分部活动页面"
+header-img: img/beijing-beihai-park.jpg
 ---
 
 <div class="tiles">

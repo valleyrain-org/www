@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "谷雨动态"
-permalink: /news/
+permalink: /beijing/news/
 description: "有关于谷雨书苑的新闻动态"
+header-img: img/beijing-beihai-park.jpg
 ---
 
 

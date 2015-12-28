@@ -3,6 +3,7 @@ layout: page
 title: "网友原创"
 permalink: /beijing/works/
 description: "网友原创作品"
+header-img: img/beijing-beihai-park.jpg
 ---
 
 

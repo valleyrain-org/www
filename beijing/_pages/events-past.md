@@ -3,6 +3,7 @@ layout: page
 permalink: /beijing/events/past/
 title: "活动回顾"
 description: "过往活动回顾"
+header-img: img/beijing-beihai-park.jpg
 ---
 
 <div class="tiles">
