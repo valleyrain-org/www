@@ -10,17 +10,21 @@ header-img: img/2016-01-03/roman.jpg
 
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20235770735&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
-## 分享人：Rex Zhen
-
-从事过很多不同的工作，锻工，报关员，画廊老板，出租车司机。目前身份是湾区IT男。以后也很难说。爱好很多，但没突出的。
-
-## 分享内容
-
-### 罗马帝国衰亡史 
+## 分享内容：罗马帝国衰亡史 
 
 《罗马帝国衰亡史》以堂皇宏阔的篇幅，叙述了罗马帝国从公元2世纪安东尼时代的赫赫盛极，到l453年君士坦丁熙陷落时黯然谢幕的l300多年的历史风貌。作者在近400万的洋洋文字中，既发怀古之幽思，悲怆叹惋千年帝国的无奈衰颓乃至烟灭；又阐思辨之深彻，诠释剖析盛衰兴替的永恒历史命题。
 
 《罗马帝国衰亡史》出版后传诵两百年迄今不衰，其文学光彩与史学成就同样为后人称颂。
+
+
+### Agenda
+
+- 古罗马时期的民族迁徙和融合。
+- 早期基督教和古罗马的关系。
+- 古罗马政体的变迁。
+- 中西古代历史进程的对比＋讨论
+- 古罗马衰亡原因的各种版本＋讨论。
+- 个别章节介绍＋讨论。
 
 ### 作者介绍
 
@@ -41,5 +45,4 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 ## 场地介绍：
 
 硅谷亚洲艺术中心（Silicon Valley Asian Art Center & Narx Gallery），4500平方英尺展厅，平均每月2场艺展，举办中国绘画、书法、雕刻展览和艺术演讲，演奏活动。
-
 
