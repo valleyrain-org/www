@@ -10,6 +10,9 @@ header-img: img/2016-01-03/roman.jpg
 
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20235770735&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
+## 分享人：Rex Zhen
+在湾区从事IT行业。主讲过第十一期读书分享《新教伦理与资本主义精神》。
+
 ## 分享内容：罗马帝国衰亡史 
 
 《罗马帝国衰亡史》以堂皇宏阔的篇幅，叙述了罗马帝国从公元2世纪安东尼时代的赫赫盛极，到l453年君士坦丁熙陷落时黯然谢幕的l300多年的历史风貌。作者在近400万的洋洋文字中，既发怀古之幽思，悲怆叹惋千年帝国的无奈衰颓乃至烟灭；又阐思辨之深彻，诠释剖析盛衰兴替的永恒历史命题。
