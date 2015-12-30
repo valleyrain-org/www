@@ -29,9 +29,6 @@ h1, .site-heading h2 {
   font-weight: 500;
   font-family: $base-font-family;
   margin-bottom:25px;
-  font-size: 80px;
-  color: #FFF;
-  line-height: 42px;
 }
 
 h2, h3, h4, h5, h6 {
@@ -42,6 +39,11 @@ h2, h3, h4, h5, h6 {
 
 .site-heading h1 {
   display: none;
+}
+
+.site-heading h2 {
+  font-size: 80px;
+  color: #FFF;
 }
 
 a {
@@ -245,7 +247,7 @@ section {
 }
 .section-heading {
   font-size: 36px;
-  margin-top: 60px;
+  margin-bottom: 45px;
   font-weight: 700;
 }
 .caption {
