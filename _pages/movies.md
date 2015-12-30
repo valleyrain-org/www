@@ -2,7 +2,7 @@
 layout: page
 title: "影评 - 旧金山湾区硅谷华人读书会"
 permalink: /movies/
-description: "网友影评"
+description: "书友影评"
 ---
 
 

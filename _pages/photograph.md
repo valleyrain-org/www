@@ -2,7 +2,7 @@
 layout: page
 title: "摄影作品 - 旧金山湾区硅谷华人读书会"
 permalink: /photograph/
-description: "网友分享摄影作品"
+description: "书友分享摄影作品"
 ---
 
 <h3 class="section-heading text-center">摄影作品</h3>
