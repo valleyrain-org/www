@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: "关于我们-谷雨书苑-旧金山湾区华人读书会"
+title: "关于我们-旧金山湾区华人读书会"
 description: "关于我们团队的名称由来，宗旨和任务"
 header-img: "img/logo.jpg"
 ---
