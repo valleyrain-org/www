@@ -2,7 +2,7 @@
 layout: page
 title: "诗歌 - 旧金山湾区硅谷华人读书会"
 permalink: /poems/
-description: "书友原创诗歌"
+description: "书友原创或朗诵诗歌"
 ---
 
 
