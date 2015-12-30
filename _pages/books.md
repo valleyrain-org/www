@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "书籍影视推荐-谷雨书苑-硅谷读书会"
+title: "书评- 旧金山湾区硅谷华人读书会"
 permalink: /books/
-description: "硅谷读书会谷雨书苑为你推荐书籍以及影视作品，附书评和影评"
+description: "书友书籍推荐及评论"
 ---
 
 <h3 class="section-heading text-center">书评</a></h3>

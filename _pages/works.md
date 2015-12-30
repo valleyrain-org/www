@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "网友原创"
+title: "书友原创 - 旧金山湾区硅谷华人读书会"
 permalink: /works/
-description: "网友原创作品"
+description: "书友原创作品"
 ---
 
 

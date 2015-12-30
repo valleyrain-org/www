@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "摄影作品"
+title: "摄影作品 - 旧金山湾区硅谷华人读书会"
 permalink: /photograph/
 description: "网友分享摄影作品"
 ---

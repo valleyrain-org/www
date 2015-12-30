@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /events/upcoming/
-title: "硅谷读书会活动预告-谷雨书苑"
-description: "硅谷近期活动预告"
+title: "活动预告 - 旧金山湾区硅谷华人读书会"
+description: "近期活动预告"
 ---
 
 <div class="tiles">

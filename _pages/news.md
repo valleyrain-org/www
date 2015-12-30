@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "谷雨动态"
+title: "谷雨动态 - 旧金山湾区硅谷华人读书会"
 permalink: /news/
 description: "有关于谷雨书苑的新闻动态"
 ---

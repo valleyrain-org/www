@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /events/past/
-title: "旧金山湾区读书会活动回顾-谷雨书苑"
-description: "旧金山湾区读书会过往活动回顾"
+title: "活动回顾 - 旧金山湾区硅谷华人读书会"
+description: "读书会过往活动回顾"
 ---
 
 <h3 class="section-heading text-center">往期活动回顾</a></h3>

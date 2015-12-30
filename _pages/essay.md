@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "散文随笔"
+title: "散文随笔 - 旧金山湾区硅谷华人读书会"
 permalink: /essay/
-description: "网友原创散文随笔"
+description: "书友原创散文随笔"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /rules/
-title: 谷雨书苑微信群规
+title: "谷雨书苑微信群规 - 旧金山湾区硅谷华人读书会"
 description: 关于谷雨书苑微信群的管理规则
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "小说"
+title: "小说 - 旧金山湾区硅谷华人读书会"
 permalink: /novels/
 description: "网友原创小说"
 ---

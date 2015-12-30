@@ -1,6 +1,6 @@
 ---
 layout: home
-description: "硅谷读书会活动列表"
+description: "活动列表 - 旧金山湾区硅谷华人读书会"
 permalink: /event/
 ---
 

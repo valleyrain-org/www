@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "诗歌"
+title: "诗歌 - 旧金山湾区硅谷华人读书会"
 permalink: /poems/
 description: "网友原创诗歌"
 ---
