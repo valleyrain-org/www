@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/
-title: "关于我们 - 旧金山湾区华人读书会"
-description: "关于我们团队的名称由来，宗旨和任务"
+title: "关于我们 - 旧金山硅谷华人读书会"
+description: "谷雨书苑是一个立足于美国旧金山硅谷地区，由一群热爱读书的青年人自发组成的，面向广大华人社区的非营利读书分享团体。"
 header-img: "img/logo.jpg"
 ---
 
