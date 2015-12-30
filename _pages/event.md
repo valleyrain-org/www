@@ -1,6 +1,6 @@
 ---
 layout: home
-description: "读书活动列表"
+description: "硅谷读书会活动列表"
 permalink: /event/
 ---
 
