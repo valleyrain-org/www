@@ -1,6 +1,6 @@
 ---
 layout: home
-description: "旧金山湾区硅谷华人读书会 - 谷雨书苑 - 活动列表"
+description: "谷雨书苑 - 活动列表"
 permalink: /event/
 ---
 
