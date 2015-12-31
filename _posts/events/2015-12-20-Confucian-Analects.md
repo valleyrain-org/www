@@ -6,9 +6,9 @@ description: 从《论语》看孔子的人生哲学与教育理念
 published: True
 header-img: img/2015-12-20/confucian.jpg
 ---
-## 分享音频 
+## 分享视频 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/dSjodZrWlqA" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXL0DVjqLkHjrgHqnHwEf6gi" frameborder="0" allowfullscreen></iframe>
 
 ## 分享人: 嵇义达
 

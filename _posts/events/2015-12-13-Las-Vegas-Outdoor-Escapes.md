@@ -7,6 +7,10 @@ published: True
 header-img: http://www.sceniclasvegas.com/Red_Rock-04b.jpg
 ---
 
+## 分享视频
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXJeLdbzF6SFSQM3xTApfGtm" frameborder="0" allowfullscreen></iframe>
+
 ## 报名链接
 
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19892207127&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
