@@ -21,7 +21,7 @@ description: "欢迎来到谷雨书苑"
                 <h3 class="service-heading uk-text-center"><a href="events/upcoming">活动预告...</a></h3>
 	        <div class="tiles">
 
-	        {% for post in site.categories.event reversed limit:1 %} 
+	        {% for post in site.categories.event reversed limit:2 %} 
 	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
 	        {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
 	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
@@ -51,7 +51,7 @@ description: "欢迎来到谷雨书苑"
                 <h3 class="service-heading uk-text-center"><a href="events/past">往期活动...</a></h3>
 	        <div class="tiles">
 
-	        {% for post in site.categories.event limit:2 %} 
+	        {% for post in site.categories.event limit:4 %} 
 	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
 	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
 
@@ -84,7 +84,7 @@ description: "欢迎来到谷雨书苑"
                 <h3 class="service-heading uk-text-center"><a href="news">谷雨动态...</a></h3>
 	        <div class="tiles">
 
-                {% for post in site.categories.news limit:1 %} 
+                {% for post in site.categories.news limit:2 %} 
                	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
                 <a class="uk-thumbnail" href="{{ post.url }}">
                 <img src="{{post.header-img}}" alt="img/guyu.jpg">
