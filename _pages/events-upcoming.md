@@ -17,6 +17,10 @@ description: "近期活动预告"
   	   {% capture posttime %}{{ posttime | plus:'365'}}{% endcapture %}
         {% endif %}
 
+        {% if postyear < nowyear %} 
+           {% capture posttime %}{{ posttime | minus:'365'}}{% endcapture %}
+        {% endif %}
+
         {% if posttime >= nowunix %}
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="title-desc"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
