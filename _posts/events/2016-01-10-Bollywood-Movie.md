@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "第四十期-《罗马帝国衰亡史》- Rex Zhen"
+title: "第四十一期-《宝莱坞电影》-by Bhanu Pratap Singh"
 category: event
-description: 《罗马帝国衰亡史》（The History of the Decline and Fall of the Roman Empire）是英国历史学家爱德华·吉本的一部巨著，被认为是第一部“现代”历史著作，共有六卷，分期出版。第一卷出版於1776年，第二、三卷出版於1781年，第四、五、六卷出版於1788年。包括罗马帝国的全部历史
+description: 宝莱坞电影（Bollywood Movie）Our speaker Bhanu Pratap Singh has been with the Indian film industry for 9 years. He will talk about the topic of process of making a movie, bollywood movie history and some of the big hollywood movie
 header-img: img/2016-01-03/roman.jpg
 ---
 
