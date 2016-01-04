@@ -18,7 +18,7 @@ Our speaker Bhanu Pratap Singh has been with the Indian film industry for 9 year
 常看电影的你，是否知道一部电影是如何制成的？
 常去电影院的你，是否曾经关注过印度宝莱坞电影？
 
-下一期读书会，Mr. Singh 带你了解电影，走近宝莱坞电影.
+Mr. Singh 带你了解电影，走近宝莱坞电影.
  
 ### Agenda
 
