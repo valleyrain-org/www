@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "第四十一期-《宝莱坞电影》-by Bhanu Pratap Singh"
+title: 第四十一期-《宝莱坞电影》-by Bhanu Pratap Singh
 category: event
 description: 宝莱坞电影（Bollywood Movie）Our speaker Bhanu Pratap Singh has been with the Indian film industry for 9 years. He will talk about the topic of process of making a movie, bollywood movie history and some of the big hollywood movie
-header-img: img/2016-01-03/roman.jpg
+header-img: img/2016-01-10/bollywood.jpg
 ---
 ## 报名链接
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20410540476&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
