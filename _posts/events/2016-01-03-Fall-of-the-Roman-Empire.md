@@ -6,9 +6,9 @@ description: 《罗马帝国衰亡史》（The History of the Decline and Fall o
 header-img: img/2016-01-03/roman.jpg
 ---
 
-## 报名链接
+## 分享视频链接
 
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20235770735&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<iframe width="100" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXJMPe3VK-0idsHE7PS9Jv-3" frameborder="0" allowfullscreen></iframe>
 
 ## 分享人：Rex Zhen
 在湾区从事IT行业。主讲过第十一期读书分享《新教伦理与资本主义精神》。
@@ -34,6 +34,10 @@ header-img: img/2016-01-03/roman.jpg
 爱德华·吉本(Edward Gibbon 1737年5月8日 - 1794年1月16日) 是英国著名历史学家，《罗马帝国衰亡史》的作者。
 
 吉本出生于伦敦附近的普特尼，父亲是国会议员，他是家中独子。1763年，他前往欧洲大陆旅游，在巴黎结识了狄德罗，也去了罗马，1764年他在罗马废墟上，开始有写作罗马帝国史的念头。1772年，他开始写作《罗马帝国衰亡史》。1776年，第一卷出版。取得了巨大的成功，其受欢迎程度用洛阳纸贵形容不为过，他的书出现每张桌子上，乃至于上流社会仕女的妆台。吉本也一夜成名，受到英国艺文界的追捧。1788年，他完成了《罗马帝国衰亡史》的全部书稿，盛誉满天下。1794年，他在伦敦去世。
+
+## 报名链接
+
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20235770735&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址
 
