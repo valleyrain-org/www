@@ -8,7 +8,7 @@ header-img: img/2016-01-03/roman.jpg
 
 ## 分享视频链接
 
-<iframe width="100" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXJMPe3VK-0idsHE7PS9Jv-3" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXJMPe3VK-0idsHE7PS9Jv-3" frameborder="0" allowfullscreen></iframe>
 
 ## 分享人：Rex Zhen
 在湾区从事IT行业。主讲过第十一期读书分享《新教伦理与资本主义精神》。
