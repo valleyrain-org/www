@@ -5,15 +5,6 @@ category: event
 description: 《霍乱时期的爱情》是加西亚•马尔克斯获得诺贝尔文学奖之后完成的第一部小说。讲述了一段跨越半个多世纪的爱情史诗，穷尽了所有爱情的可能性：忠贞的、隐秘的、粗暴的、羞怯的、柏拉图式的、放荡的、转瞬即逝的、生死相依的……再现了时光的无情流逝，被誉为“人类有史以来最伟大的爱情小说”，是20世纪最重要的经典文学巨著之一。
 header-img: img/2016-02-21/love-cholera.jpg
 ---
-## 报名链接
-
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20498559744&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
-
-## 时间和地址
-
-暂定2月21日，周日下午4:00pm - 6:00pm
-4th Floor, 3777 Stevens Creek Blvd
-Santa Clara, CA 95051
 
 ## 精读活动内容与要求
 
@@ -32,6 +23,19 @@ Santa Clara, CA 95051
 **精读形式**：本次精读为小说，我们将在微信群中就小说故事发展，人物性格，书中经典语句进行讨论。每周的讨论话题可以由参与者自由发挥，也可以由一名导读人负责准备。如有参与者志愿作为导读人，请和我们联系。
 
 **实体分享会**（谷雨书苑活动，暂定2月21日）：主分享人（或导读人）将用30-45分钟的时间对本书进行简要分析。然后现场采用table topics 的方式，由参与者随机抽取话题，发表感想，不超过5分钟。最后由分享人就整个阅读过程中大家的讨论进行总结，大家分组发散性讨论，由代表发言总结。
+
+## 报名链接
+
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20498559744&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+## 时间和地址
+
+暂定2月21日，周日下午4:00pm - 6:00pm
+4th Floor, 3777 Stevens Creek Blvd
+Santa Clara, CA 95051
+
+<iframe width="100%" height="180" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
 
 ## 书目介绍：霍乱时期的爱情
 
