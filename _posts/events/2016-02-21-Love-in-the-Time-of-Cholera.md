@@ -44,7 +44,7 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 
 ### 版本推荐
 
-中文纸版书：南海出版社，杨玲译本，共计401页：http://book.douban.com/subject/10594787/
+中文纸版书：南海出版社，杨玲译本，共计401页：[豆瓣链接](http://book.douban.com/subject/10594787/)
 
 中文电子书：目前未发现官方电子书，但是网上有大量版权未知的电子书，请网友自行下载
 
@@ -56,9 +56,9 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 加西亚•马尔克斯（Gabriel García Márquez）
 1927年出生于哥伦比亚马格达莱纳海滨小镇阿拉卡塔卡。童年与外祖父母一起生活。1936年随父母迁居苏克雷。1947年考入波哥大国立大学。1948年因内战辍学，进入报界。五十年代开始出版文学作品。六十年代初移居墨西哥。1967年《百年孤独》问世。1982年获诺贝尔文学奖。1985年出版《霍乱时期的爱情》。
 
-加西亚•马尔克斯豆瓣小站：<http://site.douban.com/marquez/>
+加西亚•马尔克斯豆瓣小站：*<http://site.douban.com/marquez/>*
 
-维基百科主页：<https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez>
+维基百科主页：*<https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez>*
 
 
 ### 其他资料
