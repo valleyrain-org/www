@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第三十一期读书分享会（分享题目《潘霍华：牧师，殉道者，先知，谍报员》by Fengsuo Zhou
+title: 谷雨书苑第三十一期读书分享会（分享题目《潘霍华：牧师，殉道者，先知，谍报员》by Fengsuo Zhou
 category: event
 description: 通过Bonhoeffer牧师的一生经历，回顾希特勒统治下的德国和人道主义精神。
 published: true
@@ -39,7 +39,7 @@ header-img: http://www.christianitytoday.com/images/39442.jpg?w=620
 
 ## Kelly诗歌朗诵
 
-### Wild nights - Wild nights! by Emily Dickinson  
+### Wild nights - Wild nights! by Emily Dickinson
 
   <audio controls="controls">
      <source src="{{site.www-data-url}}/audio/2015-11-01-kelly-poem.mp3" type="audio/mpeg">
@@ -58,7 +58,7 @@ Done with the Chart!
 Rowing in Eden -
 Ah - the Sea!
 Might I but moor - tonight -
-In thee! 
+In thee!
 </pre>
 
 ## 分享人：周锋锁
@@ -142,8 +142,8 @@ In thee!
 
 ## 时间和地址
 
-11月1日，周日晚5:00pm - 8:00pm  
-@4th Floor, 3777 Stevens Creek Blvd  
+11月1日，周日晚5:00pm - 8:00pm
+@4th Floor, 3777 Stevens Creek Blvd
 Santa Clara, CA 95051
 
 <iframe width="100%" height="180" frameborder="0" style="border:0"

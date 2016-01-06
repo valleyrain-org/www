@@ -1,11 +1,11 @@
 ---
 layout:    post
-title:     第十八期读书分享会（纪录片概括暨《流浪北京》）by 张慈 
-category: event 
+title:     谷雨书苑第十八期读书分享会（纪录片概括暨《流浪北京》）by 张慈
+category: event
 description:  被称作中国第一部纪录片的该片围绕一群1980年代末、1990年代初的“北漂族”（当时被称作“盲流”）展开，这群人中有作家有画家也有导演，尽管各有离开生活多年的家乡的原因，他们来到北京却都是为了追求更为纯粹的艺术理想，然而，他们迎上的更多是尴尬的现实，表面上他们都很乐观，那是因为他们不愿告诉别人难以承受的生命之重。
 header-img: "img/beijing.jpg"
 ---
-## 分享视频 
+## 分享视频
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXJFOVnjBSy4L2pvKfBfek0n" frameborder="0" allowfullscreen></iframe>
 
@@ -23,7 +23,7 @@ Kelly念Holy
  Your browser does not support the audio element.
 </audio>
 
-##分享人: 张慈 May May Miller 
+##分享人: 张慈 May May Miller
 
 美国纪录片制作人/作家，张慈是中國第一部独立紀錄片電影《流浪北京》（吳文光導演）和《四海為家》（吳文光導演）的出镜者。2013年，她在元阳老城拍摄了中国第一部有关信仰与安乐死问询的作家纪录片《哀劳山的信仰》，此片获美国圣地亚哥大学2014年的选片放映，2015年2月在斯坦福大学，索菲亚大学放映。有关张慈的纪录片收藏于斯坦福大学图书馆，柏克莱大学图书馆，太平洋档案馆，杜克大学，布朗大学等校图书馆，美国国会图书馆。目前她正在拍摄大型纪录片《硅谷中国人》。从哀牢山到旧金山，从回子街到华尔街，用摄影机纪录自己的母亲，家乡哀牢山，民族历史，纪录片电影拍摄者是伟大的，纪录片电影更是伟大的，坚持电影记录，其它的日子仅是昙花一现。张慈喜欢旅行和演讲。
 [个人网站](http://maymaystudio.com/index.html)

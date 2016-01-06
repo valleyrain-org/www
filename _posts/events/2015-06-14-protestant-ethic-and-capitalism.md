@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 第十一期读书分享会（书目 《新教伦理与资本主义精神》）by Rex
+title: 谷雨书苑第十一期读书分享会（书目 《新教伦理与资本主义精神》）by Rex
 description: 对于国人来讲，这本书的意义何在？剑桥社会系教授Sarah Franklin  对此书的评语可以借来用用，“若想从韦伯的书中找到解决当前社会问题的答案是不可能的，但却让人找到问题的根源所在，进而更深地理解社会。”
-category: event 
+category: event
 ---
 
 ![Image 1 of 2015-06-14](/img/webber.jpg)

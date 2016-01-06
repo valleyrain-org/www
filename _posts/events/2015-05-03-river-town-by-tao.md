@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 第六期读书分享会 (书目《江城》) by Tao Guo
+title: 谷雨书苑第六期读书分享活动 - 《江城》 - Tao Guo
 description: 一个27岁的牛津大学英语文学硕士；一个曾经自助旅游跑完半个地球的美国年轻人，于1996年参加和平队深入中国腹地，在四川涪陵师专担任了两年英语老师。《江城》这本书就是作者何伟对这段特殊经历的纪录和思考。对于在海外求学工作的异乡人来说，这本书也提供了一个宝贵的参考，即如何以一个旁观者的视角去看待和感受周围不一样的事物，同时也完成人生的蜕变。
-category: event 
+category: event
 ---
 ## 分享视频
 
@@ -26,7 +26,7 @@ category: event
 海斯勒散见于各大杂志的旅游文学作品，数度获得美国最佳旅游写作奖。他的中国纪实三部曲中，《江城》一经推出即获得“奇里雅玛环太平洋图书奖”，《甲骨文》则荣获《时代周刊》年度最佳亚洲图书等殊荣。海斯勒本人亦被《华尔街日报》赞为“关注现代中国的最具思想性的西方作家之一”。
 
 ## 时间&地址
-5月3日 周日晚上6:30<br> 
+5月3日 周日晚上6:30<br>
 @635 High Street, Palo Alto
 
 ## 诗歌朗诵
@@ -70,7 +70,7 @@ So long lives this, and this gives life to thee.
 　　因为你的名字入了诗篇：
 
 　　一天还有人活着，有眼睛，
-　　你的名字便将与此常新。 
+　　你的名字便将与此常新。
 </pre>
 
 <iframe width="100%" height="240" src="https://www.youtube.com/embed/OQJdpkIbG-w" frameborder="0" allowfullscreen></iframe>

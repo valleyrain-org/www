@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第三十三期读书分享会（分享题目《蒋介石日记》）by 阮大仁
+title: 谷雨书苑第三十三期读书分享会（分享题目《蒋介石日记》）by 阮大仁
 category: event
 description: 《蒋介石日记》是是中国历史上现存最完整、体量最巨的领导人日记。日记高度真实及有权威性，颠覆了中国国民党及中国共产党过去官方论述。
 published: True
@@ -39,7 +39,7 @@ header-img: "https://botanwang.com/sites/default/files/styles/632_n/public/field
 
 阮大仁，为台湾美籍华人。著名学者、评论家、历史学家，也是数学家、计算机专家。祖父阮性存，跟随孙中山，为民国时期著名律师和法学家。父亲阮毅成，跟随蒋介石，为台湾《中央日报》社前社长。自幼于外公钱家（杭州钱氏名门）学习四书五经，书法从师于右任，（多人认为他书法已青出于蓝）。著有《蒋中正日记揭秘》，《蒋中正日记中的当代人物》。
 
- 
+
 
 
 ## 分享书目：《蒋介石日记》
@@ -58,8 +58,8 @@ header-img: "https://botanwang.com/sites/default/files/styles/632_n/public/field
 
 ## 时间和地址
 
-11月15日，周日晚4:00pm - 7:00pm  
-@4th Floor, 3777 Stevens Creek Blvd  
+11月15日，周日晚4:00pm - 7:00pm
+@4th Floor, 3777 Stevens Creek Blvd
 Santa Clara, CA 95051
 
 <iframe width="100%" height="180" frameborder="0" style="border:0"

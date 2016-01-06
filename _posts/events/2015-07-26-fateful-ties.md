@@ -1,7 +1,7 @@
 ---
 layout:    post
-title:     第十七期读书分享会（《宿缘：美国对中国的观念史》）by 刘雁 
-category: event 
+title:     谷雨书苑第十七期读书分享会（《宿缘：美国对中国的观念史》）by 刘雁
+category: event
 description: 作者用生动的笔触，将中美关系娓娓道来。。。
 header-img: "img/fateful-ties.jpg"
 ---
@@ -30,7 +30,7 @@ Kelly讲解诗歌部分:
 
 ##分享书目: Fateful Ties: A History of America’s Preoccupation with China
 宿缘：美国对中国的观念史（Fateful Ties: A History of America’s Preoccupation with China)
-哈佛大学出版社 2015年4月版      
+哈佛大学出版社 2015年4月版
 
 中美关系始于什么时候？远远早于我们通常的想象。当17世纪早期欧洲殖民者到达美洲大陆时，他们也带来了欧洲对中国文化与中国商品的迷恋。从那时开始，美国人就期望找到和打开一个通往富庶中国的通道。触发独立战争的波士顿倾茶事件，倾倒的正是东印度公司贩自中国的茶叶。独立战争的一个重要理由，就是要从英国人手中夺得与中国自由贸易的权利。
 
@@ -44,7 +44,7 @@ Kelly讲解诗歌部分:
 值得一提的是，张教授的父亲张书旂，是中国现代著名画家，与徐悲鸿、柳子谷并称“金陵三杰”。 抗战时期，张书旌的画作《百鸽图》，作为中国方面的礼物赠送给罗斯福总统，成为第一张入驻白宫的中国画，现在仍收藏在罗斯福总统图书馆。
 
 ##报名链接
-[FB报名地址](https://www.facebook.com/events/424933377714086/)  
+[FB报名地址](https://www.facebook.com/events/424933377714086/)
 
 ##时间和地址
 7月26号，周日晚上5:00pm <br>

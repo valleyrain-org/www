@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第三十九期-纪录片《大海捞针: 张益唐与孪生素数猜想》- Tao Guo"
+title: "谷雨书苑第三十九期 - 纪录片《大海捞针: 张益唐与孪生素数猜想》 - Tao Guo"
 category: event
 description: 张益唐与孪生素数猜想的纪录片
 header-img: http://discovermagazine.com/bonus/~/media/images/Bonus/Zhang/_WT20665.jpg
@@ -34,8 +34,8 @@ header-img: http://discovermagazine.com/bonus/~/media/images/Bonus/Zhang/_WT2066
 
 ## 时间和地址
 
-12月27日，周日下午4:00pm - 6:00pm  
-4th Floor, 3777 Stevens Creek Blvd  
+12月27日，周日下午4:00pm - 6:00pm
+4th Floor, 3777 Stevens Creek Blvd
 Santa Clara, CA 95051
 
 <iframe width="100%" height="180" frameborder="0" style="border:0"

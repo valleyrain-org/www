@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 第十四期读书分享会（书目《认识电影》）by Liwei
-description: 战后欧美电影发展流派，意大利新现实主义，法国新浪潮，以及新德国电影 
-category: event 
+title: 谷雨书苑第十四期读书分享会（书目《认识电影》）by Liwei
+description: 战后欧美电影发展流派，意大利新现实主义，法国新浪潮，以及新德国电影
+category: event
 ---
 ![movie](http://img6.douban.com/lpic/s6969666.jpg)
 

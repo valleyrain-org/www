@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第三十二期读书分享会（分享题目《人性的弱点》by Yoga Yang
+title: 谷雨书苑第三十二期读书分享会（分享题目《人性的弱点》by Yoga Yang
 category: event
 description: 《人性的弱点全集》汇集了卡耐基的思想精华和最激动人心的内容，是作者最成功的励志经典，出版后立即获得了广大读者的欢迎，成为西方世界最持久的人文畅销书。主要内容包括：与人相处的基本技巧、平安快乐的要诀、如何使人喜欢你、如何赢得他人的赞同、如何更好地说服他人、让你的家庭生活幸福快乐等十篇
 published: true
@@ -9,8 +9,8 @@ header-img: "img/2015-11-08/dale-carnegie.jpg"
 
 ## 时间和地址
 
-11月8日，周日晚4:00pm - 7:00pm  
-@4th Floor, 3777 Stevens Creek Blvd  
+11月8日，周日晚4:00pm - 7:00pm
+@4th Floor, 3777 Stevens Creek Blvd
 Santa Clara, CA 95051
 
 <iframe width="100%" height="180" frameborder="0" style="border:0"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第二十九期读书分享会（分享题目《Go Set a Watchman》）by Cecil Coe
+title: 谷雨书苑第二十九期读书分享会（分享题目《Go Set a Watchman》）by Cecil Coe
 category: event
 description: 本书发行乃继《哈利珀特》以来之出版界头等大事。自今年二月宣布出版后，便引起广泛两极争议，导致阿拉巴马州州政府出面调查有无律师及出版商欺诈年迈作者一事。整个翻译，印刷，及运送过程中，均使用出版史上最严密的保密保安措施。仅美国出版商首刷就超过两百万册精装 deckle edge 版，预订期连续五周占亚马逊排名第一畅销小说，出版史上销售记录仅次于《哈利珀特》。
 published: true
@@ -27,7 +27,7 @@ Slides: [链接](https://docs.google.com/presentation/d/1QHqrqXEkw9nhs5rg6WtEW6p
 </audio>
 
 
-录音第三部分 
+录音第三部分
 
 <audio controls="controls">
    <source src="{{site.www-data-url}}/audio/2015-10-18-cecil-part3.mp3" type="audio/mpeg">
@@ -74,8 +74,8 @@ as though just delivered from a shipwreck of blood.
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19055147459&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址
-10月18号，周日晚上5:00pm - 8:00pm  
-@3375 Scott Blvd, Suite 306  
+10月18号，周日晚上5:00pm - 8:00pm
+@3375 Scott Blvd, Suite 306
 Santa Clara, CA 95054
 
 ## 分享人：Cecil Coe

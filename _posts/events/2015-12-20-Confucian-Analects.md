@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 第三十八期-从《论语》看孔子的人生哲学与教育理念-嵇义达
+title: 谷雨书苑第三十八期-从《论语》看孔子的人生哲学与教育理念-嵇义达
 category: event
 description: 从《论语》看孔子的人生哲学与教育理念
 published: True
 header-img: img/2015-12-20/confucian.jpg
 ---
-## 分享视频 
+## 分享视频
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXL0DVjqLkHjrgHqnHwEf6gi" frameborder="0" allowfullscreen></iframe>
 
@@ -32,8 +32,8 @@ header-img: img/2015-12-20/confucian.jpg
 
 ## 时间和地址
 
-12月20日，周日下午4:00pm - 7:00pm  
-4th Floor, 3777 Stevens Creek Blvd  
+12月20日，周日下午4:00pm - 7:00pm
+4th Floor, 3777 Stevens Creek Blvd
 Santa Clara, CA 95051
 
 <iframe width="100%" height="180" frameborder="0" style="border:0"

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 第十二期读书分享会（书目 《浪潮之巅》）by Liang
+title: 谷雨书苑第十二期读书分享会（书目 《浪潮之巅》）by Liang
 description: 近一百多年来，总有一些公司很幸运地、有意识或无意识地站在技术革命的浪尖之上。在这十几年间，它们代表着科技的浪潮，直到下一波浪潮的来临。
-category: event 
+category: event
 ---
 
 ##分享人：Liang Peng

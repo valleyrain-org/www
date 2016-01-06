@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 第五期读书分享会 (书目《旅行的艺术》） by Claire
+title: 谷雨书苑第五期读书分享活动 - 《旅行的艺术》 - Claire
 description: 这部书就像一场完美的旅程，教我们如何好奇、思考和观察，让我们重新对生命充满热情。它结合福楼拜、波德莱尔等文学家的创作，参照凡·高等画家的作品，多方位地观照“旅行”、剖析“旅行”。
-category: event 
+category: event
 ---
 
 ##分享人：Claire Zhu

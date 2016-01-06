@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 第十六期读书分享会《三体》by Andy
+title: 谷雨书苑第十六期读书分享会《三体》by Andy
 description: 被誉为近年中国大陆出版的最好的硬科幻小说，已被译成英文在美国发行
-category: event 
+category: event
 header-img: "img/three-body.jpg"
 ---
 

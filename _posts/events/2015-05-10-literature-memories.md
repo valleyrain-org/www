@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第七期读书分享会 (书目 《文学回忆录》) by Jing Zuo
+title: 谷雨书苑第七期读书分享活动 - 《文学回忆录》 - Jing Zuo
 description: 木心说，“文学会帮助你爱，帮助你恨 课完了，我们将要分别，愿大家都有好的转变”。
 category: event
 ---
@@ -21,6 +21,6 @@ category: event
 课完了，我们将要分别，愿大家都有好的转变”。
 
 ##时间&地址
-5月10日 周日晚上6：30<br> 
+5月10日 周日晚上6：30<br>
 @635 High Street, Palo Alto
 

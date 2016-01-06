@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 第二十七期读书分享会（分享题目《科幻文学历史及其流派》）by Qiongying Hu
+title: 谷雨书苑第二十七期读书分享会（分享题目《科幻文学历史及其流派》）by Qiongying Hu
 category: event
 description: 科幻文学历史不长， 始于工业革命时期的欧洲，在美国壮大成熟，尤其是黄金时期 (20世纪40-50年代)，不仅名作众多，社会影响深远。嬉皮士们把科幻小说奉为当时的圣经。
 published: true
-header-img: img/2015-10-04/scifi.jpg 
+header-img: img/2015-10-04/scifi.jpg
 ---
 
 ## 读书分享Slides及录音
@@ -18,7 +18,7 @@ Slides: [下载]({{site.www-data-url}}/slides/2015-10-04-science-fictions.pdf)
  Your browser does not support the audio element.
 </audio>
 
-录音第二部分 
+录音第二部分
 
 <audio controls="controls">
    <source src="{{site.www-data-url}}/audio/2015-10-04-qiongying-hu-part2.mp3" type="audio/mpeg">
@@ -42,40 +42,40 @@ Slides: [下载]({{site.www-data-url}}/slides/2015-10-04-science-fictions.pdf)
 
 <pre>
 To be, or not to be- that is the question:
-Whether 'tis nobler in the mind to suffer 
+Whether 'tis nobler in the mind to suffer
 The slings and arrows of outrageous fortune
 Or to take arms against a sea of troubles,
 And by opposing end them. To die- to sleep-
 No more; and by a sleep to say we end
-The heartache, and the thousand natural shocks 
+The heartache, and the thousand natural shocks
 That flesh is heir to. 'Tis a consummation
 Devoutly to be wish'd. To die- to sleep.
 To sleep- perchance to dream: ay, there's the rub!
 For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil, 
+When we have shuffled off this mortal coil,
 Must give us pause. There's the respect
 That makes calamity of so long life.
 For who would bear the whips and scorns of time,
 Th' oppressor's wrong, the proud man's contumely,
-The pangs of despis'd love, the law's delay, 
+The pangs of despis'd love, the law's delay,
 The insolence of office, and the spurns
 That patient merit of th' unworthy takes,
 When he himself might his quietus make
 With a bare bodkin? Who would these fardels bear,
-To grunt and sweat under a weary life, 
+To grunt and sweat under a weary life,
 But that the dread of something after death-
 The undiscover'd country, from whose bourn
 No traveller returns- puzzles the will,
 And makes us rather bear those ills we have
-Than fly to others that we know not of? 
+Than fly to others that we know not of?
 Thus conscience does make cowards of us all,
 And thus the native hue of resolution
 Is sicklied o'er with the pale cast of thought,
 And enterprises of great pith and moment
-With this regard their currents turn awry 
+With this regard their currents turn awry
 And lose the name of action.- Soft you now!
 The fair Ophelia!- Nymph, in thy orisons
-Be all my sins rememb'red. 
+Be all my sins rememb'red.
 </pre>
 
 ## 报名链接
@@ -83,8 +83,8 @@ Be all my sins rememb'red.
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=18857627672&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址
-10月4号，周日晚上5:00pm - 8:00pm  
-@3375 Scott Blvd, Suite 306  
+10月4号，周日晚上5:00pm - 8:00pm
+@3375 Scott Blvd, Suite 306
 Santa Clara, CA 95054
 
 ## 分享人：Qiongying Hu 胡琼颖
@@ -109,4 +109,4 @@ Santa Clara, CA 95054
 
 1.       [*Alternate Worlds*](http://www.amazon.com/Alternate-Worlds-Illustrated-History-Science/dp/013023267X), by James Gunn
 
-2.       [*How to write Science Fiction & Fantasy*](http://www.amazon.com/How-Write-Science-Fiction-Fantasy/dp/158297103X), by Orson Scott Card 
+2.       [*How to write Science Fiction & Fantasy*](http://www.amazon.com/How-Write-Science-Fiction-Fantasy/dp/158297103X), by Orson Scott Card

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 第八期读书分享会（书目 《Business Adventures》）by Weihan
+title: 谷雨书苑第八期读书分享活动 - 《Business Adventures》 - Weihan
 description: 微软创始人比尔·盖茨（Bill Gates）最喜欢的商业书籍是沃伦·巴菲特（Warren Buffet）借给他的，名叫《《商业历险记》（Business Adventures）。
-category: event 
+category: event
 ---
 ## 分享视频
 

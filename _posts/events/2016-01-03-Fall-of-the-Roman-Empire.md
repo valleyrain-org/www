@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第四十期-《罗马帝国衰亡史》- Rex Zhen"
+title: "谷雨书苑第四十期 - 《罗马帝国衰亡史》 - Rex Zhen"
 category: event
 description: 《罗马帝国衰亡史》（The History of the Decline and Fall of the Roman Empire）是英国历史学家爱德华·吉本的一部巨著，被认为是第一部“现代”历史著作，共有六卷，分期出版。第一卷出版於1776年，第二、三卷出版於1781年，第四、五、六卷出版於1788年。包括罗马帝国的全部历史
 header-img: img/2016-01-03/roman.jpg
@@ -13,7 +13,7 @@ header-img: img/2016-01-03/roman.jpg
 ## 分享人：Rex Zhen
 在湾区从事IT行业。主讲过第十一期读书分享《新教伦理与资本主义精神》。
 
-## 分享内容：罗马帝国衰亡史 
+## 分享内容：罗马帝国衰亡史
 
 《罗马帝国衰亡史》以堂皇宏阔的篇幅，叙述了罗马帝国从公元2世纪安东尼时代的赫赫盛极，到l453年君士坦丁熙陷落时黯然谢幕的l300多年的历史风貌。作者在近400万的洋洋文字中，既发怀古之幽思，悲怆叹惋千年帝国的无奈衰颓乃至烟灭；又阐思辨之深彻，诠释剖析盛衰兴替的永恒历史命题。
 
@@ -41,8 +41,8 @@ header-img: img/2016-01-03/roman.jpg
 
 ## 时间和地址
 
-1月3日，周日下午4:00pm - 6:00pm  
-4th Floor, 3777 Stevens Creek Blvd  
+1月3日，周日下午4:00pm - 6:00pm
+4th Floor, 3777 Stevens Creek Blvd
 Santa Clara, CA 95051
 
 <iframe width="100%" height="180" frameborder="0" style="border:0"

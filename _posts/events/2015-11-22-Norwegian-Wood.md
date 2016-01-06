@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 第三十四期读书分享会（分享题目《挪威的森林》）by Tanya
+title: 谷雨书苑第三十四期读书分享会（分享题目《挪威的森林》）by Tanya
 category: event
 description: 《挪威的森林》并不是村上春树写得最好的一部小说，但却是最为畅销，最广为人知的一本小说。
 published: True
-header-img: img/2015-11-22/norwegianwood.jpg 
+header-img: img/2015-11-22/norwegianwood.jpg
 ---
 
 ## 分享录像
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXLVAQAuqMJxfsxKGhRhWwXd" frameborder="0" allowfullscreen></iframe>
 
-### 分享Slides  
+### 分享Slides
 <https://goo.gl/0JJHux>
 
 ## 分享人: Tanya
 
-曾任湾区新城中文电台（FM92.3，AM1450）《汤雅读书室》《晨间新闻》主持人、制作人。现任旧金山ELI语言学院教务主管，业余为《创世电视》《海外校园》撰稿。  
+曾任湾区新城中文电台（FM92.3，AM1450）《汤雅读书室》《晨间新闻》主持人、制作人。现任旧金山ELI语言学院教务主管，业余为《创世电视》《海外校园》撰稿。
 Tanya也是第二十期读书分享[*《瓦尔登湖》*](http://www.valleyrain.org/event/2015/08/16/walden/){:target="_blank"} 的主讲人。
 
 ## 分享书目：《挪威的森林》
@@ -51,8 +51,8 @@ Tanya也是第二十期读书分享[*《瓦尔登湖》*](http://www.valleyrain.
 
 ## 时间和地址
 
-11月22日，周日晚4:30pm - 7:30pm  
-@4th Floor, 3777 Stevens Creek Blvd  
+11月22日，周日晚4:30pm - 7:30pm
+@4th Floor, 3777 Stevens Creek Blvd
 Santa Clara, CA 95051
 
 <iframe width="100%" height="180" frameborder="0" style="border:0"

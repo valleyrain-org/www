@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 第一期读书分享会(书目《Zero to One》） by Raymond
+title: 谷雨书苑第一期读书分享活动 - 《Zero to One》 - Raymond
 description: 紐約時報和亞馬遜暢銷書榜首,被評為可能迄今為止最好的一本商業書,適合每個不滿與現狀.對世界前景有想法的人來閱讀
-category: event 
+category: event
 ---
 
 ##分享人: Raymond Tian

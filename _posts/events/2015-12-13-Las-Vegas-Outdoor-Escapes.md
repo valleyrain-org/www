@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第三十七期《觀光旅遊的三種境界》by Ding Yi
+title: 谷雨书苑第三十七期《觀光旅遊的三種境界》by Ding Yi
 category: event
 description: 觀光旅遊的三種境界——以Las Vegas近郊和Yosemite為例談深度旅遊的景點選擇和安全問題
 published: True
@@ -17,8 +17,8 @@ header-img: http://www.sceniclasvegas.com/Red_Rock-04b.jpg
 
 ## 时间和地址
 
-12月13日，周日下午4:00pm - 7:00pm  
-4th Floor, 3777 Stevens Creek Blvd  
+12月13日，周日下午4:00pm - 7:00pm
+4th Floor, 3777 Stevens Creek Blvd
 Santa Clara, CA 95051
 
 <iframe width="100%" height="180" frameborder="0" style="border:0"
