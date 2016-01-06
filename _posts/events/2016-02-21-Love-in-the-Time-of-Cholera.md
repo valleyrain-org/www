@@ -9,6 +9,7 @@ header-img: img/2016-02-21/love-cholera.jpg
 ## 精读活动内容与要求
 ### 报名须知
 为鼓励广大书友更好的阅读经典书目，谷雨书苑将尝试推出精读活动。因为精读活动旨在鼓励书友重视阅读，加强讨论，激发灵感，参与活动的书友们必须满足以下两个条件之一：
+
 - 已经完整阅读过本书，或者
 - 在精读会活动之前完整阅读本书
 
@@ -34,9 +35,9 @@ header-img: img/2016-02-21/love-cholera.jpg
 加西亚•马尔克斯（Gabriel García Márquez）
 1927年出生于哥伦比亚马格达莱纳海滨小镇阿拉卡塔卡。童年与外祖父母一起生活。1936年随父母迁居苏克雷。1947年考入波哥大国立大学。1948年因内战辍学，进入报界。五十年代开始出版文学作品。六十年代初移居墨西哥。1967年《百年孤独》问世。1982年获诺贝尔文学奖。1985年出版《霍乱时期的爱情》。
 
-加西亚•马尔克斯豆瓣小站：http://site.douban.com/marquez/
+加西亚•马尔克斯豆瓣小站：<http://site.douban.com/marquez/>
 
-维基百科主页：https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez
+维基百科主页：<https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez>
 
 
 ### 其他资料
