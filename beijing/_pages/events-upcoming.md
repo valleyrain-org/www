@@ -7,7 +7,7 @@ header-img: img/beijing-beihai-park.jpg
 ---
 
 <div class="tiles">
-{% for post in site.categories.beijing reversed %}{% if post.categories contains "event" %}
+{% for post in site.categories.beijing reversed %}{% if post.categories contains "eventbj" %}
     {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
     {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
     {% if posttime >= nowunix %}
