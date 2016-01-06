@@ -5,17 +5,27 @@ category: event
 description: 《霍乱时期的爱情》是加西亚•马尔克斯获得诺贝尔文学奖之后完成的第一部小说。讲述了一段跨越半个多世纪的爱情史诗，穷尽了所有爱情的可能性：忠贞的、隐秘的、粗暴的、羞怯的、柏拉图式的、放荡的、转瞬即逝的、生死相依的……再现了时光的无情流逝，被誉为“人类有史以来最伟大的爱情小说”，是20世纪最重要的经典文学巨著之一。
 header-img: img/2016-02-21/love-cholera.jpg
 ---
+## 报名链接
+
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20498559744&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+## 时间和地址
+
+暂定2月21日，周日下午4:00pm - 6:00pm
+4th Floor, 3777 Stevens Creek Blvd
+Santa Clara, CA 95051
 
 ## 精读活动内容与要求
+
 ### 报名须知
-为鼓励广大书友更好的阅读经典书目，谷雨书苑将尝试推出精读活动。因为精读活动旨在鼓励书友重视阅读，加强讨论，激发灵感，参与活动的书友们必须满足以下两个条件之一：
+为了鼓励广大书友更好的阅读经典书目，谷雨书苑将尝试推出精读活动。因为精读活动旨在鼓励书友重视阅读，加强讨论，激发灵感，参与活动的书友们必须满足以下两个条件之一：
 
 - 已经完整阅读过本书，或者
 - 在精读会活动之前完整阅读本书
 
 
 ### 活动内容
-所有参与者请通过eventbrite报名，并在报名时留下微信和邮箱联系方式。谷雨书苑组织者会将参与者加入本次精读活动微信群，一旦进入微信群，将视为参与者承诺会在精读会之前阅读完本书。本书中文版约400页，精读会暂定2月21日举办，建议参与者每周保证80-100页的阅读量。微信群将用于参与者讨论读书感想，并汇报阅读进度。
+所有参与者请通过eventbrite报名，并在报名时留下微信和邮箱联系方式。谷雨书苑组织者会将参与者加入本次精读活动微信群，一旦进入微信群，将视为**参与者承诺会在精读会之前阅读完本书**。本书中文版约400页，精读会暂定2月21日举办，建议参与者每周保证80-100页的阅读量。微信群将用于参与者讨论读书感想，并汇报阅读进度。
 
 **阅读时间**：1月15日 ~ 2月21日, 参与者每周需保证80-100页的阅读量，并在微信群中汇报阅读进度。
 
@@ -53,19 +63,6 @@ Macondo: an imaginary village in Latin America
 La violencia
 
 
-
-## 报名链接
-
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20235770735&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
-
-## 时间和地址
-
-暂定2月21日，周日下午4:00pm - 6:00pm
-4th Floor, 3777 Stevens Creek Blvd
-Santa Clara, CA 95051
-
-<iframe width="100%" height="180" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
 
 
 ## 场地介绍：
