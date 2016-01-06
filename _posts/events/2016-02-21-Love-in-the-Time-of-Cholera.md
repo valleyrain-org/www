@@ -7,7 +7,9 @@ header-img: img/2016-02-21/love-cholera.jpg
 ---
 
 ## 精读活动内容与要求
+
 ### 报名须知
+
 为鼓励广大书友更好的阅读经典书目，谷雨书苑将尝试推出精读活动。因为精读活动旨在鼓励书友重视阅读，加强讨论，激发灵感，参与活动的书友们必须满足以下两个条件之一：
 
 - 已经完整阅读过本书，或者
@@ -15,6 +17,7 @@ header-img: img/2016-02-21/love-cholera.jpg
 
 
 ### 活动内容
+
 所有参与者请通过eventbrite报名，并在报名时留下微信和邮箱联系方式。谷雨书苑组织者会将参与者加入本次精读活动微信群，一旦进入微信群，将视为参与者承诺会在精读会之前阅读完本书。本书中文版约400页，精读会暂定2月21日举办，建议参与者每周保证80-100页的阅读量。微信群将用于参与者讨论读书感想，并汇报阅读进度。
 
 **阅读时间**：1月15日 ~ 2月21日, 参与者每周需保证80-100页的阅读量，并在微信群中汇报阅读进度。
@@ -42,15 +45,14 @@ header-img: img/2016-02-21/love-cholera.jpg
 
 ### 其他资料
 
-同名电影： https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera_(film) 评分很低
+同名电影： <https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera_(film)> 评分很低
 
-马尔克斯的诺贝尔获奖感言：The solitude of Latin America.
-http://www.nobelprize.org/nobel_prizes/literature/laureates/1982/marquez-lecture.html
+马尔克斯的诺贝尔获奖感言：[The solitude of Latin America](http://www.nobelprize.org/nobel_prizes/literature/laureates/1982/marquez-lecture.html)
 
-马尔克斯写作的主题：
-Solitude:
-Macondo: an imaginary village in Latin America
-La violencia
+马尔克斯写作的主题：  
+- Solitude:
+- Macondo: an imaginary village in Latin America
+- La violencia
 
 
 
