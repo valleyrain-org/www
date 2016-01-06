@@ -8,7 +8,7 @@ The website is hosted as [GitHub Project Pages](https://pages.github.com), and c
 
 ## What's Included
 
-A full Jekyll environment is included with this theme. If you have Jekyll installed, change `url` to "" in _config.yml, and simply run `jekyll serve` in your command line and preview the build in your browser. 
+A full Jekyll environment is included with this theme. If you have Jekyll installed, comment `url` line in _config.yml, and simply run `jekyll serve` in your command line and preview the build in your browser. 
 
 To install Jekyll (on Mac Mavericks):
 ```
