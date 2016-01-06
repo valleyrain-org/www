@@ -1,23 +1,23 @@
 ---
 layout: page
 permalink: /events/upcoming/
-title: "活动预告 - 旧金山湾区硅谷华人读书会"
+title: "活动预告 - 旧金山湾区硅谷华人读书会 - 谷雨书苑"
 description: "近期活动预告"
 ---
 
 <div class="tiles">
-{% for post in site.categories.event reversed %} 
+{% for post in site.categories.event reversed %}
         {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
         {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
 
         {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
         {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
 
-        {% if postyear > nowyear %} 
+        {% if postyear > nowyear %}
   	   {% capture posttime %}{{ posttime | plus:'365'}}{% endcapture %}
         {% endif %}
 
-        {% if postyear < nowyear %} 
+        {% if postyear < nowyear %}
            {% capture posttime %}{{ posttime | minus:'365'}}{% endcapture %}
         {% endif %}
 

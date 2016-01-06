@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: "关于我们 - 旧金山湾区硅谷华人读书会"
+title: "关于我们 - 旧金山湾区硅谷华人读书会 - 谷雨书苑"
 description: "旧金山湾区硅谷华人读书会 - 谷雨书苑"
 header-img: "img/logo.jpg"
 ---
@@ -38,15 +38,15 @@ As we are becoming more influential, we welcome more readers to join us.
 ------------------
 
 谷雨取名，一來是因为读书会成立于春末谷雨时节。二來与硅谷的谷相映衬，三來希望给硅谷这个文化沙漠带来滋润之雨，文化之雨。同時也暗含希望我们读书会給大家带来哪怕只有一丝可以滋润心灵的雨露甘霖。
-有各位书友的支持和陪伴，谷雨书苑才能走得更远，做得更好。  
-  
+有各位书友的支持和陪伴，谷雨书苑才能走得更远，做得更好。
+
 谷雨者，廿四节气之一，谷因雨而生也。板桥诗云：正好清明连谷雨，一杯香茗坐其間。乙未春，友聚於硅谷，品茶赏文，煮酒论史，会书友过百。遂起书社，意在文泽三湾，雨润硅谷，是名谷雨也。
 读书，在幽幽书香潛移默化的熏陶下，浑浊可以变为清雅，奢华可以变为淡泊，促狭可以变为开阔，偏激可以变为平和。
 
 联系我们
 --------
 
-读书会有[Facebook Group](http://www.facebook.com/groups/ValleyRain)和[微信群](http://weixin.qq.com/g/AduHOh9yLie7It1V)供线上讨论交流。  
+读书会有[Facebook Group](http://www.facebook.com/groups/ValleyRain)和[微信群](http://weixin.qq.com/g/AduHOh9yLie7It1V)供线上讨论交流。
 过往和将来几期分享的书目[Google doc](http://goo.gl/k8CgKM)和[文宣汇总](http://goo.gl/OTYGdA)。
 
 对谷雨书苑和网站建设有任何意见建议可以联系: [valleyrain.org@gmail.com](mailto:valleyrain.org@gmail.com)。

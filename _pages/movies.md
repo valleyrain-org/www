@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "影评 - 旧金山湾区硅谷华人读书会"
+title: "影评 - 旧金山湾区硅谷华人读书会 - 谷雨书苑"
 permalink: /movies/
 description: "书友影评"
 ---
@@ -8,7 +8,7 @@ description: "书友影评"
 
 <h3 class="section-heading text-center">影评</a></h3>
 <div class="tiles">
-{% for post in site.categories.movies %} 
+{% for post in site.categories.movies %}
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="title-desc">{{ post.description }}</div>
 {% endfor %}

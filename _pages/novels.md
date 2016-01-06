@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "小说 - 旧金山湾区硅谷华人读书会"
+title: "小说 - 旧金山湾区硅谷华人读书会 - 谷雨书苑"
 permalink: /novels/
 description: "网友原创小说"
 ---
@@ -8,7 +8,7 @@ description: "网友原创小说"
 
 <h3 class="section-heading text-center">小说</a></h3>
 <div class="tiles">
-{% for post in site.categories.novels %} 
+{% for post in site.categories.novels %}
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="title-desc">{{ post.description }}</div>
 {% endfor %}

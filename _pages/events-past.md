@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /events/past/
-title: "活动回顾 - 旧金山湾区硅谷华人读书会"
+title: "活动回顾 - 旧金山湾区硅谷华人读书会 - 谷雨书苑"
 description: "读书会过往活动回顾"
 ---
 
@@ -15,11 +15,11 @@ description: "读书会过往活动回顾"
      {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
      {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
 
-     {% if postyear > nowyear %} 
+     {% if postyear > nowyear %}
   	{% capture posttime %}{{ posttime | plus:'365'}}{% endcapture %}
      {% endif %}
 
-     {% if postyear < nowyear %} 
+     {% if postyear < nowyear %}
      {% capture posttime %}{{ posttime | minus:'365'}}{% endcapture %}
      {% endif %}
 
@@ -33,7 +33,7 @@ description: "读书会过往活动回顾"
 
 <h3 class="section-heading text-center">过往笔记</a></h3>
 <div class="tiles">
-{% for post in site.categories.notes %} 
+{% for post in site.categories.notes %}
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="title-desc">{{ post.description }}</div>
 {% endfor %}
