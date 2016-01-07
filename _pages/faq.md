@@ -6,7 +6,7 @@ category: about
 description: 读书会常见问题解答
 ---
 
-# FAQ - 旧金山湾区硅谷华人读书会 - 谷雨书苑
+<h1>{{ page.title }}</h1>
 
 ## 1. 为什么叫谷雨书苑
 
