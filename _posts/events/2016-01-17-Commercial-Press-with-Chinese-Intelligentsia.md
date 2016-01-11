@@ -3,7 +3,7 @@ layout: post
 title: 谷雨书苑第四十二期 - 商务印书馆与中国近现代知识分子 - 刘雁
 category: event
 description: 商务印书馆与中国近现代知识分子
-header-img: "https://upload.wikimedia.org/wikipedia/commons/a/a7/%E8%BD%B0%E7%82%B8%E5%90%8E%E7%9A%84%E4%B8%8A%E6%B5%B7%E5%95%86%E5%8A%A1%E5%8D%B0%E4%B9%A6%E9%A6%86.jpg"
+header-img: img/2016-01-17/Commercial-Press-Whole.jpg
 ---
 
 ## 报名链接
