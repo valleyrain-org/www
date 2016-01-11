@@ -1,4 +1,10 @@
-报名链接
+---
+published: false
+---
+
+报名链接[https://www.eventbrite.com/e/by-tickets-20679576169](https://www.eventbrite.com/e/by-tickets-20679576169)
+
+![341530619.jpg]({{site.baseurl}}/_posts/events/341530619.jpg)
 
 时间和地址
 
