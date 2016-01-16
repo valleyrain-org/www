@@ -9,7 +9,7 @@ header-img: img/2016-01-24/beijing.jpg
 
 
 ## 报名链接
-[Eventbrite报名地址](https://www.eventbrite.com/e/)
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20825773449&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址
 2016年1月24日，周日下午4:00pm - 7:00pm
