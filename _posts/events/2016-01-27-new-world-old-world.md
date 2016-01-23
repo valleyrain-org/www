@@ -7,8 +7,8 @@ header-img: img/2016-01-27/chenping.jpg
 ---
 
 ## 主办单位
-  * [<u>谷雨书苑</u>](http://valleyrain.org/about)
-  * [<u>斯坦福大学中国学生学者联合会</u>](http://acsss.stanford.edu)
+  * [谷雨书苑](http://valleyrain.org/about)
+  * [斯坦福大学中国学生学者联合会](http://acsss.stanford.edu)
 
 ## 报名链接
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20974673814&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
@@ -45,8 +45,8 @@ header-img: img/2016-01-27/chenping.jpg
 ![pic](/img/2016-01-27/theworldbook.jpg)   
 如书名所示，这本书有关对今日世界的整体看法。全书根据作者陈平先生自2008年至2011年间在公开场合所发表的言论编辑而成。这段时间，正是席卷全球的一场金融危机的潮头，也是世界范围更大规模的一场经济-社会危机前夜。斯时，陈平先生敏锐观察到并指出了，本次危机非同以往资本主义周期性经济危机，而是一场具有终结意义的的人类文明危机，一场基于绝对人本主义文化价值观和认识论的、近现代科技工商文明生存发展社会模式走向终结的危机。面对这样的终结危机，作者提出：人类社会亟需新的思想解放运动与创新社会实践，打破现有的既得利益格局和主流价值观，培育出新文化、新生活方式，建设起可持续的经济增长模式与更理想、更公平公正的民主社会。作者预言、呼唤并积极投身到这样一个新的文明形态建设之中，并进一步提出：人类唯此方能走出既有的漫长而痛苦的衰败时代危机。聚焦中国，作者也指出，过去二十多年"党主"模式下的发展已经走到了一个历史拐点，惟有再造共和、实现民主，在制度再创、文化再创与价值观的再创中，中国方有机会实现全方位的可持续发展。
  
-  * [<u>豆瓣链接</u>](https://book.douban.com/subject/26602170/)  
-  * [<u>Amazon链接</u>](http://www.amazon.com/x63A0-x596A-x548C-x900F-x652F/dp/9881656370)
+  * [豆瓣链接](https://book.douban.com/subject/26602170/)  
+  * [Amazon链接](http://www.amazon.com/x63A0-x596A-x548C-x900F-x652F/dp/9881656370)
 
 ### 《现代文明的衰败》
 本书收录陈平先生08年9月至09年3月间的公开电视谈话。书中指出08年经济危机非同以往资本主义周期性经济危机，而是全球人类基于绝对的人本主义文化价值观和认识论，近现代科技工商文明生存发展社会模式走向终结的危机。
