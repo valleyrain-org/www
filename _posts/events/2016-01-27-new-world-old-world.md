@@ -6,6 +6,10 @@ description: 陈平先生全新出版著作《掠夺和透支的世界—2008年
 header-img: img/2016-01-27/chenping.jpg
 ---
 
+## 主办单位
+  * [*谷雨书苑*](http://valleyrain.org/about)
+  * [*斯坦福大学中国学生学者联合会*](http://acsss.stanford.edu)
+
 ## 报名链接
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20974673814&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
