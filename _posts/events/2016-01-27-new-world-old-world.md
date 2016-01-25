@@ -14,9 +14,19 @@ header-img: img/2016-01-27/chenping.jpg
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20974673814&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址
+
 2016年1月27日，周三晚下午7:00pm - 9:00pm
 
-地址：Stanford校园内（具体地址另行通知）
+### The East Asia Library of Stanford   
+
+The East Asia Library stanford is located in the Lathrop Library building, just east of the Oval.
+
+Stanford Lathrop Library   
+Room 224   
+518 Memorial Way, Stanford, CA 94305   
+
+<iframe width="100%" height="180" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJU0Wrwym7j4ARMenEsvLE9Po&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
 
 ## 分享人/作者: 陈平
 
