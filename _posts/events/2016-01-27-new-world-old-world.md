@@ -15,7 +15,7 @@ header-img: img/2016-01-27/chenping.jpg
 
 ## 时间和地址
 
-2016年1月27日，周三晚下午7:00pm - 9:00pm
+2016年1月27日，周三晚 7:00pm - 9:00pm
 
 ### The East Asia Library of Stanford   
 
