@@ -6,6 +6,16 @@ description: 商务印书馆与中国近现代知识分子
 header-img: img/2016-01-17/Commercial-Press-Whole.jpg
 ---
 
+## 分享资料
+
+### 分享视频
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXKyfbZ9LPXZtOpEV3i80hQi" frameborder="0" allowfullscreen></iframe>
+
+###分享笔记
+
+  * <{{site.url}}/pdf/commercial-press.pdf>
+
 ## 报名链接
 
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20679576169&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
