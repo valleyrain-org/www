@@ -19,7 +19,7 @@ header-img: img/2016-01-27/chenping.jpg
 
 ### The East Asia Library of Stanford   
 
-The East Asia Library stanford is located in the Lathrop Library building, just east of the Oval.
+The East Asia Library of Stanford is located in the Lathrop Library building, just east of the Oval.
 
 Stanford Lathrop Library   
 Room 224   
