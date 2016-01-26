@@ -42,7 +42,10 @@ header-img: img/2016-02-21/huoluan.jpg
 
 ### 版本推荐
 
-中文纸版书：南海出版社，杨玲译本，共计401页：[豆瓣链接](http://book.douban.com/subject/10594787/)
+中文纸版书：南海出版社，杨玲译本，共计401页  
+
+- [豆瓣链接](http://book.douban.com/subject/10594787/)  
+- [Amazon链接](http://www.amazon.com/amor-tiempos-c%C3%B3lera-Cholera-Chinese/dp/B008WXMFFA/ref=sr_1_1?ie=UTF8&qid=1453766513&sr=8-1&keywords=%E9%9C%8D%E4%B9%B1%E6%97%B6%E6%9C%9F%E7%9A%84%E7%88%B1%E6%83%85)
 
 中文电子书：目前未发现官方电子书，但是网上有大量版权未知的电子书，请网友自行下载
 
