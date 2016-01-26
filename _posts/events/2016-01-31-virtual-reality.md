@@ -7,13 +7,13 @@ description: 本次读书分享活动邀请心理学博士金晶与大家分享�
 header-img: img/2016-01-31/virtualreality.jpg
 ---
 
-
-
 ## 报名链接
-<div style="width:100%; text-align:left;" ><iframe  src="https://www.eventbrite.com/e/by-tickets-21024493827" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=21026653286&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
 
 ## 时间和地址
-2016年1月24日，周日下午4:00pm - 7:00pm
+2016年1月31日，周日下午4:00pm - 7:00pm
 
 地址：Silicon Valley Asian Art Center, 4th Floor, 3777 Stevens Creek Blvd Santa Clara, CA 95051
 
