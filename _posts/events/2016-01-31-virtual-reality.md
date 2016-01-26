@@ -3,8 +3,7 @@ layout: post
 title: 谷雨书苑第四十五期 -《虚拟现实，从阿凡达到永生》- 金晶
 category: event
 description: 本次读书分享活动邀请心理学博士金晶与大家分享科学家如何深入的了解人类大脑在数字世界中的行为方式并探索计算机发展技术对我们在现实生活中的应用和发展。
-
-header-img: img/2016-01-31/virtualreality.jpg
+header-img: img/2016-01-31/matrix_avatar.jpg
 ---
 
 ## 报名链接：
@@ -20,6 +19,10 @@ header-img: img/2016-01-31/virtualreality.jpg
 ![图书封面](http://ecx.images-amazon.com/images/I/51EBL48QrLL._SX329_BO1,204,203,200_.jpg)
 
 (英文书名: Infinite Reality: Avatars, Eternal Life, New Worlds, and the Dawn of the Virtual Revolution)
+
+How do The Matrix, Avatar, and Tron reveal the future of existence? Can our brains recognize where "reality" ends and "virtual" begins? What would it mean to live eternally in a digital universe? Where will technology lead us in five, fifty, and five hundred years?
+
+Two innovative scientists explore the mystery and reality of the virtual and examine the profound potential of emerging digital technologies.
 
 即将来临的虚拟现实技术和应用的爆发，加上最近对大脑工作方式的研究突破，将会很快让我们的生活演进到过去只有科幻小说中才能想象的程度。在本书中，两位虚拟现实的先锋权威——斯坦福大学的杰里米•拜伦森和加州大学圣巴巴拉分校的吉姆•布拉斯科维奇——以开创性的研究展示了我们大脑在数字世界中的行为方式，把我们带入一段穿越虚拟宇宙的神秘旅程。
 
