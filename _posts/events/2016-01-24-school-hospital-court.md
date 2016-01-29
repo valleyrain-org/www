@@ -6,15 +6,9 @@ description: 本次读书分享活动再次邀请著名法律学者周大伟先�
 header-img: img/2016-01-24/beijing.jpg
 ---
 
+## 分享视频
 
-
-## 报名链接
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20825773449&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
-
-## 时间和地址
-2016年1月24日，周日下午4:00pm - 7:00pm
-
-地址：Silicon Valley Asian Art Center, 4th Floor, 3777 Stevens Creek Blvd Santa Clara, CA 95051
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXILXWCseDnGM6v0mpIgxgiE" frameborder="0" allowfullscreen></iframe>
 
 ## 分享人/作者: 周大伟
 周大伟，江苏无锡人，法律学者。先后毕业于西南政法大学法律系、中国人民大学法学院和美国伊利诺大学法学院；美国哥伦比亚大学法学院访问学者（1990-1992）；美国加州伯克利大学中美合作研究中心特邀研究员（2007-2009）。上个世纪80年代中后期，曾在中国人民大学法学院任教。曾参加《中华人民共和国技术合同法》、《专利法》等重要法律法规的起草工作。现在中国和美国两地从事投资顾问业务和法学教研工作（中国社会科学院法学研究所特聘研究员。（中国社会科学院法学研究所特聘研究员、北京理工大学兼职教授，纪录片独立制片人、投资公司法律顾问、《中国新闻周刊》、《法制日报-法治周末》专栏作家）。
@@ -35,6 +29,13 @@ header-img: img/2016-01-24/beijing.jpg
 ###《法治的细节》
 娓娓道来的故事，铿锵有力的驳斥，看似平淡的讲述，深刻分析的法理。时而淡定，时而义愤，时而慷慨，时而平静，我们会随着作者的思路浮想联翩，随着作者的情绪喜怒哀乐。这就是《法治的细节》，一本讲述世间法治的人情世故，日积月累的的思考记录，从貌似琐碎的细节出发，寻求制度建设的原理与途径，这是作者的典型论证方式。本书也启发我们反思一个问题：人类不同文明，就需要调整的关系和遭遇到的困难而言，相互之间并无多大分别，但是所形成的制度模式却差异甚大。这种分歧也许跟民族整体思维方式的不同有深切关联。
 
+## 报名链接
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=20825773449&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+## 时间和地址
+2016年1月24日，周日下午4:00pm - 7:00pm
+
+地址：Silicon Valley Asian Art Center, 4th Floor, 3777 Stevens Creek Blvd Santa Clara, CA 95051
 
 ## 场地介绍：
 硅谷亚洲艺术中心（Silicon Valley Asian Art Center & Narx Gallery），4500平方英尺展厅，平均每月2场艺展，举办中国绘画、书法、雕刻展览和艺术演讲，演奏活动。
