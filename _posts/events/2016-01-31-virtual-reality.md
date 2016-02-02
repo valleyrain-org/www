@@ -6,9 +6,15 @@ description: 本次读书分享活动邀请心理学博士金晶与大家分享�
 header-img: img/2016-01-31/matrix_avatar.jpg
 ---
 
-## 报名链接：
+## Slides及活动录像
 
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=21026653286&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+- Slides
+
+  [GuYu_Talk_InfiniteReality.pptx]({{site.url}}/pdf/GuYu_Talk_InfiniteReality.pptx)
+
+- 录像
+
+  <iframe width="100%" height="240" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXJpAOFa4JE2l65TSnnOiaBs" frameborder="0" allowfullscreen></iframe>
 
 ## 分享人: 金晶
 
