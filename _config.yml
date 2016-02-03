@@ -12,7 +12,7 @@ douban_username: valleyrain
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 include: ['_pages']
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
