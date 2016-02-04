@@ -16,6 +16,7 @@ highlighter: rouge
 permalink: pretty
 include: ['_pages']
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+future: true
 
 # Data files URL
 www-data-url: "https://raw.githubusercontent.com/valleyrain-org/www-data/master"
