@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /events/upcoming/
-title: "活动预告 - 旧金山湾区硅谷华人读书会 - 谷雨书苑"
+title: "活动预告"
 description: "近期活动预告"
 ---
 

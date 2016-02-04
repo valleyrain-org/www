@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "书评- 旧金山湾区硅谷华人读书会 - 谷雨书苑"
+title: "书评"
 permalink: /books/
 description: "书友书籍推荐及评论"
 ---

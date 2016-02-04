@@ -1,6 +1,6 @@
 ---
 layout: home
-description: "谷雨书苑 - 活动列表"
+description: "活动列表"
 permalink: /event/
 ---
 

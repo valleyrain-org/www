@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "书友原创 - 旧金山湾区硅谷华人读书会 - 谷雨书苑"
+title: "书友原创"
 permalink: /works/
 description: "书友原创作品"
 ---

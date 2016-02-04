@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "诗歌 - 旧金山湾区硅谷华人读书会 - 谷雨书苑"
+title: "诗歌"
 permalink: /poems/
 description: "书友原创或朗诵诗歌"
 ---

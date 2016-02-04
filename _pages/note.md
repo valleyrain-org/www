@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "分享笔记 - 旧金山湾区硅谷华人读书会 - 谷雨书苑"
+title: "分享笔记"
 permalink: /notes/
 description: "每期读书分享笔记"
 ---

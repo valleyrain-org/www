@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "影评 - 旧金山湾区硅谷华人读书会 - 谷雨书苑"
+title: "影评"
 permalink: /movies/
 description: "书友影评"
 ---

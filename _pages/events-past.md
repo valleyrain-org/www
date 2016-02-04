@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /events/past/
-title: "活动回顾 - 旧金山湾区硅谷华人读书会 - 谷雨书苑"
+title: "活动回顾"
 description: "读书会过往活动回顾"
 ---
 

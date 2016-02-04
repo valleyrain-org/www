@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "散文随笔 - 旧金山湾区硅谷华人读书会 - 谷雨书苑"
+title: "散文随笔"
 permalink: /essay/
 description: "书友原创散文随笔"
 ---
