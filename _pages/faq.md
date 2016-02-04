@@ -1,10 +1,9 @@
-
 ---
 layout: page
+title: "FAQ"
 permalink: /faq/
-title: FAQ
 category: about
-description: 读书会常见问题解答
+description: "读书会常见问题解答"
 ---
 
 ## 1. 为什么叫谷雨书苑
