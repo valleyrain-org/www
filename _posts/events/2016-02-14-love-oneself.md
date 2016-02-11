@@ -35,8 +35,6 @@ To love oneself is the beginning of a life long romance ( Oscar Wilde) 这是美
 
  什么是正念？正念的练习对身心有何益处？为什么从斯坦福、哈佛、牛津，从Google到英国的教育系统，从Sheryl Sandberg到Kobe Bryant 都在作正念冥想？
 
-  
-
   杰克－康菲尔德的这本《初学者的冥想书》以平实的语言介绍了正念冥想，为我们揭开其神秘的面纱。在忙碌的工作、生活中，我们愿意每日抽出10分钟时间，与自己在一起吗？我们又如何在走路、吃饭、开车、接送孩子等日常生活中培育绵绵不断的正念，更加饱满地生活。
 
 ## 作者簡介: Jack Kornfield,  PhD，加州健康研究院正念顾问 
