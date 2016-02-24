@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 谷雨书苑第四十七期 -《唐人小说》-储霏
+title: 谷雨书苑第四十八期 -《唐人小说》-储霏
 category: event
 description: 一起来体验中国古典文学-唐代传奇小说之庞杂精妙
 header-img: http://img1.gtimg.com/cul/pics/hv1/115/184/1984/129056635.jpg
