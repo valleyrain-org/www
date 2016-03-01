@@ -7,8 +7,7 @@ header-img: http://pinnipedlab.ucsc.edu/images/FieldResearch_Recording.png
 ---
 
 ## 报名链接:
-
-<https://www.eventbrite.com/e/-the-northern-elephant-seal-exceeding-expectations-guy-oliver-tickets-22439169159>
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=22439169159&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址：
 
