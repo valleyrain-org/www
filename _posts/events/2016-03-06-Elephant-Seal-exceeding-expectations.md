@@ -11,7 +11,7 @@ header-img: http://pinnipedlab.ucsc.edu/images/FieldResearch_Recording.png
 
 ## 时间和地址：
 
-2016年3月6日，周日下午4:00pm - 6：30pm
+2016年3月6日，周日下午4:00pm - 6：30pm  
 Silicon Valley Asian Art Center, 4th Floor, 3777 Stevens Creek Blvd Santa Clara, CA 95051
 
 ## Speaker: Guy Oliver
