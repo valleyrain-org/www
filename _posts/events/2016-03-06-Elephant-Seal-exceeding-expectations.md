@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 谷雨书苑第四十九期 - The Northern Elephant Seal: exceeding expectations - Guy Oliver
+title: "谷雨书苑第四十九期 - The Northern Elephant Seal: exceeding expectations - Guy Oliver"
 category: event
 description: "About elephant seals"
 header-img: http://pinnipedlab.ucsc.edu/images/FieldResearch_Recording.png
