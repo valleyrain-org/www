@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 谷雨书苑第五十期说点读心术———那些身体的小秘密 -《What Every Body is Saying》-Xiaohan Liu
+title: 谷雨书苑第五十期 说点读心术——那些身体的小秘密 -《What Every Body is Saying》-Xiaohan Liu
 category: event
 description: 说点读心术————那些身体的小秘密
 header-img: http://static.oprah.com/images/201109/omag/201109-omag-confidence-600x411.jpg
