@@ -2,7 +2,7 @@
 layout: post
 title: 谷雨书苑第五十期 -《What Every Body is Saying》-Xiaohan Liu
 category: event
-description: “读心术”分享
+description: 说点读心术————那些身体的小秘密
 header-img: http://static.oprah.com/images/201109/omag/201109-omag-confidence-600x411.jpg
 ---
 
@@ -20,7 +20,7 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 ## 分享人:XiaoHan Liu
 硅谷用户体验设计师一枚。身处科技洪流之中，一直努力以人为本。主要工作是与码农和项目经理们斗智斗勇，常常为如何把最复杂的产品用尽可能简单的设计呈现出来而想破脑袋。工作之外，做过动画，拍过短片，读过好书，写过长文，十八般武艺，样样耍过，无一精通而已。 分享人博客：https://xiaokeaister.wordpress.com/
 
-## 分享书目：《What Every Body is Saying》  
+## 分享主题/书目：说点读心术————那些身体的小秘密/《What Every Body is Saying》  
 当你和老板one on one 的时候，当你在hall way 与同事闲聊的时候，当你找工作面对面试官的时候，当你买东西和卖家砍价的时候，当你和好友hang out的时候......你是只在听对方讲话而已吗？也许那样，你已经错过了大量最为真实有效的信息：那些从对方身体各个部分，面部，手，脚，四肢甚至躯干的各种小动作中源源不断输出的秘密！让我们聊聊如何倾听身体的声音，解码那些举手投足间的小细节，很可能，你就是下一个读心术高手！
 
 ## 作者簡介: Joe Navarro
