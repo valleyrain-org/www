@@ -3,7 +3,7 @@ layout: post
 title: 谷雨书苑第五十期 -《What Every Body is Saying》-Xiaohan Liu
 category: event
 description: “读心术”分享
-header-img: http://orig13.deviantart.net/9b69/f/2011/228/7/a/lie_to_me_signature_by_elbichopt-d46qnt2.jpg
+header-img: http://static.oprah.com/images/201109/omag/201109-omag-confidence-600x411.jpg
 ---
 
 ## 报名链接
