@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "谷雨书苑第五十一期 《Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future》by Paul Wong"
+title: "谷雨书苑第五十一期 《Elon Musk Biography》by Paul Wong"
 category: event
 description: Elon Musk自传分享
-header-img: http://www.biographicalinquiries2.com/wp-content/uploads/2015/04/ELON-COVER-BOOK-LARGE.jpg
+header-img: http://i.telegraph.co.uk/multimedia/archive/02778/MUSKsum_2778344b.jpg
 ---
 
 ## 报名链接
