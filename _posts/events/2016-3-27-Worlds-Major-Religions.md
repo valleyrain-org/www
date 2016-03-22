@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第五十二期 《安心的学问——世界各大宗教纵览纵览与对比》by 封从德"
+title: "谷雨书苑第五十二期 《安心的学问——世界各大宗教纵览与对比》by 封从德"
 category: event
 description: 安心的学问——世界各大宗教纵览与对比
 header-img: https://www.mum.edu/wp-content/uploads/2014/05/World-Religions04296.jpg
