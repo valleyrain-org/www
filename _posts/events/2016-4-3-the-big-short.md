@@ -27,6 +27,9 @@ Fengsuo Zhou先生也是第九期读书分享[The Great Dissent](http://www.vall
 
 源自美国房贷市场，席卷全球的金融危机摧毁了很多人的生计，甚至动摇了对自由资本主义的信心，对于未来世界经济走向依然有长久影响。Michael Lewis 的畅销书《Big Short》描述几个预见金融危机并获利的投资人，揭示了这场危机中的主要角色和产生机制。HELOC,MBS， CDO， CDS，这些金融产品，背后是有趣深远的故事和人性的征战。Lewis成名于房贷市场创新的投行生活《Liars Poker 》，20年后同样关于房贷市场的这本书是最值得一读的金融文学。本书去年被拍成电影,获得奥斯卡最佳影片提名。
 
+## The Big Short电影预告片
+<iframe width="100%" height="240" src="https://www.youtube.com/embed/vgqG3ITMv1Q" frameborder="0" allowfullscreen></iframe>
+
 ## 书目介绍
 《大卖空：预见史上最大金融浩劫之投资英雄传》（英语：The Big Short: Inside the Doomsday Machine）是一本由迈克尔·刘易斯所著的2000年代泡沫经济题材书籍。W. W. Norton & Company将本书发行于2010年3月15日。它成为了《纽约时报》二十八周畅销书排行榜。
 
@@ -38,6 +41,3 @@ The book also highlights some people involved in the biggest losses created by t
 迈克尔·刘易斯（英文：Michael Lewis，1960年10月15日－），美国当代报告文学作家、财经记者，毕业于普林斯顿大学和伦敦经济学院。大学主修艺术史，在伦敦政经学院取得经济硕士学位，然后在投资银行所罗门兄弟伦敦分公司当债券交易员。他所写的畅销书包括《说谎者的扑克牌(老千骗局)》、《将世界甩在身后》（The New New Thing）、《点球成金》（Moneyball: The Art of Winning an Unfair Game）和《弱点：比赛进程》等。其中《老千骗局》和《将世界甩在身后》同被《福布斯》评为“20世纪最具影响力的20部商业书籍”。目前他是《名利场》的特约编辑。
 
 Michael Monroe Lewis (born October 15, 1960) is an American non-fiction author and financial journalist. His bestselling books include Liar's Poker (1989), The New New Thing (2000), Moneyball: The Art of Winning an Unfair Game (2003), The Blind Side: Evolution of a Game (2006), Panic (2008), Home Game: An Accidental Guide to Fatherhood (2009), The Big Short: Inside the Doomsday Machine (2010), and Boomerang: Travels in the New Third World (2011). He has also been a contributing editor to Vanity Fair since 2009. His most recent book, Flash Boys, which looked at the high-frequency trading sector of Wall Street, was released in 2014.
-
-## The Big Short电影预告片
-<iframe width="100%" height="240" src="https://www.youtube.com/embed/vgqG3ITMv1Q" frameborder="0" allowfullscreen></iframe>
