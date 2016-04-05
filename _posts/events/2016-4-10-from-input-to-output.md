@@ -30,18 +30,20 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 
 在这样一个多元化的国度，融入主流社会让语言能力尤其重要。本期谷雨书院读书会邀请语言教育学专家徐静为我们分享在学习非母语教学过程中的心得与体会。
 
-## 书目介绍
+## 书目介绍: 
 
-From Input to Output by Bill Van Patten
+### From Input to Output by Bill Van Patten
 This new title in the McGraw-Hill Second Language Professional Series provides an eminently accessible overview of key issues in second language acquisition research, written expressly for second language teachers. Avoiding highly technical jargon and terminology, the author gives a compelling account of current research while couching it within a framework that is of particular relevance to classroom practitioners. The result is an engaging reference that should be required reading for all language instructors and department heads. This book is also ideal for a teaching methods course or an introductory seminar on second language acquisition.
 
-Second language acquisition and second language learning by Stephen D Kranshen
+### Second language acquisition and second language learning by Stephen D Kranshen
 
 
 ## 作者介绍
 
+### Bill VanPatten
 Bill VanPatten is a Professor in Second Language Acquisition at Michigan State University. He specializes in second language acquisition, which he investigates on both theoretical and practical levels, using techniques from psycholinguistics, applied linguistics, and cognitive psychology. VanPatten is the author of the textbook Destinos, which is designed for use with Spanish courses.
 
+### Stephen Krashen
 Stephen Krashen (1941) is professor emeritus at the University of Southern California,[1] who moved from the linguistics department to the faculty of the School of Education in 1994. He is a linguist, educational researcher, and political activist.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/X1LRoKQzb9U" frameborder="0" allowfullscreen></iframe>
