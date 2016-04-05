@@ -36,7 +36,15 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 This new title in the McGraw-Hill Second Language Professional Series provides an eminently accessible overview of key issues in second language acquisition research, written expressly for second language teachers. Avoiding highly technical jargon and terminology, the author gives a compelling account of current research while couching it within a framework that is of particular relevance to classroom practitioners. The result is an engaging reference that should be required reading for all language instructors and department heads. This book is also ideal for a teaching methods course or an introductory seminar on second language acquisition.
 
 ### Second language acquisition and second language learning by Stephen D Kranshen
-
+- wikipedia: <https://en.wikipedia.org/wiki/Second-language_acquisition>
+- 相关网站： <http://www.sk.com.br/sk-krash-english.html>
+- 电子版：<http://www.sdkrashen.com/content/books/sl_acquisition_and_learning.pdf>
+- Krashen's theory of second language acquisition consists of five main hypotheses
+  - the Acquisition-Learning hypothesis;
+  - the Monitor hypothesis;
+  - the Natural Order hypothesis;
+  - the Input hypothesis;
+  - and the Affective Filter hypothesis.
 
 ## 作者介绍
 
