@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第五十五期 语言教育学 by 徐静"
+title: "谷雨书苑第五十四期 语言教育学 by 徐静"
 category: event
 description: "在这样一个多元化的国度，融入主流社会让语言能力尤其重要。本期谷雨书苑读书会邀请语言教育学专家徐静为我们分享在学习非母语教学过程中的心得与体会。"
 header-img: "http://www.cal.msu.edu/files/4214/1390/8249/f4c5f339dfdbdb6ea5d31a5da7dfdec6_f2341_1_2.png"
