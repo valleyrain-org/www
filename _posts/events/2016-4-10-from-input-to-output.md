@@ -23,7 +23,7 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 
 ## 分享题目 语言教育学
 
-你是否学习过或者正在学习除了母语之类的第二语言？  
+你是否学习过或者正在学习除了母语之外的第二语言？  
 你是否尝试使用各种方法来提高自己的非母语表达能力？  
 你是否为在工作学习过程中如何准确用非母语阐述观点而感到力不从心？  
 你是否常常在生活中感到很难与来自不同国家的朋友进行深入讨论？  
@@ -46,4 +46,4 @@ Bill VanPatten is a Professor in Second Language Acquisition at Michigan State U
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/X1LRoKQzb9U" frameborder="0" allowfullscreen></iframe>
 
 ### Stephen Krashen
-Stephen Krashen (1941) is professor emeritus at the University of Southern California,[1] who moved from the linguistics department to the faculty of the School of Education in 1994. He is a linguist, educational researcher, and political activist.
+Stephen Krashen (1941) is professor emeritus at the University of Southern California, who moved from the linguistics department to the faculty of the School of Education in 1994. He is a linguist, educational researcher, and political activist.
