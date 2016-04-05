@@ -11,7 +11,7 @@ header-img: "http://www.cal.msu.edu/files/4214/1390/8249/f4c5f339dfdbdb6ea5d31a5
 
 ## 时间和地址：
 
-2016年4月10日，周日下午4:00pm - 7:00pm
+2016年4月10日，周日下午4:00pm - 6:30pm
 Silicon Valley Asian Art Center, 4th Floor, 3777 Stevens Creek Blvd Santa Clara, CA 95051
 
 
