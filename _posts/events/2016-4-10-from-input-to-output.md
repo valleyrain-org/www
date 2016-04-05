@@ -43,7 +43,7 @@ This new title in the McGraw-Hill Second Language Professional Series provides a
 ### Bill VanPatten
 Bill VanPatten is a Professor in Second Language Acquisition at Michigan State University. He specializes in second language acquisition, which he investigates on both theoretical and practical levels, using techniques from psycholinguistics, applied linguistics, and cognitive psychology. VanPatten is the author of the textbook Destinos, which is designed for use with Spanish courses.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/X1LRoKQzb9U" frameborder="0" allowfullscreen></iframe>
+
 ### Stephen Krashen
 Stephen Krashen (1941) is professor emeritus at the University of Southern California,[1] who moved from the linguistics department to the faculty of the School of Education in 1994. He is a linguist, educational researcher, and political activist.
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/X1LRoKQzb9U" frameborder="0" allowfullscreen></iframe>
