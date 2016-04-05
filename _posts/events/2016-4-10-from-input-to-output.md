@@ -3,11 +3,11 @@ layout: post
 title: "谷雨书院第五十五期 语言教育学 by 徐静"
 category: event
 description: "在这样一个多元化的国度，融入主流社会让语言能力尤其重要。本期谷雨书院读书会邀请语言教育学专家徐静为我们分享在学习非母语教学过程中的心得与体会。"
-header-img: http://blogs-images.forbes.com/markhughes/files/2015/12/THE-BIG-SHORT-2-1200x849.png
+header-img: "http://www.cal.msu.edu/files/4214/1390/8249/f4c5f339dfdbdb6ea5d31a5da7dfdec6_f2341_1_2.png"
 ---
 
 ## 报名链接
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=24273944020&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=24419534485&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址：
 
@@ -43,3 +43,5 @@ Second language acquisition and second language learning by Stephen D Kranshen
 Bill VanPatten is a Professor in Second Language Acquisition at Michigan State University. He specializes in second language acquisition, which he investigates on both theoretical and practical levels, using techniques from psycholinguistics, applied linguistics, and cognitive psychology. VanPatten is the author of the textbook Destinos, which is designed for use with Spanish courses.
 
 Stephen Krashen (1941) is professor emeritus at the University of Southern California,[1] who moved from the linguistics department to the faculty of the School of Education in 1994. He is a linguist, educational researcher, and political activist.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/X1LRoKQzb9U" frameborder="0" allowfullscreen></iframe>
