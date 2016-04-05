@@ -6,18 +6,12 @@ description: The Big Short
 header-img: http://blogs-images.forbes.com/markhughes/files/2015/12/THE-BIG-SHORT-2-1200x849.png
 ---
 
-## 报名链接
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=24273944020&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+## 分享视频
 
-## 时间和地址：
-
-2016年4月3日，周日下午4:30pm - 7:00pm  
-Los Altos Library Program Room, 13 S San Antonio Rd, 1st Floor, Los Altos, CA 94022
-
-<iframe width="100%" height="180" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3170.3773928491078!2d-122.1157854!3d37.3809064!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb0eec3743d23%3A0xfc99aea86bf62dc6!2sLos+Altos+Library!5e0!3m2!1sen!2sus!4v1459293572290" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXJf74OQ9T3zu4R-_XxzM5Ds" frameborder="0" allowfullscreen></iframe>
 
 ## 分享人: Fengsuo Zhou
+
 中国陕西省西安市长安区人。1985年保送到北京清华大学物理系。其间组织了清华迄今唯一的一次系学生会直接选举。天安门广场抗议运动参与者，旧金山湾区NGO人道中国创办人。芝加哥大学MBA。现从事量化选股模型研究。热爱自由，崇尚公义，欣赏上帝创造的一切美善。读书广杂，喜欢电影，热衷户外活动，自然有水的地方都会到此。
 [维基百科链接](https://zh.wikipedia.org/zh/%E5%91%A8%E9%94%8B%E9%94%81) 
 
@@ -41,3 +35,13 @@ The book also highlights some people involved in the biggest losses created by t
 迈克尔·刘易斯（英文：Michael Lewis，1960年10月15日－），美国当代报告文学作家、财经记者，毕业于普林斯顿大学和伦敦经济学院。大学主修艺术史，在伦敦政经学院取得经济硕士学位，然后在投资银行所罗门兄弟伦敦分公司当债券交易员。他所写的畅销书包括《说谎者的扑克牌(老千骗局)》、《将世界甩在身后》（The New New Thing）、《点球成金》（Moneyball: The Art of Winning an Unfair Game）和《弱点：比赛进程》等。其中《老千骗局》和《将世界甩在身后》同被《福布斯》评为“20世纪最具影响力的20部商业书籍”。目前他是《名利场》的特约编辑。
 
 Michael Monroe Lewis (born October 15, 1960) is an American non-fiction author and financial journalist. His bestselling books include Liar's Poker (1989), The New New Thing (2000), Moneyball: The Art of Winning an Unfair Game (2003), The Blind Side: Evolution of a Game (2006), Panic (2008), Home Game: An Accidental Guide to Fatherhood (2009), The Big Short: Inside the Doomsday Machine (2010), and Boomerang: Travels in the New Third World (2011). He has also been a contributing editor to Vanity Fair since 2009. His most recent book, Flash Boys, which looked at the high-frequency trading sector of Wall Street, was released in 2014.
+
+## 时间和地址：
+
+2016年4月3日，周日下午4:30pm - 7:00pm  
+Los Altos Library Program Room, 13 S San Antonio Rd, 1st Floor, Los Altos, CA 94022
+
+<iframe width="100%" height="180" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3170.3773928491078!2d-122.1157854!3d37.3809064!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb0eec3743d23%3A0xfc99aea86bf62dc6!2sLos+Altos+Library!5e0!3m2!1sen!2sus!4v1459293572290" allowfullscreen></iframe>
+
+
