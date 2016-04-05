@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第五十四期 语言教育学 by 徐静"
 category: event
 description: "在这样一个多元化的国度，融入主流社会让语言能力尤其重要。本期谷雨书苑读书会邀请语言教育学专家徐静为我们分享在学习非母语教学过程中的心得与体会。"
-header-img: "http://www.cal.msu.edu/files/4214/1390/8249/f4c5f339dfdbdb6ea5d31a5da7dfdec6_f2341_1_2.png"
+header-img: "https://i.vimeocdn.com/video/445759850_1280x960.jpg"
 ---
 
 ## 报名链接
@@ -11,8 +11,9 @@ header-img: "http://www.cal.msu.edu/files/4214/1390/8249/f4c5f339dfdbdb6ea5d31a5
 
 ## 时间和地址：
 
-2016年4月10日，周日下午4:00pm - 6:30pm
-Silicon Valley Asian Art Center, 4th Floor, 3777 Stevens Creek Blvd Santa Clara, CA 95051
+2016年4月10日，周日下午4:00pm - 6:30pm  
+Silicon Valley Asian Art Center, 4th Floor,  
+3777 Stevens Creek Blvd Santa Clara, CA 95051
 
 
 <iframe width="100%" height="180" frameborder="0" style="border:0"
