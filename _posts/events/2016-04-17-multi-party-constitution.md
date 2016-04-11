@@ -12,12 +12,11 @@ header-img: img/multi-party-constitution.jpg
 ## 时间和地址：
 
 2016年4月17日，周日下午4:00pm - 6:30pm  
-Silicon Valley Asian Art Center, 4th Floor,  
-3777 Stevens Creek Blvd Santa Clara, CA 95051
-
+Room 255, The Dr. Martin Luther King, Jr. Library
+150 E San Fernando St. San Jose, CA 95112
 
 <iframe width="100%" height="180" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.29847085954!2d-121.88716634948621!3d37.335441944988325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fccbc0b22b081%3A0xe370813fc863d57f!2sDr.+Martin+Luther+King%2C+Jr.+Library!5e0!3m2!1sen!2sus!4v1460397025811" allowfullscreen></iframe>
 
 ## 分享人介绍
 丁毅，湾区工程师，利用业余时间研究宪政多年，读过数百本中英文参考书、上千篇论文，正在撰写关于中华民国宪法对中国大陆之意义的一部专著。
