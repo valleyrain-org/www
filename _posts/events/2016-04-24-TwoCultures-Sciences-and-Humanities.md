@@ -11,7 +11,7 @@ header-img: http://img1.cache.netease.com/catchpic/1/10/10DF6FAF1FFD1577408DB4D8
 
 ## 时间和地址：
 
-2016年4月24日，周六下午4:30pm - 7：00pm  
+2016年4月24日，周日下午4:30pm - 7：00pm  
 Silicon Valley Asian Art Center, 4th Floor,  
 3777 Stevens Creek Blvd Santa Clara, CA 95051
 
