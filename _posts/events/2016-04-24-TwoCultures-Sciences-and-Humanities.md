@@ -73,4 +73,4 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 硅谷亚洲艺术中心（Silicon Valley Asian Art Center & Narx Gallery），4500平方英尺展厅，平均每月2场艺展，举办中国绘画、书法、雕刻展览和艺术演讲，演奏活动。
 
 ###  协办单位：
-北加州浙大校友会，硅谷亚洲艺术中心,北加州山大校友会
+北加州浙大校友会，硅谷亚洲艺术中心，北加州山大校友会
