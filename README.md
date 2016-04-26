@@ -17,8 +17,9 @@ sudo gem install jekyll-sitemap jekyll-redirect-from
 ```
 
 ## To Test change
-
-   jekyll serve --no-watch
+```
+jekyll serve --no-watch
+```
 
 ## Support
 
