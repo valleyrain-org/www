@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第五十六期 - 两种文化，科学与人文 by 蔡天新"
 category: event
 description: 有人说，做一位数学家和做一位诗人，也许是天底下最难的两件事，蔡天新居然同时是一位数学家和一位诗人。
-header-img: http://img1.cache.netease.com/catchpic/1/10/10DF6FAF1FFD1577408DB4D850BD8A6E.jpg
+header-img:  img/2016-04-24/caitianxin.jpg
 ---
 
 ## 报名链接

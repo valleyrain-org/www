@@ -16,6 +16,10 @@ sudo ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future gem 
 sudo gem install jekyll-sitemap jekyll-redirect-from
 ```
 
+## To Test change
+
+   jekyll serve --no-watch
+
 ## Support
 
 Please open github project [issues](https://github.com/valleyrain-org/www/issues/new) or [send pull requests](https://help.github.com/articles/using-pull-requests/) if any problems are found.
