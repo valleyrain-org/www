@@ -2,7 +2,7 @@
 layout: post
 title: "谷雨书苑第六十期《Life Before Life》 by 姜森原"
 category: event
-description: "Life before life and 西藏生死书。"
+description: "Life Before Life and 西藏生死书。"
 header-img: "http://1824.img.pp.sohu.com.cn/images/blog/2012/8/6/22/7/e7133548_139bf95e0d7g2_blog.jpg"
 ---
 
