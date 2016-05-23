@@ -14,7 +14,7 @@ header-img: "http://1824.img.pp.sohu.com.cn/images/blog/2012/8/6/22/7/e7133548_1
 
 - 录像
 
-  UPLOADING ...
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXKA1LTpaMDfmtJF6LPwMsa1" frameborder="0" allowfullscreen></iframe>
 
 ## 分享人： 姜森原
 
