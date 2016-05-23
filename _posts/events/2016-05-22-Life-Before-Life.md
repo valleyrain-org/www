@@ -6,18 +6,15 @@ description: "Life Before Life and 西藏生死书。"
 header-img: "http://1824.img.pp.sohu.com.cn/images/blog/2012/8/6/22/7/e7133548_139bf95e0d7g2_blog.jpg"
 ---
 
-## 报名链接
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=25471988403&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+## Slides及活动录像
 
-## 时间和地址：
+- Slides
 
-2016年5月22日，周日下午4:00pm - 6:30pm  
-Silicon Valley Asian Art Center, 4th Floor,  
-3777 Stevens Creek Blvd Santa Clara, CA 95051
+  [ValleyRain_JiangMay22.pdf]({{site.url}}/pdf/ValleyRain_JiangMay22.pdf)
 
+- 录像
 
-<iframe width="100%" height="180" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
+  UPLOADING ...
 
 ## 分享人： 姜森原
 
