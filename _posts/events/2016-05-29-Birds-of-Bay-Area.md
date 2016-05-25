@@ -10,7 +10,9 @@ header-img: img/birds_sfbay.jpg
 
 ## 时间和地址：
 
-5月29号 9 am to 11 am  The parking lot for the Lick Mill Park
+5月29号 9 am to 11 am  
+
+The parking lot for the Lick Mill Park
 
 Address: 4750 Lick Mill Blvd, Santa Clara, CA 95054
 
