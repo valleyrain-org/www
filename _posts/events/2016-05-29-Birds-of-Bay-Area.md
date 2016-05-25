@@ -23,3 +23,5 @@ Yiwei was born in Beijing but grew up and lived in the Bay Area most of her life
 
 Come on a walk to learn about the birds of the Bay Area. The Bay Area is not only home to people from around the world, but also an important place for migrating birds and birds raising their families. We will first visit Ulistac Natural Area, in Santa Clara, one of the last open parks in Silicon Valley, and then go visit the Environmental Education Center in Alviso and see the waterbirds. I will also talk about why it's important to protect lands for birds and how helping wildlife can help people as well. There will be opportunities to learn about how to get involved with the San Francisco Bay Bird Observatory and to help wildlife in the Bay Area.
 ![pic](http://www.valleyrain.org/img/birds_sfbay.jpg)
+
+此次活动将会在户外，如果有望远镜的请到时候请带上望远镜，整个活动将会是一边观察，主讲人一边讲解学习的过程。
