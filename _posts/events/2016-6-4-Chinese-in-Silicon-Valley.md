@@ -34,4 +34,4 @@ Palo Alto, CA 94303
 余国良：生物科学家，他持有授权和待授权的专利超过150项。Epitomics公司创始人。中国国家副主席李源潮访问硅谷时，只看两家公司，一家是谷歌，一家就是Epitomics 
 </pre>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kfVGK9aH-ec" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kfVGK9aH-ec" frameborder="0" allowfullscreen></iframe>
