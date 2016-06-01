@@ -10,7 +10,7 @@ header-img: https://i.ytimg.com/vi/kfVGK9aH-ec/maxresdefault.jpg
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=25809220072ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址
-2016年6月4日，周六下午4:00pm - 6:30pm  
+2016年6月4日，周六下午4:00pm - 6:00pm  
 Sofia University 
 1069 E Meadow Cir, Room 1059a
 Palo Alto, CA 94303
