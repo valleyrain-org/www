@@ -7,7 +7,7 @@ header-img: https://i.ytimg.com/vi/kfVGK9aH-ec/maxresdefault.jpg
 ---
 
 ## 报名链接
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=25809220072&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=25809220072&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址
 2016年6月4日，周六下午4:00pm - 6:00pm  
@@ -16,7 +16,7 @@ Sofia University
 Palo Alto, CA 94303
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.2886640621464!2d-122.11097368469227!3d37.43028497982375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba40e35e1c17%3A0x791a0aa8b04e8896!2sSofia+University!5e0!3m2!1sen!2sus!4v1464769595805" width="100" height="180" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.2886640621464!2d-122.11097368469227!3d37.43028497982375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba40e35e1c17%3A0x791a0aa8b04e8896!2sSofia+University!5e0!3m2!1sen!2sus!4v1464769595805" width="100%" height="180" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## 分享人介绍
 
