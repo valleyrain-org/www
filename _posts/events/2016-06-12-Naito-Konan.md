@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第六十三期《内藤湖南的世界》 by Rex Zhen"
 category: event
 description: "Documentary"
-header-img: http://img.vkandian.cn/qp/540x/mmbiz/EHmp79kic8AMLDm9WvRT9ic8kNbcR2dYINPwAbfqOcynUicPUTOHqPVc5nPVSfy0qEX4r9Wqa0NQ8mebC8O8me0iaw/0?wx_fmt=jpeg
+header-img: http://www.chinesepen.org/wp-content/uploads/2014/10/%E5%86%85%E8%97%A4%E6%B9%96%E5%8D%97.jpg
 ---
 
 ## 报名链接
