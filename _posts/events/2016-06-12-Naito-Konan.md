@@ -33,7 +33,7 @@ Rex Zhen，在湾区从事IT行业。主讲过第十一期读书分享《新教�
 
 ## 时间和地址
 
-1月3日，周日下午4:00pm - 6:00pm
+6月12日，周日下午4:00pm - 6:00pm
 4th Floor, 3777 Stevens Creek Blvd
 Santa Clara, CA 95051
 
