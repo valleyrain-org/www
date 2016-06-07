@@ -10,12 +10,12 @@ header-img: http://img.vkandian.cn/qp/540x/mmbiz/EHmp79kic8AMLDm9WvRT9ic8kNbcR2d
 <div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=25920033518&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址
-2016年6月12日，周日下午4:00pm - 6:00pm  
-Silicon Valley Asian Art Center, 4th Floor,
-3777 Stevens Creek Blvd, Santa Clara, CA 95051
+6月12日，周日下午4:00pm - 6:00pm
+4th Floor, 3777 Stevens Creek Blvd
+Santa Clara, CA 95051
 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.2886640621464!2d-122.11097368469227!3d37.43028497982375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba40e35e1c17%3A0x791a0aa8b04e8896!2sSofia+University!5e0!3m2!1sen!2sus!4v1464769595805" width="100%" height="180" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="100%" height="180" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
 
 ## 分享人介绍
 
@@ -30,15 +30,6 @@ Rex Zhen，在湾区从事IT行业。主讲过第十一期读书分享《新教�
 - 内藤湖南消失于中国公众视野的原因。
 - 中国历史分期的其它版本（＋讨论）
 
-
-## 时间和地址
-
-6月12日，周日下午4:00pm - 6:00pm
-4th Floor, 3777 Stevens Creek Blvd
-Santa Clara, CA 95051
-
-<iframe width="100%" height="180" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
 
 
 ## 场地介绍：
