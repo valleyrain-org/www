@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "谷雨书苑第六十六期 秦晖与谷雨书友之交流会"
+title: "谷雨书苑第六十六期 秦晖与谷雨书友交流会"
 category: event
-description: "Book"
-header-img: http://his.snnu.edu.cn:8000/userfiles/images/%E7%A7%A6%E6%99%96%E3%80%82.jpg
+description: "国内知名学者，转型问题专家，秦晖教授与谷雨书友见面交流会"
+header-img: img/2016-06-28/qinhui.jpg
 ---
 
 ## 报名链接
@@ -48,3 +48,6 @@ header-img: http://his.snnu.edu.cn:8000/userfiles/images/%E7%A7%A6%E6%99%96%E3%8
 ## 时间和地址
 2016年6月28日，周二晚 7:30 - 9:00
 Palo Alto TBA
+
+![pic](/img/2016-06-28/qin1.jpg)
+
