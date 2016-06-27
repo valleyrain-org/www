@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第六十六期 秦晖与谷雨书友之交流会"
 category: event
 description: "Book"
-header-img: http://y1.ifengimg.com/a/2015_28/fd63eaee5c2fd10.jpg
+header-img: http://his.snnu.edu.cn:8000/userfiles/images/%E7%A7%A6%E6%99%96%E3%80%82.jpg
 ---
 
 ## 报名链接
