@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第六十七期平凡的时尚范，不觉明历》by 柳睿恩 "
+title: "谷雨书苑第六十七期《平凡的时尚范，不觉明历》by 柳睿恩 "
 category: event
 description: "穿衣搭配"
 header-img: http://cdn.ndsmcobserver.com/wp-content/uploads/2014/04/1397506702-NormcorebannerWEB.jpg
