@@ -39,8 +39,6 @@ Palo Alto, CA 94303
 ## 参考链接
 
 1 [*共识网: 21世纪的全球化困境：原因与出路*](http://www.21ccom.net/articles/world/bjzd/20150623125999_all.html)
->>>>>>> 732671a714fdf4304f52251eaaf17bd6625c175a
-
 
 ![pic](/img/2016-06-28/qin1.jpg)
 
