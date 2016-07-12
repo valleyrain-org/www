@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第六十九期 - 离愁诗 by 忆河 "
 category: event
 description: "中国古典诗词-离愁诗"
-header-img: http://img.aituwen.com/kTMiNFRkml9ssV8ggn4%2B6LJtuaU%3D?imageView2/2/w/640/interlace/1
+header-img: http://oi65.tinypic.com/30t589y.jpg
 ---
 
 ## 报名链接
