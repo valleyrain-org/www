@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第七十期 - 孔子與宗教——中國人的宇宙觀 by Congde Feng "
 category: event
 description: "孔子與宗教——中國人的宇宙觀"
-header-img: http://img5.imgtn.bdimg.com/it/u=18359679,3351285386&fm=21&gp=0.jpg
+header-img: http://hebei.sinaimg.cn/2015/0421/U11794P1275DT20150421164024.jpg
 ---
 
 ## 报名链接
