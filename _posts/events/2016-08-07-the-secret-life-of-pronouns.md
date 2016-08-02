@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第七十二期 - The Secret Life of Pronouns: What Our Words Say About Us by Mengdie Hu"
+title: "谷雨书苑第七十二期 - The Secret Life of Pronouns by Mengdie Hu"
 category: event
 description: "The Secret Life of Pronouns: What Our Words Say About Us"
 header-img: http://sites.utexas.edu/shelflife/files/2012/10/book.pennebaker.jpg
