@@ -1,10 +1,10 @@
-----
--layout: post
--title: "谷雨书苑第七十二期 - The Secret Life of Pronouns by Mengdie Hu"
--category: event
--description: "The Secret Life of Pronouns: What Our Words Say About Us"
--header-img: http://www.yalescientific.org/wp-content/uploads/2012/03/features-pronouns-2.jpg
-----
+---
+layout: post
+title: "谷雨书苑第七十二期 - The Secret Life of Pronouns by Mengdie Hu"
+category: event
+description: "The Secret Life of Pronouns: What Our Words Say About Us"
+header-img: http://www.yalescientific.org/wp-content/uploads/2012/03/features-pronouns-2.jpg
+---
 
 ## 报名链接
 
