@@ -2,7 +2,7 @@
 layout: post
 title: "谷雨书苑第七十四期 - 正义之心与善恶之源——道德的由来、社会思想分歧的原因和人的本性 by Yi Ding"
 category: event
-description: 正义之心与善恶之源"
+description: "正义之心与善恶之源"
 header-img: img/source_of_moral.jpg
 ---
 
