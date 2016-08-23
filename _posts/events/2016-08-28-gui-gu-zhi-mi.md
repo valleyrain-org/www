@@ -18,6 +18,6 @@ header-img: http://images.shobserver.com/news/690_390/2015/3/24/d778b5a9-12d1-48
 《硅谷之谜》从某种意义上讲是《浪潮之巅》的续集或姊妹篇。在《硅谷之谜》中，吴军站在一个更高的层次，仔细分析了硅谷的起源和发展，对硅谷的创新力进行了深刻剖析，把硅谷的经验提升到了理论高度，并且解释了为什么只有硅谷真正做到了宽容叛逆、宽容失败、多元文化和拒绝平庸。这些特点造就了硅谷几十年的长盛不衰。
 
 ## 时间和地址:
-2016年8月28日，周日下午4:00pm - 6:00pm
+2016年8月28日，周日下午4:00pm - 6:30pm
 
-Sofia University 1059 E Meadow Cir, Room 1059Bb， Palo Alto, CA 94303
+Sofia University 1059 E Meadow Cir, Room 1059b， Palo Alto, CA 94303
