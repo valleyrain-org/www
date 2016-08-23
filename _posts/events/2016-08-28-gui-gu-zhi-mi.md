@@ -7,7 +7,8 @@ header-img: http://images.shobserver.com/news/690_390/2015/3/24/d778b5a9-12d1-48
 ---
 
 ## 报名链接
-<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=27272881924ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=27272881924&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
 
 ## 分享人
 董飞，硅谷工程师。在技术之外喜欢分享一些硅谷前沿资讯。创办”董老师在硅谷“专栏，在微信公众号、知乎、36kr、雷锋网转载。
