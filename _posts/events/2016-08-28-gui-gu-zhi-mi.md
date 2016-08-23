@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第七十五期 - 《硅谷之谜》 by 董飞"
 category: event
 description: "硅谷之谜"
-header-img: http://mmbiz.qpic.cn/mmbiz/ZYpa3icG6myiaRslJ8INSpkDa9bAVLkxHy7mhghV2bDMa45zneTlxcHj8gejMmzF65egPvsPcE9JuZeQVsBmphpQ/0?wx_fmt=png
+header-img: http://images.shobserver.com/news/690_390/2015/3/24/d778b5a9-12d1-48dd-ba43-f6941af72a58.jpg
 ---
 
 ## 报名链接
