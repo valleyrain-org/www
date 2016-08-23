@@ -11,6 +11,7 @@ header-img: https://upload.wikimedia.org/wikipedia/en/3/33/Silicon_valley_title.
 
 ## 分享人
 董飞，硅谷工程师。在技术之外喜欢分享一些硅谷前沿资讯。创办”董老师在硅谷“专栏，在微信公众号、知乎、36kr、雷锋网转载。
+![pic](http://www.valleyrain.org/img/2016-08-28/donglaoshi.jpg)
 
 ## 分享主题 —— 《硅谷之谜》
 这是一本颠覆人们对信息时代的认识、对创新和创业的理解的好书。作者吴军通过介绍硅谷成功的秘诀，揭示了信息时代的特点和方法论。
