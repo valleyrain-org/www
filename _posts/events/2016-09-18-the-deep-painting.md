@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第七十七期 - 墨海深沉 by 虞兰因"
+title: "谷雨书苑第七十七期 - 墨海深沉—当代水墨艺术 by 虞兰因"
 category: event
 description: "墨海深沉"
 header-img: http://img10.artimg.net/newart/2016/0714/1468467460_632242.jpg.abig.jpg
