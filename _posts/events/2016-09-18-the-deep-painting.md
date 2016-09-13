@@ -7,7 +7,7 @@ header-img: http://img10.artimg.net/newart/2016/0714/1468467460_632242.jpg.abig.
 ---
 
 ## 报名链接
-<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=27586813903&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=27696082729&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 分享主题 —— 墨海深沉——当代水墨艺术
 主讲人语：
