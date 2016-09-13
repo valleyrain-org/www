@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第七十七期 - “墨海深沉” by 虞兰因"
+title: "谷雨书苑第七十七期 - 墨海深沉 by 虞兰因
 category: event
 description: "墨海深沉"
 header-img: http://img10.artimg.net/newart/2016/0714/1468467460_632242.jpg.abig.jpg
@@ -9,7 +9,7 @@ header-img: http://img10.artimg.net/newart/2016/0714/1468467460_632242.jpg.abig.
 ## 报名链接
 <div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=27586813903&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
-## 分享主题 —— “墨海深沉——当代水墨艺术”
+## 分享主题 —— 墨海深沉——当代水墨艺术
 主讲人语：
 当代水墨艺术有它自身独特的审美观念和表达方式。它丰富多彩的语境和不拘一格的多元性媒介, 使我在创作时既能吸取传统水墨的精髓，又可超越其束缚和局限性。慢慢地呈现出我多年潛水与冥想时所形成的独特的内心世界。 
 在水墨创作的同时，更需要的是将我对人世的感悟，进一步升华；内心储存着的在深海中所得到的大自然的启迪, 往往能触发我更深刻的领悟。长久以来，当冥想带我进入持续的忘我状态时，循着自我探索的深入，开始一点点地清理过滤残余的杂质，使内心更加清澈明净。在冥想与创作的过程中，不时感受到老庄的超悟境界。艺术的表达可随心境而生发，存在与虚无之间也了无痕迹。
@@ -30,3 +30,9 @@ http://artist.artron.net/yishujia0266032
 2016年9月18日，周日下午3:30pm - 5:30pm
 
 4th Floor, 3777 Stevens Creek Blvd Santa Clara, CA 95051
+
+本次活动由硅谷亚洲艺术中心和谷雨书苑联合举办 
+
+## 场地介绍：
+
+硅谷亚洲艺术中心（Silicon Valley Asian Art Center & Narx Gallery），4500平方英尺展厅，平均每月2场艺展，举办中国绘画、书法、雕刻展览和艺术演讲，演奏活动。
