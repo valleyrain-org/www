@@ -9,6 +9,14 @@ header-img: http://img10.artimg.net/newart/2016/0714/1468467460_632242.jpg.abig.
 ## 报名链接
 <div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=27696082729&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
+
+## 活动时间和地址:
+2016年9月18日，周日下午3:30pm - 5:30pm
+
+4th Floor, 3777 Stevens Creek Blvd Santa Clara, CA 95051
+
+本次活动由硅谷亚洲艺术中心和谷雨书苑联合举办 
+
 ## 分享主题 —— 墨海深沉——当代水墨艺术
 主讲人语：
 当代水墨艺术有它自身独特的审美观念和表达方式。它丰富多彩的语境和不拘一格的多元性媒介, 使我在创作时既能吸取传统水墨的精髓，又可超越其束缚和局限性。慢慢地呈现出我多年潛水与冥想时所形成的独特的内心世界。 
@@ -24,14 +32,7 @@ header-img: http://img10.artimg.net/newart/2016/0714/1468467460_632242.jpg.abig.
 
 虞兰因官网 : 
 http://artist.artron.net/yishujia0266032 	
-                 
 
-## 时间和地址:
-2016年9月18日，周日下午3:30pm - 5:30pm
-
-4th Floor, 3777 Stevens Creek Blvd Santa Clara, CA 95051
-
-本次活动由硅谷亚洲艺术中心和谷雨书苑联合举办 
 
 ## 场地介绍：
 
