@@ -23,6 +23,7 @@ header-img: http://img10.artimg.net/newart/2016/0714/1468467460_632242.jpg.abig.
 虞兰因祖藉浙江宁波,幼时随父母赴台湾, 毕业于台湾大学, 获学士学位(BA), 20岁时在台北市中山堂举办首次个展, 同年9月获 全额奖学金赴美深造. 在美国University of Louisville 获艺术创作,艺术史双硕士学位.(MFA).后在纽约Art Student League 随Will Barnet大师工作深造多年.
 
 虞兰因官网 : 
+
 http://artist.artron.net/yishujia0266032 	
 
 ## 分享主题 —— 墨海深沉——当代水墨艺术
