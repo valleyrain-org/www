@@ -11,7 +11,7 @@ header-img: http://csosoundsandstories.org/wp-content/uploads/Kleiber-1983-wide-
 
 ## 活动时间和地址
 2016年9月25日，周日下午4:00pm - 6:00pm
-Sofia University 1069 E Meadow Cir, Room 1059A， Palo Alto, CA 94303
+3165 Olin Ave, San Jose, CA 95117 
 
 ## 分享人介绍
 Fisher，中国渔政大学烹饪学院近海料理系毕业，目前在AAWA（Aquatic Animal Welfare Association）旧金山分部工作。长期热爱古典音乐，旧金山歌剧院站票区常客，湾区听乐五年，减肥数斤。
