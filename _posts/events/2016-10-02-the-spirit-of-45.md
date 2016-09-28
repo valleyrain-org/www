@@ -2,7 +2,7 @@
 layout: post
 title: "谷雨书苑第七十九期 - The Spirit of '45' by Frank Lin "
 category: event
-description: "The Spirit of "45""
+description: "The Spirit of 45"
 header-img: http://csosoundsandstories.org/wp-content/uploads/Kleiber-1983-wide-980x520.jpg
 ---
 
