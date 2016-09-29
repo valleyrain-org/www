@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "谷雨书苑第七十九期 - The Spirit of '45' by Frank Lin "
+title: "谷雨书苑第七十九期 - The Spirit of '45 by Frank Lin "
 category: event
-description: "The Spirit of 45"
+description: "The Spirit of '45"
 header-img: http://img.timetw.com/4/18136_101018164756984.jpg
 ---
 
