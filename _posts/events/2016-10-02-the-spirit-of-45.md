@@ -18,3 +18,5 @@ Sofia University 1059 E Meadow Cir, Room 1059b
 
 ## 分享主题
 主講人將會講述關於二戰期間，中國軍人是如何去抵抗日軍的入侵，取得最後的勝利。以及關於飛虎隊的一些故事，此次分享的很多故事和細節，可能是大家之前從來沒有聽說過的。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_c86Gwsb5LY" frameborder="0" allowfullscreen></iframe>
