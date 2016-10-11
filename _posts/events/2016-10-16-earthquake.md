@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第八十一期 - 漫谈地震101--回首灾难 学会面对 by 刘鹏飞"
+title: "谷雨书苑第八十一期 - 漫谈地震101——回首灾难 学会面对 by 刘鹏飞"
 category: event
 description: "唐山大地震幸存者讲述防震减灾相关知识"
 header-img: "img/IMG_5432.JPG"
