@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第八十一期 - 回首灾难，学会面对 by 刘鹏飞"
 category: event
 description: "唐山大地震幸存者讲述防震减灾相关知识"
-header-img: http://media.cagle.com/107/2014/02/18/144517_600.jpg
+header-img: "img/IMG_5432.JPG"
 ---
 
 ## 报名链接
