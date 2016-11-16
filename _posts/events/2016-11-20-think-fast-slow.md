@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第八十六期 ———— 《思考，快与慢》 by 朱留勋"
 category: event
 description: ""
-header-img: "https://i.ytimg.com/vi/Y_1HD3ZKEV0/hqdefault.jpg"
+header-img: "http://img.sanwen8.com/1510/1446170842.jpg"
 ---
 
 ## 报名链接
