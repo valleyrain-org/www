@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "谷雨书苑第八十八期 ———— 理想与路径——《美国宪法导读》分享 by 刘雁"
+title: "谷雨书苑第八十八期 ———— 理想与路径——《美国宪法导读》 by 刘雁"
 category: event
 description: ""
-header-img: "http://img.sanwen8.com/1510/1446170842.jpg"
+header-img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg/800px-Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg"
 ---
 
 ## 报名链接
-<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=29429655893&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=30057456662&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 活动时间和地址
 2016年12月11日，周日下午4:00pm - 6:00pm
