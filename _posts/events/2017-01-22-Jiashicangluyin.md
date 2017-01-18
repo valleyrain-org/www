@@ -2,7 +2,7 @@
 layout: post
 title: "谷雨书苑第九十一期 《驾驶舱录音》 by 章兴国"
 category: event
-description: "侦探小说"
+description: ""
 header-img: "https://s.s-bol.com/imgbase0/imagebase3/large/FC/1/0/7/9/9200000063929701.jpg"
 ---
 
