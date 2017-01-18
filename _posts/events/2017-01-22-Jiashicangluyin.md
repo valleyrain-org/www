@@ -21,10 +21,10 @@ Palo Alto, CA 94303
 ## 分享书目
 侦探小说《驾驶舱录音》的作者章兴国，谈小说创作和小说《驾驶舱录音》。
 
-##分享人介绍
+## 分享人介绍
 章兴国，Oracle, Software Engineer
 
-##Topic：
+## Topic：
 1. action / comedy 电影, 人物出场亮相。例子：”Dirty Harry”, 《驾驶舱录音》 (选读第一章的一段故事）
 2. Quest 电影的公式。主人公，bond, 初期，低潮，铺垫，高潮，结尾，大家可以举荐好电影来做例子，《驾驶舱录音》 （选读第二十八章的一段故事）
 3. 好莱坞电影的一般公式：Act 1, Act 2, Act 3, Suspension of disbelief. 例子：《驾驶舱录音》,
