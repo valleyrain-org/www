@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "谷雨书苑第一百期 - 佛法浅谈 - 探秘宇宙人生的智慧(下） by Larry Huang "
+title: "谷雨书苑第一百期 - 佛法浅谈 - 探秘宇宙人生的智慧(2） by Larry Huang "
 category: event
-description: "佛法浅谈（下）"
+description: "佛法浅谈（2）"
 header-img: http://www.fjdh.cn/UploadFiles/wumin_UploadFiles_3115/201004/2010042423022120.jpg
 ---
 
 ## 报名链接
-<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=32279697444&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=33232423072&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 活动时间和地址
 2017年4月2日，周日下午4:00pm - 6:00pm
