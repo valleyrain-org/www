@@ -10,7 +10,7 @@ header-img: http://www.fjdh.cn/UploadFiles/wumin_UploadFiles_3115/201004/2010042
 <div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=33232423072&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 活动时间和地址
-2017年4月2日，周日下午4:00pm - 6:00pm
+2017年4月2日，周日下午4:00pm - 6:30pm
 
 Sofia University 
 
