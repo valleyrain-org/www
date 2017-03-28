@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第九十五期 - 佛法浅谈 - 探秘宇宙人生的智慧 by Larry Huang "
+title: "谷雨书苑第九十五期 - 佛法浅谈 - 探秘宇宙人生的智慧(1) by Larry Huang "
 category: event
 description: "佛法浅谈"
 header-img: http://www.fjdh.cn/UploadFiles/wumin_UploadFiles_3115/201004/2010042423022120.jpg
