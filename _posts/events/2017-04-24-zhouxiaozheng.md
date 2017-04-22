@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第103期 周孝正谈当代中国社会问题 by 周孝正"
 category: event
 description: ""
-header-img: "http://i1.sinaimg.cn/cj/hy/20111021/U453P31T1D10666574F46DT20111021160235.jpg"
+header-img: "img/zhouxiaozheng.jpg"
 ---
 ## 报名链接
 <div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=33947972299&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
