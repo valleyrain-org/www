@@ -19,7 +19,7 @@ header-img: "img/cherry-picking.jpg"
 ## 行程安排
 
 8:30am: milpitas大华carpool集合  
-10:00am: 到达果园  
+10:00am: 到达果园@Brentwood,CA
 12:00pm-2:00pm: 午餐，返回  
 
 ![Cherry Picking](http://www.crossfitfactorysquare.com/wp-content/uploads/2016/01/cherry-picking.png)
