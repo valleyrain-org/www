@@ -6,7 +6,7 @@ description: ""
 header-img: "img/cherry-picking.jpg"
 ---
 ## 报名链接
-<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=34457221477&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=34683391959&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 活动时间和地址
 2017年5月20日，周六上午8:00am - 2:00pm
