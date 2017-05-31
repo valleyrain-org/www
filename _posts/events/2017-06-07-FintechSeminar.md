@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第106期 - Fintech Seminar by Dr.Jim Wang"
 category: event
 description: ""
-header-img: "https://www.cityfalcon.com/blog/wp-content/uploads/2016/06/shutterstock_374291458.jpg"
+header-img: "img/shutterstock_374291458.jpg"
 ---
 ## 报名链接
 <div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=34998128344&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
