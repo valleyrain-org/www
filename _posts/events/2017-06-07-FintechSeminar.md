@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第106期 - Fintech Seminar by Dr.Jim Wang"
 category: event
 description: ""
-header-img: "img/shutterstock_374291458.jpg"
+header-img: "http://www.valleyrain.org/img/shutterstock_374291458.jpg"
 ---
 ## 报名链接
 <div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=34998128344&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
