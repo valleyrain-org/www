@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第106期 - Fintech Seminar by Dr.Jim Wang"
+title: "谷雨书苑第106期 -  Movers and Shakers in the Global FinTech Scene by Dr.Jim Wang"
 category: event
 description: ""
 header-img: "http://www.valleyrain.org/img/shutterstock_374291458.jpg"
