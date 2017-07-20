@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /partners/
-title: "合作伙伴"
-description: "白麓·纽约『让思考更独立，让求索不再孤单』"
+title: "白麓·纽约"
+description: "『让思考更独立，让求索不再孤单』"
 header-img: "img/bailu-newyork-logo.jpg"
 ---
 
