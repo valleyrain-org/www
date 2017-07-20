@@ -2,7 +2,7 @@
 layout: page
 permalink: /partners/
 title: "合作伙伴"
-description: "白麓·纽约"
+description: "白麓·纽约『让思考更独立，让求索不再孤单』"
 header-img: "img/bailu-newyork-logo.jpg"
 ---
 
@@ -27,7 +27,7 @@ header-img: "img/bailu-newyork-logo.jpg"
 
 
 
-白麓纽约介绍：白麓·纽约『让思考更独立，让求索不再孤单』
+白麓纽约介绍
 ------------------
 
 白麓·纽约是注册于美国纽约州一个独立的非政府，非宗教，非营利的综合文化交流平台。以“提升社会中坚力量的独立思考能力及综合素质”为理念，白麓目前有正式成员一千多人。
