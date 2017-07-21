@@ -35,18 +35,18 @@ header-img: "img/bailu-newyork-logo.jpg"
 
 白麓每周末在纽约曼哈顿地区都有免费的线下交流会，旗下精品活动包括：白麓Talk(主题交流会），白麓论坛。
 
-网站：[http://bailunyc.org](http://bailunyc.org)
+网站： [http://bailunyc.org](http://bailunyc.org)
 
-公众号：bailu_culture
+公众号： bailu_culture
 
-微博：[http://www.weibo.com/u/6304009286?refer_flag=1001030201](http://www.weibo.com/u/6304009286?refer_flag=1001030201)
+微博： [http://www.weibo.com/u/6304009286?refer_flag=1001030201](http://www.weibo.com/u/6304009286?refer_flag=1001030201)
 
-纪念视频：[https://v.qq.com/x/page/y05025ilrjd.html](https://v.qq.com/x/page/y05025ilrjd.html)
+纪念视频： [https://v.qq.com/x/page/y05025ilrjd.html](https://v.qq.com/x/page/y05025ilrjd.html)
 
-youtube每周活动视频:[https://www.youtube.com/channel/UCqQE9YV081uI7mkZhxDPhhg](https://www.youtube.com/channel/UCqQE9YV081uI7mkZhxDPhhg)
+youtube每周活动视频: [https://www.youtube.com/channel/UCqQE9YV081uI7mkZhxDPhhg](https://www.youtube.com/channel/UCqQE9YV081uI7mkZhxDPhhg)
 
 
-您也可以关注荔枝喜马拉雅音频和优酷视频：搜索白麓纽约
+您也可以关注荔枝喜马拉雅音频和优酷视频： 搜索白麓纽约
 
 
 ![img](/img/bailu-newyork-team.jpg)
