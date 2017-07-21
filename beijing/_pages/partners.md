@@ -6,7 +6,7 @@ description: "『让思考更独立，让求索不再孤单』"
 header-img: "img/bailu-newyork-logo.jpg"
 ---
 
-![img](/img/bailu-newyork-team.jpg)
+![img](/img/bailu-newyork-threeyears.jpg)
 
 合作宣言
 ----------------
@@ -48,3 +48,5 @@ youtube每周活动视频:[https://www.youtube.com/channel/UCqQE9YV081uI7mkZhxDP
 
 您也可以关注荔枝喜马拉雅音频和优酷视频：搜索白麓纽约
 
+![img](/img/bailu-newyork-girls.jpg)
+![img](/img/bailu-newyork-team.jpg)
