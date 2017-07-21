@@ -49,7 +49,7 @@ youtube每周活动视频:[https://www.youtube.com/channel/UCqQE9YV081uI7mkZhxDP
 您也可以关注荔枝喜马拉雅音频和优酷视频：搜索白麓纽约
 
 
-![img](/img/bailu-newyork-girls.jpg)
-
-
 ![img](/img/bailu-newyork-team.jpg)
+
+
+![img](/img/bailu-newyork-girls.jpg)
