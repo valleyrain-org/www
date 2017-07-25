@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第112期 -——《中国农村青年和妇女的潜力》 by Victor Ali"
+title: "谷雨书苑第112期 -——《中国农村青年和妇女潜能》 by Victor Ali"
 category: event
 description: ""
 header-img: "http://i.epochtimes.com/assets/uploads/2016/12/bkncn-20160216032142327-0216_05011_001_01b.jpg"
