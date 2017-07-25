@@ -1,4 +1,4 @@
----
+于---
 layout: post
 title: "谷雨书苑第112期 -——《中国农村青年和妇女潜能》 by Victor Ali"
 category: event
@@ -13,7 +13,7 @@ header-img: "http://i.epochtimes.com/assets/uploads/2016/12/bkncn-20160216032142
 2017年7月30日，周日4:00pm - 6:00pm Sofia University 1059 E Meadow Cir, Room 1059b, Palo Alto, CA 94303
 
 ## 分享人介绍
-Mr. Victor Ali（胜利），美国人，曾居旧金山，任职与美国司法部反垄断部门。现居澳门，为巴迪基金会理事会委员。 
+Mr. Victor Ali（胜利），美国人，曾居旧金山，任职于美国司法部反垄断部门。现居澳门，为巴迪基金会理事会委员。 
 
 ## 分享主题
 - 如何为中国农村妇女提供教育和培训机会来挖掘他们的巨大潜能？
