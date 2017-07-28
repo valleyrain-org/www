@@ -51,3 +51,16 @@ As we are becoming more influential, we welcome more readers to join us.
 
 对谷雨书苑和网站建设有任何意见建议可以联系: [valleyrain.org@gmail.com](mailto:valleyrain.org@gmail.com)。
 
+
+帮助我们
+--------
+如果您从谷雨的文化分享活动当中有所收获，愿意参与谷雨的发展建设，欢迎与我们联系。
+
+您也可以通过捐款的方式帮助我们，以便邀请更多远方的专家学者和文化名人，给书友们带来更加丰富优质的精神盛宴。
+
+谷雨的PayPal帐号： valleyrain.org@gmail.com
+
+银行帐号： US Bank (ValleyRain International)， routing number: 121122676， account number:  1575 1147 3892
+             
+注：大家的捐款都可以抵稅，同时很多公司也有donation match的项目。
+
