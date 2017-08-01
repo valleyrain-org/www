@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第114期 -《The art of power》 by Fengsuo Zhuo"
 category: event
 description: ""
-header-img: 2017-08-06-the-art-of-power.jpeg
+header-img: img/2017-08-06-the-art-of-power.jpeg
 ---
 
 ## 报名链接
