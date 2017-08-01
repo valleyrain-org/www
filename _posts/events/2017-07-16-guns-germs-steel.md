@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第110期 -《读 Jared Diamond 的 <枪-钢铁-细菌> 有感
-》 by 杨承志"
+title: "谷雨书苑第110期 -《读 Jared Diamond 的 <枪-钢铁-细菌> 有感》 by 杨承志"
 category: event
 description: ""
 header-img: img/gunsgermsteel.png
