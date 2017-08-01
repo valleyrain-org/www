@@ -7,7 +7,7 @@ header-img: img/2017-08-06-the-art-of-power.jpeg
 ---
 
 ## 报名链接
-<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/e/114-the-art-of-power-by-fengsuo-zhuo-tickets-36677124266?ref=estw" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=36677124266&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 活动时间和地址
 2017年8月6日，周日4:00pm - 6:00pm
