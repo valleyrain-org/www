@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第八十二期 - 《战争与和平》 by Fengsuo Zhuo"
+title: "谷雨书苑第八十二期 - 《战争与和平》 by Fengsuo Zhou"
 category: event
 description: "文学巨作阅读分享"
 header-img: "http://img.qdaily.com/article/article_show/201606071547580yKbIoerHAZtvWNw.jpg?imageMogr2/auto-orient/thumbnail/!755x450r/gravity/Center/crop/755x450/quality/85/format/jpg/ignore-error/1"
