@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第115期 -《漫谈中国百年战事》 by 杨海平"
 category: event
 description: ""
-header-img: img/2017-08-13-china-war.jpeg
+header-img: img/2017-08-13-china-war.jpg
 ---
 
 ## 报名链接
