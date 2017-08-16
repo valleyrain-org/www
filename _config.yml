@@ -21,7 +21,7 @@ future: true
 # Data files URL
 www-data-url: "https://raw.githubusercontent.com/valleyrain-org/www-data/master"
 
-gems:
+plugins:
     - jekyll-sitemap
     - jekyll-redirect-from
 
