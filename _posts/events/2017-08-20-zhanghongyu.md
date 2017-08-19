@@ -29,3 +29,9 @@ Palo Alto, CA 94303
 ## 分享内容 
 
 分享对摄影的感受与经验，分享摄影作品，从中分析如何拍好一张照片，后期如何调整。黑、白、灰，光与影是如何在一张图片中呈现的。
+
+## 部分摄影作品
+![img](/img/photos/zhanghongyu/01.jpg)
+![img](/img/photos/zhanghongyu/12.jpg)
+![img](/img/photos/zhanghongyu/09.jpg)
+![img](/img/photos/zhanghongyu/05.jpg)
