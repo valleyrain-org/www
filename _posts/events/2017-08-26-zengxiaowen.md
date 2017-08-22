@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第117期 -《每一个夜晚，都有“家庭作业”》 by 曾晓文"
+title: "谷雨书苑第117期 -《从漂泊流浪到落地生根》 by 曾晓文"
 category: event
 description: ""
 header-img: img/2017-08-26-zengxiaowen.png
@@ -25,7 +25,7 @@ Palo Alto, CA 94303
 
 ## 分享主题
 
-《每一个夜晚，都有“家庭作业”》
+《从漂泊流浪到落地生根》
 
 
 ## 分享内容 
