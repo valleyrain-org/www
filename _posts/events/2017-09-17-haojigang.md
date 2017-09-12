@@ -12,7 +12,7 @@ header-img: img/2017-09-17-haojigang.jpg
 ## 活动时间和地址
 2017年9月17日，周日4:00pm - 6:00pm
 Sofia University
-1059 E Meadow Cir, Room 1059a,
+1069 E Meadow Cir, Room 205,
 Palo Alto, CA 94303
 
 ## 分享人介绍
