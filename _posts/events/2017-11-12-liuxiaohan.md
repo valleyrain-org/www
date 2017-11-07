@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第131期 —《餐桌上的世界史》 by Xiaohan Liu"
+title: "谷雨书苑第131期 — 什么，吃货学历史？那来看看《餐桌上的世界史》 by Xiaohan Liu"
 category: event
 description: ""
 header-img: img/2017-11-12-liuxiaohan.jpg
@@ -16,16 +16,13 @@ Room 100, 3160 De La Cruz Blvd Santa Clara, CA 95054
 ## 分享人介绍
 Xiaohan Liu, 硅谷用户体验设计师一枚。身处科技洪流之中，一直努力以人为本。主要工作是与码农和项目经理们斗智斗勇，常常为如何把最复杂的产品用尽可能简单的设计呈现出来而想破脑袋。工作之外，做过动画，拍过短片，读过好书，写过长文，十八般武艺，样样耍过，无一精通而已。
  
-个人博客：https://xiaokeaister.wordpress.com
 
 ## 分享主题
 
-《餐桌上的世界史》
+什么，吃货学历史？那来看看《餐桌上的世界史》
 
 
 ## 分享内容 
-
-什么，吃货学历史？那来看看《餐桌上的世界史》
 
 传说，猪肉曾用来做测谎仪？
 
