@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第139期 -《Alexander Hamilton》 by 周峰锁"
+title: "谷雨书苑第139期 -《Alexander Hamilton》 by 周锋锁"
 category: event
 description: ""
 header-img: img/2018-01-13-zhoufengsuo.jpg
