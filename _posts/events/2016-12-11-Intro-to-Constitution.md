@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第八十八期 ———— 理想与路径——《美国宪法导读》 by 刘雁"
+title: "谷雨书苑第八十八期 - 理想与路径——《美国宪法导读》 by 刘雁"
 category: event
 description: ""
 header-img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg/800px-Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg"

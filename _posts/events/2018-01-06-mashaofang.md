@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第138期 -历史虚无主义与历史真相的追寻 by 马少方"
+title: "谷雨书苑第138期 -《历史虚无主义与历史真相的追寻》 by 马少方"
 category: event
 description: ""
 header-img: img/2018-01-06-mashaofang.jpg
