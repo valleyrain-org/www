@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第133期 -《东西之争视野下的汉语古典泛读》 by 马少方"
+title: "谷雨书苑第132期 -《东西之争视野下的汉语古典泛读》 by 马少方"
 category: event
 description: ""
 header-img: img/2017-11-18-mashaofang.jpg
