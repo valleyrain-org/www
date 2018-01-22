@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第142期 -《革命:从告别到再思考》 by 马少方"
+title: "谷雨书苑第141期 -《革命:从告别到再思考》 by 马少方"
 category: event
 description: ""
 header-img: img/2018-01-27-mashaofang.jpg
