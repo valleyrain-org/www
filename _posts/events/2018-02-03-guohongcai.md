@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第144期 - 关于比特币、区块链、ICO by 郭宏才"
+title: "谷雨书苑第143期 - 关于比特币、区块链、ICO by 郭宏才"
 category: event
 description: ""
 header-img: img/2018-02-03-guohongcai.jpg
