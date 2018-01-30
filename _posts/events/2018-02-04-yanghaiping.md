@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第143期 - 漫谈中日六次戰爭史 by 杨海平"
+title: "谷雨书苑第144期 - 漫谈中日六次戰爭史 by 杨海平"
 category: event
 description: ""
 header-img: img/2018-02-04-yanghaiping.jpg
