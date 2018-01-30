@@ -14,7 +14,7 @@ header-img: img/2018-02-03-guohongcai.jpg
 Room 100, 3160 De La Cruz Blvd Santa Clara, CA 95054
 
 ## 分享人介绍
-宏才人称宝二爷，比特币天使投资人，投资涉及：毅航云计算、富国基金、洋洋访谈、比特基金、Btc123.com、Bw.com、Jua.com、比太钱包、bitbank.com。
+宏才人称宝二爷，比特币，以太坊和區塊鏈天使投资人和顧問，投资涉及了30多家公司和ICO。
 
 ## 分享主题
 关于币圈、比特币、区块链、ICO
