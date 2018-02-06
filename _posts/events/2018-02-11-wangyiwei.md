@@ -10,7 +10,7 @@ header-img: img/2018-02-11-wangyiwei.jpg
 <div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=42894596894&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 活动时间和地址
-2018年2月11日，周日9:00pm - 11:00pm
+2018年2月11日，周日9:00am - 11:00am
 
 Don Edwards San Francisco Bay National Wildlife Refuge Environmental Education Center
  
