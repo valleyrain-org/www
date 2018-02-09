@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第147期 - 日本问答 by 叶千荣"
 category: event
 description: ""
-header-img: img/2018-02-17-yeqianrong.jpg
+header-img: img/2018-02-17-yeqianrong-2.jpg
 ---
 
 ## 报名链接
