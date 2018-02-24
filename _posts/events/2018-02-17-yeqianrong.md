@@ -6,8 +6,12 @@ description: ""
 header-img: img/2018-02-17-yeqianrong-2.jpg
 ---
 
-## 报名链接
-<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=42894774425&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+## 读书会分享录音
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2018-02-18-yeqianrong-japan.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
 
 ## 活动时间和地址
 2018年2月17日，周六4:00pm - 6:00pm
