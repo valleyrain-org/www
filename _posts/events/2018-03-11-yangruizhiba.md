@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第152期 - 贴近心灵的藏文化 by 央瑞智巴"
 category: event
 description: ""
-header-img: img/2018-03-11-yangruizhiba.jpg
+header-img: img/2018-03-11-yangruizhiba.jpeg
 ---
 
 ## 报名链接
