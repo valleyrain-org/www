@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第153期 - 《丰饶之海》四部曲：谈三岛由纪夫的千面人生 by 殷梦雅"
+title: "谷雨书苑第154期 - 《丰饶之海》四部曲：谈三岛由纪夫的千面人生 by 殷梦雅"
 category: event
 description: ""
 header-img: img/2018-03-17-yinmengya.jpg
@@ -10,7 +10,7 @@ header-img: img/2018-03-17-yinmengya.jpg
 <div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=44070539169&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 活动时间和地址
-2018年3月17日，周六4:00pm - 6:00pm
+2018年3月18日，周日4:00pm - 6:00pm
 Room 100, 3160 De La Cruz Blvd Santa Clara, CA 95054
 
 ## 分享人介绍
