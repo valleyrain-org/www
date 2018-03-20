@@ -23,7 +23,7 @@ Dr. Sachin Deshmukh practiced medicine for 10 years in India, where he headed th
 
 ## 分享主题
 
-Art of Healthy Living by Sachin Deshmukh
+Art of Healthy Living
 
 
 ## 分享内容 
