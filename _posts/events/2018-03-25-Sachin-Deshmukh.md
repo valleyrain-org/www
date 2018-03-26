@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第155期 - 谷雨书苑第155期 — Art of Healthy Living by Sachin Deshmukh"
+title: "谷雨书苑第155期 — Art of Healthy Living by Sachin Deshmukh"
 category: event
 description: ""
 header-img: img/2018-03-25-Sachin-Deshmukh.jpg
