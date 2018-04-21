@@ -34,15 +34,19 @@ Taiwan/2009/Documentary/Color/90mins/中英⽂字幕 Chinese & English Subtitles
 2010年 第39屆鹿特丹影展觀摩片
 
 【主題】《尋情歷險記》紀錄片 放映 + Q&A
+
 【日期】4/29（週日）下午三點半 3:30PM (3:00 入場) 至 6:30PM 
+
 【場地】RAVV, 1851 McCarthy Boulevard, Milpitas, CA 95035
 
  停車 around the building, lots of lots
 
 【視訊來賓】陳志漢 | 紀錄片導演
+
 【活動大綱】引言 + 片長 90分鐘 + Q&A 45分鐘 + Networking
 
 【場地支援】RAVV
+
 【行政協力】雙向影藝會社 TWtheater, 谷雨書苑 Valley Rain, .....
 
 臉書社群有後續活動影片列表 - https://www.facebook.com/groups/TWtheater/
