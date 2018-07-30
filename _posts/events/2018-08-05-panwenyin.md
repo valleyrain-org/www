@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第177期 - Feeling Good: The New Mood Therapy by 潘文颖"
 category: event
 description: ""
-header-img: img/2018-08-05-panwenyin.jpg
+header-img: img/2018-08-05-panwenyin-2.jpg
 ---
 
 ## 报名链接
