@@ -10,7 +10,7 @@ header-img: img/2018-09-23-panwenying.jpg
 <div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=50343493745&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 活动时间和地址
-2018年9月9日，周日4:00pm - 6:00pm
+2018年9月23日，周日4:00pm - 6:00pm
 Room 100, 3160 De La Cruz Blvd Santa Clara, CA 95054
 
 ## 分享人介绍
