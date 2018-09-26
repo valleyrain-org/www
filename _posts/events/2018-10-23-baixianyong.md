@@ -44,4 +44,5 @@ Bishop Auditorium, 518 Memorial Way, Stanford, CA 94305
 免费讲座，报名仅为统计人数。
 
 ![img](/img/baixianyong-01.jpg)
+
 ![img](/img/baixianyong-02.jpg)
