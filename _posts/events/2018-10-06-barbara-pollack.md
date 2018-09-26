@@ -21,6 +21,13 @@ Since 1994, Pollack has written extensively on contemporary Chinese art for such
 
 Based on her extensive research in this field, she received two grants from Asian Cultural Council in 2006 and the prestigious Creative Capital/Warhol Foundation arts writers grant in 2008. Additionally, Pollack is an adjunct professor at the School of Visual Arts in New York City and frequently lectures on contemporary art at universities and museums throughout the United States.
 
+## 活动组织
+Chinese Culture Center of San Francisco (CCC) is a non-profit organization that elevates underserved communities and gives voice to equality through education and contemporary art. Founded in 1965, CCC communicates the humanity of our community through arts and culture, and shifts the dominant narrative about Asian Americans.
+
+
+
+Launched in 2015, Valleyrain Reading Club is a non-profit organization founded in March, 2015 and based in San Francisco Bay Area. Our mission is to improve spiritual and cultural level of Chinese communities in US, mainly in the Bay Area. We are trying to build a spiritual home for all Chinese residence in the United States who are keen to reading, freedom and learning new things.
+
 ![img](/img/2018-10-06-barbara-pollack-01.jpg)
 ![img](/img/2018-10-06-barbara-pollack-02.jpg)
 
