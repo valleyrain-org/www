@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第192期 - 《重返美丽新世界》by Qiongying Hun"
+title: "谷雨书苑第192期 - 《重返美丽新世界》by Qiongying Hu"
 category: event
 description: ""
 header-img: img/2018-11-18-huqiongying.jpg
