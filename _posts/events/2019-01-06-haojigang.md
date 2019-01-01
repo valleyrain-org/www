@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第196期 - 从《中国现代文学三十年》与《中国现代小说史》来了解中国现代文学 by 郝继刚"
 category: event
 description: ""
-header-img: img/2018-01-06-haojigang.jpg
+header-img: img/2019-01-06-haojigang.jpg
 ---
 
 ## 报名链接
