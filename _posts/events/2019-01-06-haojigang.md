@@ -10,7 +10,7 @@ header-img: img/2019-01-06-haojigang.jpg
 <div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=54253718332&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 活动时间和地址
-2018年1月6日，周日4:00pm - 6:00pm
+2019年1月6日，周日4:00pm - 6:00pm
 
 Room 100, 3160 De La Cruz Blvd Santa Clara, CA 95054
 
