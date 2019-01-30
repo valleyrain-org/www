@@ -27,7 +27,7 @@ Crown Room @The Fairmont Hotel San Francisco
 
 其后，贾樟柯又拍摄了《站台》、《任逍遥》、《世界》等几部长片。2006年在拍摄纪录片《东》时，他决定套拍故事片《三峡好人》，该片在当年威尼斯电影节上一举拿下金狮大奖。贾樟柯中国第六代导演领军者的地位得以确立。
 
-<img src="/img/2019-02-10/xiaowu.jpg" align="center" width="10%" >
+<img src="/img/2019-02-10/xiaowu.jpg" align="center" width="100%" >
 <img src="/img/2019-02-10/platform.jpg" align="center" width="100%" >
 <img src="/img/2019-02-10/sanxia.jpg" align="center" width="100%" >
 
