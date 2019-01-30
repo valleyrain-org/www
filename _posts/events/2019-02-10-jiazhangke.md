@@ -29,9 +29,7 @@ Crown Room @The Fairmont Hotel San Francisco
 
 <img src="/img/2019-02-10/xiaowu.jpg" align="center" width="50%" >
 <img src="/img/2019-02-10/platform.jpg" align="center" width="50%" >
-![Image 2 of 2019-02-10](/img/2019-02-10/platform.jpg {width="50%"})
 <img src="/img/2019-02-10/sanxia.jpg" align="center" width="50%" >
-![Image 3 of 2019-02-10](/img/2019-02-10/sanxia.jpg {width="50%"})
 
 在中国电影集体向好莱坞投降，沉沦于虚无缥缈的非现实主义题材的时候，贾樟柯对中国现实的强烈人文关注显得尤为可贵。从《小武》发端，到如潮好评的《三峡好人》，贾樟柯的影像世界正在逐步成为理解中国的一种特殊方式，亦在重新诠释中国电影的现实主义。
 
@@ -43,12 +41,9 @@ Crown Room @The Fairmont Hotel San Francisco
 
 在过去的10年当中，他特立独行，用他的镜头语言去描绘一个巨大的社会转型时代普通人所要承受的代价和命运发生的转变。
 
-<img src="/img/2019-02-10/tianzhuding.jpg" align="center" width="50%" >
+<img src="/img/2019-02-10/tianzhuding.png" align="center" width="50%" >
 <img src="/img/2019-02-10/shanhe.jpg" align="center" width="50%" >
 <img src="/img/2019-02-10/jianghuernv.jpg" align="center" width="50%" >
-![Image 4 of 2019-02-10](/img/2019-02-10/tianzhuding.png {width="50%"})
-![Image 5 of 2019-02-10](/img/2019-02-10/shanhe.jpg {width="50%"})
-![Image 6 of 2019-02-10](/img/2019-02-10/jianghuernv.jpg {width="50%"})
 
 ## 场地介绍  
 本次活动的场地，是旧金山费尔蒙特酒店(The Fairmont Hotel San Francisco)是一间位于美国旧金山诺布山街区梅森街的豪华酒店，属于国家史迹名录之一。
