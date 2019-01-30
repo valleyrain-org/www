@@ -12,8 +12,8 @@ header-img: img/2019-02-10-jiangzhangke.jpg
 ## 活动时间和地址
 2019年2月10日，周日1:00pm - 2:30pm
 
-Crown Room @The Fairmont Hotel San Francisco
 950 Mason St, San Francisco, CA 94108
+Crown Room @The Fairmont Hotel San Francisco
 
 注：本次活动的报名费用为$25(Early Bird)和 $35(Regular)，曾为谷雨书苑捐款的书友可以发邮件至谷雨邮箱领取免费门票，请大家尽早报名。
 
