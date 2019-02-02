@@ -45,6 +45,10 @@ Crown Room @The Fairmont Hotel San Francisco
 <img src="/img/2019-02-10/shanhe.jpg" align="center" width="100%" >
 <img src="/img/2019-02-10/jianghuernv.jpg" align="center" width="100%" >
 
+## 分享形式
+
+本次对话活动采用路边对话形式，对话之后有Q&A互动环节。
+
 ## 场地介绍  
 本次活动的场地，是旧金山费尔蒙特酒店(The Fairmont Hotel San Francisco)是一间位于美国旧金山诺布山街区梅森街的豪华酒店，属于国家史迹名录之一。
 
