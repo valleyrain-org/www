@@ -55,7 +55,7 @@ Gold Room, first floor@The Fairmont Hotel San Francisco
 
 1906年旧金山大地震前，建筑工程差不多完成了。地震后虽然结构幸存下来，但内部遭到大火的严重损坏，推迟直到1907年开放。建筑师和工程师朱莉娅·摩根被聘为修复建筑物，因为她当时的创新使用钢筋混凝土建筑物，可抵御地震和其他灾害。
 
-本次活动在Fairmont酒店的一層的Gold Room, 届时一楼会有志愿者指引。
+本次活动在Fairmont酒店的一层左侧的Gold Room, 届时一层会有志愿者指引。
 
 
 ![Image 8 of 2019-02-10](/img/gold_room_1.jpg)
