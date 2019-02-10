@@ -14,7 +14,7 @@ header-img: img/2019-02-10-jiangzhangke.jpg
 
 950 Mason St, San Francisco, CA 94108
 
-Gold Room @The Fairmont Hotel San Francisco
+Gold Room, first floor@The Fairmont Hotel San Francisco
 
 注：本次活动的报名费用为$25(Early Bird)和 $35(Regular)，曾为谷雨书苑捐款的书友可以发邮件至谷雨邮箱领取免费门票，请大家尽早报名。
 
