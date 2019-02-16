@@ -14,6 +14,9 @@ header-img: img/2019-02-03-zhengxuguang.jpg
 
 Room 100, 3160 De La Cruz Blvd Santa Clara, CA 95054
 
+## 协办单位
+北航硅谷校友会
+
 ## 分享人介绍
 郑旭光，中国人文经济学会特约研究员、奥地利学派学人
 
