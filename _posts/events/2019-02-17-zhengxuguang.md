@@ -87,3 +87,29 @@ VS
 六。无原罪的自由主义政府：
 
 如何从人权产生出主权
+
+![Image 1 of 2019-02-17](/img/2019-02-17-p1.jpg)
+
+门格尔 Carl Menger
+
+![Image 2 of 2019-02-17](/img/2019-02-17-p2.jpg)
+
+庞巴维克 Eugen Böhm von Bawerk
+
+![Image 3 of 2019-02-17](/img/2019-02-17-p3.jpg)
+
+米塞斯 Ludwig von Mises
+
+![Image 4 of 2019-02-17](/img/2019-02-17-p4.jpg)
+
+哈耶克 Friedrich Hayek
+
+![Image 5 of 2019-02-17](/img/2019-02-17-p5.jpg)
+
+罗斯巴德 Murray Rothbard
+
+![Image 6 of 2019-02-17](/img/2019-02-17-p6.jpg)
+
+维塞尔 Friedrich von Wieser
+
+
