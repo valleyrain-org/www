@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第205期 -  经济周期与股票投资 by 郑旭光"
 category: event
 description: ""
-header-img: img/2019-02-03-zhengxuguang.jpg
+header-img: img/2019-03-03-zhengxuguang.jpg
 ---
 
 ## 报名链接
