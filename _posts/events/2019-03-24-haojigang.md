@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第208期 - 茅盾文学奖第一届作品介绍 -- 告别文革，开始反思 by 郝继刚"
+title: "谷雨书苑第208期 - 茅盾文学奖第一届作品介绍 -- 开始反思 by 郝继刚"
 category: event
 description: ""
 header-img: img/2019-03-24-haojigang.jpg
