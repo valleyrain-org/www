@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第214期 - 中国视觉詩诗意：从北岛一字詩“网”谈起 by 谭捍卫"
 category: event
 description: ""
-header-img: img/2019-04-14-qiuzhenbang.jpg
+header-img: img/2019-05-05-tanhanwei.jpg
 ---
 
 ## 报名链接
