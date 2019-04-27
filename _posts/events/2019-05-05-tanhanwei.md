@@ -70,3 +70,5 @@ Room 100, 3160 De La Cruz Blvd Santa Clara, CA 95054
 ▪ 图像詩的形式: 历史谈
 
 ▪ 图像詩的意义、地位及其影响
+
+<img src="/img/tanhanwei.jpg" align="center" width="100%" >
