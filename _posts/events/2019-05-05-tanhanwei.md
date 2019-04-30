@@ -46,7 +46,7 @@ Room 100, 3160 De La Cruz Blvd Santa Clara, CA 95054
 
 《西方宗教心理學的形成與發展》參加者之一   國家社會科學基金項目 2010
 
-《中国视觉诗》Chinese Visual Poetry. Bloomington: Indiana University Press. (Forthcoming) 
+《中国视觉诗》Chinese Visual Poetry. Bloomington: Indiana University Press. (1 Plus Books) 
 
 《中国当代视觉诗形式》“Modern Chinese Visual Poetry Forms,” Concrete Poetry: An International Perspective. Ed. Claus Clüver. Amsterdam: Rodopi, 2012.(Forthcoming) 
 
