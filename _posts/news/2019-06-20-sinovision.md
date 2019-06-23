@@ -3,7 +3,7 @@ layout: post
 title: 谷雨书苑接受美国中文电视Sinovision采访
 category: news
 description: 谷雨书苑接受美国中文电视Sinovision采访
-header-img: img/2019-06-20-sinovision.png
+header-img: img/2019-06-20-Sinovision.png
 ---
 
 2019年6月20日，美国中文电视Sinovision对谷雨书苑发起人Raymond进行了采访。以下为新闻视频。
