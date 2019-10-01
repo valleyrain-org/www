@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第238期 - 《游戏与时间艺术》 by 硅谷尹公"
 category: event
 description: ""
-header-img: img/2019-10-06-guoguyingong.jpg
+header-img: img/2019-10-06-guiguyingong.jpg
 ---
 
 ## 报名链接
