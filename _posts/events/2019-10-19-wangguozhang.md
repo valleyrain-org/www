@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第240期 - 丝绸之路上的粟特人 by 王国璋"
 category: event
 description: ""
-header-img: img/2019-10-13-zhouyangzhi.jpg
+header-img: img/2019-10-19-wangguozhang.jpg
 ---
 
 ## 报名链接
