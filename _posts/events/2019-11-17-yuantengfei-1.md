@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑特别活动 - 读历史即是读人心 — 美国史趣谈 by 袁腾飞"
 category: event
 description: ""
-header-img: img/2019-11-17-yuantengfei-1.jpg
+header-img: img/2019-11-17-yuantengfei-1-new.jpg
 ---
 
 ## 报名链接
@@ -12,7 +12,7 @@ header-img: img/2019-11-17-yuantengfei-1.jpg
 ## 活动时间和地址
 2019年11月17日，周日10:00am - 11:30am
 
-场地：待定
+场地：待定 (南湾)
 
 注：本次活动的报名费用为$25(Early Bird)和 $35(Regular)，曾为谷雨书苑捐款的书友可以发邮件至谷雨邮箱领取免费门票，请大家尽早报名。
 
