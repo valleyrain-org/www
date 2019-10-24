@@ -30,6 +30,15 @@ header-img: img/2019-11-17-yuantengfei-1-new2.jpg
 
 4.领先世界的超级强国
 
+## 场地介绍
+The Hayes Mansion is a historic mansion estate in the Edenvale neighborhood of San Jose, California. The mansion currently operates as a hotel resort and is currently known as Hayes Mansion Hotel.
+
+Originally the home of the Hayes family, the mansion is regarded as one of the best examples of late 19th-century Mediterranean Revival architecture in the Santa Clara Valley. It is a California Historical Landmark and listed on the National Register of Historic Places.
+
+https://en.wikipedia.org/wiki/Hayes_Mansion
+
+![img](/img/2019-11-17-yuantengfei-hotel.jpg)
+
 ## 备注
 本次大型活动需要额外的志愿者，感兴趣的小伙伴也欢迎发送邮件，发邮件的时候，请以“袁腾飞老师志愿者”并加上自己的名字为题，同时请做一个简单的自我介绍，包括专长和希望在哪方面进行帮助。需要做的事情包括摄像，摄影，现场协调和签到，活动宣传，筹款等事宜。  
 
