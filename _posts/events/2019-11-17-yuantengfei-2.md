@@ -21,6 +21,15 @@ header-img: img/2019-11-17-yuantengfei-2-new.jpg
 ## 分享人介绍
 袁sir，曾任中学历史教师，2008年登上央视“百家讲坛”主讲《两宋风云》系列节目，打破百家讲坛收视纪录，掀起读史热潮。后相继录制《腾飞五千年》《袁游》《袁视角》等大型历史类脱口秀节目。并出版《两宋风云》《这个历史挺靠谱》《战争就是这么回事》《世界历史很有趣》系列等著作，深受海内外华人的喜爱，江湖人称“史上最牛历史老师”。
 
+## 场地介绍
+The Hayes Mansion is a historic mansion estate in the Edenvale neighborhood of San Jose, California. The mansion currently operates as a hotel resort and is currently known as Hayes Mansion Hotel.
+
+Originally the home of the Hayes family, the mansion is regarded as one of the best examples of late 19th-century Mediterranean Revival architecture in the Santa Clara Valley. It is a California Historical Landmark and listed on the National Register of Historic Places.
+
+https://en.wikipedia.org/wiki/Hayes_Mansion
+
+![img](/img/2019-11-17-yuantengfei-hotel.jpg)
+
 ## 备注
 本次大型活动需要额外的志愿者，感兴趣的小伙伴也欢迎发送邮件，发邮件的时候，请以“袁腾飞老师志愿者”并加上自己的名字为题，同时请做一个简单的自我介绍，包括专长和希望在哪方面进行帮助。需要做的事情包括摄像，摄影，现场协调和签到，活动宣传，筹款等事宜。  
 
