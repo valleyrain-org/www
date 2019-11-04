@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第243期 - 艺术策展 by 郑宏彬"
+title: "谷雨书苑第245期 - 艺术策展 by 郑宏彬"
 category: event
 description: ""
 header-img: img/2019-11-09-zhenghongbin.jpg
