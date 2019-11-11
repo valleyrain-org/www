@@ -16,7 +16,7 @@ header-img: img/2019-11-17-yuantengfei-lunch.jpg
 
 200 Edenvale Ave, San Jose, CA 95136
 
-注：本次袁腾飞讲座活动分上下午两场，期间袁老师和活动的志愿者将在Hayes Mansion的独立餐厅用餐。为方便大家中午就餐，现提供50个就餐名额，费用为$35 (成本价$60，差额由谷雨书苑补贴)， 形式为自助餐(Chef's daily buffet)。
+注：本次袁腾飞讲座活动分上下午两场，期间活动的组织者和志愿者将在Hayes Mansion的独立餐厅用餐。为方便大家中午就餐，现提供50个就餐名额，费用为$35 (成本价$60，差额由谷雨书苑补贴)， 形式为自助餐(Chef's daily buffet)。
 
 ![img](/img/2019-11-17-yuantengfei-dining.png)
 
