@@ -30,6 +30,11 @@ header-img: img/2019-11-17-yuantengfei-1-new2.jpg
 
 4.领先世界的超级强国
 
+## 下午场活动
+***下午場活動無論是內容還是形式都會和上午場的美國歷史講演形式不一樣。下午的活動同样精彩，想要報名下午場的活動請點擊這裡
+
+http://www.valleyrain.org/event/2019/11/17/yuantengfei-2/  
+
 ## 场地介绍
 The Hayes Mansion is a historic mansion estate in the Edenvale neighborhood of San Jose, California. The mansion currently operates as a hotel resort and is currently known as Hayes Mansion Hotel.
 
