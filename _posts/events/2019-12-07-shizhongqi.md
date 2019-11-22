@@ -43,5 +43,5 @@ Lathrop Library building, 518 Memorial Way, Stanford, CA 94305
 
 協辦：斯坦福⼤學东亞圖書館
 
-<img src="/img/2019-12-07-shizhongqi-2.jpg" align="center" width="50%" >
+<img src="/img/2019-12-07-shizhongqi-2.jpg" align="center" width="80%" >
  
