@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第250期 - 一代巨人的外交智慧和战略决断——中日建交的水面下交锋和《白毛女》芭蕾外交 by 史钟麒、叶千荣"
+title: "谷雨书苑第250期 - 一代巨人的外交智慧和戰略決斷——中日建交的水面下交鋒和《白毛女》芭蕾外交 by 史鐘麒、葉千榮"
 category: event
 description: ""
 header-img: img/2019-12-07-shizhongqi.jpg
@@ -41,7 +41,7 @@ Lathrop Library building, 518 Memorial Way, Stanford, CA 94305
 
 主辦：⾕雨書苑、壹嘉出版 
 
-協辦：斯坦福⼤學东亞圖書館、七点书影、斯坦福华人学生学者联合会
+協辦：斯坦福⼤學东亞圖書館、七點書影、斯坦福華人學生學者聯合會
 
 <img src="/img/2019-12-07-shizhongqi-2.jpg" align="center" width="80%" >
  
