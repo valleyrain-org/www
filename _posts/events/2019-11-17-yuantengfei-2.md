@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑特别活动 - 谷雨对话袁腾飞"
+title: "谷雨书苑第248期 - 谷雨对话袁腾飞"
 category: event
 description: ""
 header-img: img/2019-11-17-yuantengfei-2-new.jpg
