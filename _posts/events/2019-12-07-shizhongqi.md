@@ -39,9 +39,9 @@ Lathrop Library building, 518 Memorial Way, Stanford, CA 94305
 重現改變世界的歷史瞬間
 
 
-主辦：⾕雨書苑  壹嘉出版 
+主辦：⾕雨書苑、壹嘉出版 
 
-協辦：斯坦福⼤學东亞圖書館
+協辦：斯坦福⼤學东亞圖書館、七点书影、斯坦福华人学生学者联合会
 
 <img src="/img/2019-12-07-shizhongqi-2.jpg" align="center" width="80%" >
  
