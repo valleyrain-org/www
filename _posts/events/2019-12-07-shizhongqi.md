@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第250期 - 一代巨人的外交智慧和戰略決斷——中日建交的水面下交鋒和《白毛女》芭蕾外交 by 史鐘麒、葉千榮"
+title: "谷雨书苑第251期 - 一代巨人的外交智慧和戰略決斷——中日建交的水面下交鋒和《白毛女》芭蕾外交 by 史鐘麒、葉千榮"
 category: event
 description: ""
 header-img: img/2019-12-07-shizhongqi.jpg
