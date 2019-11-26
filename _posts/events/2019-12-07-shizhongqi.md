@@ -12,9 +12,7 @@ header-img: img/2019-12-07-shizhongqi.jpg
 ## 活动时间和地址
 2019年12月7日，周六 2:30pm - 4:30pm
 
-East Asian Library, Rm 224, Stanford University
-
-Lathrop Library building, 518 Memorial Way, Stanford, CA 94305
+Main Quad (01-300), 450 Jane Stanford Way, Bldg 300, Stanford, CA 94305
 
 ## 分享人介绍
 史鐘麒，樣板戲《⽩⽑女》男主⾓⼤春扮演者之⼀，上海芭蕾舞團第⼀代演員，著有回憶錄《⾰命時期的芭蕾》（壹嘉出版，2019年9⽉）。
