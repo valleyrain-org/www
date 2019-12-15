@@ -6,7 +6,6 @@ description: "旧金山湾区硅谷华人读书会 - 谷雨书苑"
 header-img: "img/logo.jpg"
 ---
 
-![img](/img/interview.jpg)
 
 我们的使命和任务
 ----------------
@@ -46,7 +45,7 @@ As we are becoming more influential, we welcome more readers to join us.
 联系我们
 --------
 
-读书会有[Facebook Group](http://www.facebook.com/groups/ValleyRain)和[微信群](http://weixin.qq.com/g/AduHOh9yLie7It1V)供线上讨论交流。
+大家可以通过读书会的官方微信号：Guyu--2015 和 [Facebook Group](http://www.facebook.com/groups/ValleyRain)进行线上讨论交流。
 过往和将来几期分享的书目[Google doc](http://goo.gl/k8CgKM)和[文宣汇总](http://goo.gl/OTYGdA)。
 
 对谷雨书苑和网站建设有任何意见建议可以联系: [valleyrain.org@gmail.com](mailto:valleyrain.org@gmail.com)。
