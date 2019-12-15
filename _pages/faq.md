@@ -55,7 +55,7 @@ description: "读书会常见问题解答"
 
 - 读书会网站[www.valleyrain.org](http://www.valleyrain.org)，也希望大家多提[意见](/feedback)。
 - 读书会也有[Facebook Group](http://www.facebook.com/groups/ValleyRain)和[微信群](http://weixin.qq.com/g/AduHOh9yLie7It1V)供线上讨论交流。
-- 加微信群请联系微信账号[woneng1314](http://weixin.qq.com/r/NIjVzcvEBZZ6rY_u990m), 并请务必遵守[群规则](/rules)。
+- 加微信群请联系官方微信账号：Guyu--2015, 并请务必遵守[群规则](/rules)。
 
 ## 11. 没有读过书的可以来吗
 
