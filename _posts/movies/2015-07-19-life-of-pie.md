@@ -3,7 +3,7 @@ layout: post
 title: 脉望斋：观影手记之《少年派之奇幻漂流》 
 category: movies 
 description: 李安导演之《少年派之奇幻交流》，为一部思考人生真谛和宗教探索的片子。 
-header-img: http://i2.sinaimg.cn/ent/2012/1130/U8385P28DT20121130212820.jpg
+header-img: img/life_of_pi.jpg
 ---
 
 ##作者：脉望斋
