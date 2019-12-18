@@ -17,9 +17,9 @@ description: "读书会常见问题解答"
 
 ## 3. 时间，人数，地点
 
-时间：每周日下午4:00-7:00
-人数：每次20-60人不等
-地点：硅谷亚洲艺术中心(4th Floor, 3777 Stevens Creek Blvd Santa Clara, CA 95051)。如果人数太多，场地会另外通知。
+时间：每周日下午4:00-6:00
+人数：每次20-1000人不等
+地点：340 E Middlefield Rd, Mountain View, CA 94043。如果人数太多，场地会另外通知。
 
 ## 4. 停车地点和Carpool
 
