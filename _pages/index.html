@@ -55,7 +55,7 @@ description: "欢迎来到谷雨书苑"
                 <h3 class="service-heading uk-text-center"><a href="events/past">往期活动...</a></h3>
 	        <div class="tiles">
 
-	        {% for post in site.categories.event limit:3 | slice:":1" %} 
+	        {% for post in site.categories.event limit:3 %}
 	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
 	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
 
@@ -174,9 +174,42 @@ description: "欢迎来到谷雨书苑"
     <div class="uk-container uk-container-center">
         <div class="uk-grid">
             <div class="uk-width-1-1">
+            <h1 class="service-heading uk-text-center">Our Mission and Contents</h1>
+            </div>
+            <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center">Our Mission</h3>
+                <p class="text-muted">Valleyrain International is a registered 501(c)(3) non-profit organization founded in march, 2015 and based in San Francisco Bay Area.<br>
+Our mission is to improve spiritual and cultural level of Chinese communities in US, mainly in the Bay Area.<br>
+Our slogan is an incubator of Knowledge, a bridge of culture. </p>
+            </div>
+            <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center">Contents</h3>
+                <p class="text-muted">
+                    We are trying to build a spiritual home for all Chinese residence in the United States who are keen to reading and learning new things.
+                    Every Sunday afternoon, a host will lead to share or discuss one book or topic. It could be about culture, social, history, economics, business or any other related areas like movie, music, painting, travel etc. Most of our events are free.
+                </p>
+            </div>
+            <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center">Archivement</h3>
+                <p class="text-muted">Since our first launch in March 2015, we have attracted many elites and grassroots in a variety of professions, such as publishers, writers, documentary producers, radio hosts, and famous lawyers, painters, social activists and some start-up company founders as well.</p>
+            </div>
+            <div class="uk-width-1-1">
                 <h1 class="service-heading uk-text-center">谷雨使命与任务</h1>
                 <p class="section-subheading text-muted">谷雨书苑是一个立足于美国旧金山硅谷，面向广大华人的，自发性的非营利读书分享团体。我们每周日会在线下分享讨论一本书。分享的内容涵盖人文，社科，历史，经济，商业金融等各个领域，以及跟书籍相关的电影，音乐，绘画等。 我们的使命是致力于提高湾区华人圈的精神文化生活水平。读书会自2015年3月底举办第一次读书活动以来，吸引了旧金山湾区各界知识界精英，包括有出版商，影评人，剧本创作者，纪录片拍摄者，电台读书栏目主持人等，同时还吸引了例如知名律师，画家，社会活动家，初创公司创始人等各界贤达。随着分享的书目涵盖范围日益广泛，我们的影响力也越来越大。诚邀喜欢读书的朋友加入我们的大家庭。</p>
             </div>
+
             <div class="uk-width-medium-1-3">
                 <span class="fa-stack fa-4x">
                     <i class="fa fa-circle fa-stack-2x text-primary"></i>

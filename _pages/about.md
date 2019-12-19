@@ -7,7 +7,21 @@ header-img: "img/logo.jpg"
 ---
 
 
-我们的使命和任务
+## Our Mission and Contents
+---------------------------
+
+Valleyrain International is a registered 501(c)(3) non-profit organization, which was founded in march, 2015 and based in San Francisco Bay Area.
+
+Our mission is to improve spiritual and cultural level of Chinese communities in US, mainly in the Bay Area. Our slogan is an incubator of Knowledge, a bridge of culture. We are trying to build a spiritual home for all Chinese residence in the United States who are keen to reading and learning new things.
+
+Every Sunday afternoon, a host will lead to share or discuss one book or topic. It could be about culture, social, history, economics, business or any other related areas like movie, music, painting, travel etc.
+
+Since our first launch in March 2015, we have attracted many elites in a variety of professions, such as publishers, writers, documentary producers, radio hosts, and famous lawyers, painters, social activists and some start-up company founders as well.
+
+As we are becoming more influential, we welcome more readers to join us.
+
+
+## 我们的使命和任务
 ----------------
 
 谷雨书苑是一个立足于美国旧金山硅谷地区，由一群热爱读书的青年人自发组成的，面向广大华人社区的非营利读书分享团体。
@@ -24,16 +38,7 @@ header-img: "img/logo.jpg"
 
 诚邀喜欢读书的朋友加入我们的大家庭。
 
-Valleyrain Reading Club is a non-profit organization founded in March, 2015 and based in San Francisco Bay Area. Our mission is to improve spiritual and cultural level of Chinese communities in US, mainly in the Bay Area. We are trying to build a spiritual home for all Chinese residence in the United States who are keen to reading, freedom and learning new things.
-
-Every Sunday afternoon, a host will lead to share or discuss one book or topic. It could be about culture, social, history, economics, business or any other related areas like movie, music, painting, travel etc.
-
-Since our first launch in March 2015, we have attracted many elites in a variety of professions, such as publishers, writers, documentary producers, radio hosts, and famous lawyers, painters, social activists and some start-up company founders as well.
-
-As we are becoming more influential, we welcome more readers to join us.
-
-
-谷雨书苑名称的由来
+## 谷雨书苑名称的由来
 ------------------
 
 谷雨取名，一來是因为读书会成立于春末谷雨时节。二來与硅谷的谷相映衬，三來希望给硅谷这个文化沙漠带来滋润之雨，文化之雨。同時也暗含希望我们读书会給大家带来哪怕只有一丝可以滋润心灵的雨露甘霖。
