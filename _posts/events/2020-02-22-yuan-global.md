@@ -21,24 +21,45 @@ header-img: img/2020-02-29-yuantengfei.jpg
 
 <h3>活动时间和地址</h3>
 
-2020年2月29日，周日10:00am - 11:30am
-
-场地：
-Smithwick Theatre - Foothill College  
-12345 El Monte Road  
-Los Altos Hills, CA 94022
+2020年2月29日，周日10:00am - 11:30am<br>
+<br>
+场地：<br>
+Smithwick Theatre - Foothill College<br>
+12345 El Monte Road<br>
+Los Altos Hills, CA 94022<br>
 </details>
 
 <details>
-<summary>温哥华</summary>
+<summary>温哥华站演讲</summary>
 </details>
 
 <details>
-<summary>洛杉矶</summary>
+<summary>温哥华站访谈</summary>
 </details>
 
 <details>
-<summary>西雅图</summary>
+<summary>洛杉矶站演讲</summary>
+</details>
+
+<details>
+<summary>洛杉矶站访谈</summary>
+</details>
+
+<details>
+<summary>西雅图站访谈</summary>
+<h3>报名链接(西雅图访谈)</h3>
+
+<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=88212222131&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+<h3>活动时间和地址</h3>
+
+2020年2月29日，周日10:00am - 11:30am<br>
+<br>
+场地：<br>
+Smithwick Theatre - Foothill College<br>
+12345 El Monte Road<br>
+Los Altos Hills, CA 94022<br>
+
 </details>
 
 <details>
