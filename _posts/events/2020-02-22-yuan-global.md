@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑出品 - 袁腾飞2020全球巡讲（北美站旧金山）"
+title: "谷雨书苑出品 - 袁腾飞2020全球巡讲（北美站）"
 category: event
 description: ""
 header-img: img/2020-02-29-yuantengfei.jpg
