@@ -46,6 +46,15 @@ Los Altos Hills, CA 94022<br>
 </details>
 
 <details>
+<summary>西雅图站演讲</summary>
+<h3>报名链接(西雅图演讲)</h3>
+
+<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=88211772787&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+<h3>活动时间和地址</h3>
+</details>
+
+<details>
 <summary>西雅图站访谈</summary>
 <h3>报名链接(西雅图访谈)</h3>
 
