@@ -10,7 +10,11 @@ header-img: img/2020-02-29-yuantengfei.jpg
 
 小伙伴们翘首期待的袁腾飞北美巡讲来啦。本次巡讲将会先后在温哥华，西雅图，旧金山湾区，洛杉矶，圣地牙哥和拉斯维加斯等六个城市举办。
 
-<b>请先仔细看清楚所在城市和场次再报名。报名场次错误，概不负责。</b>
+## 报名链接
+
+<b>请点开下拉菜单选择相应场次的报名链接。</b>
+
+<b><font color="red">请先仔细看清楚所在城市和场次再报名。若报名场次错误，责任自负。</font></b>
 
 <details>
 <summary>旧金山湾区</summary>
@@ -176,4 +180,9 @@ TBA, Los Angeles, CA, 90089<br>
 
 想要赞助本次袁腾飞老师活动的个人和商业机构欢迎发邮件到<a href="mailto:info@valleyrain.org">info@valleyrain.org</a>进行洽谈。
 报名做志愿请联系<a href="mailto:volunteer@valleyrain.org">volunteer@valleyrain.org</a>（请备注所在城市）
+
+## 谷雨对话袁腾飞视频
+
+
+<iframe width="100%" height="240" src="https://www.youtube.com/embed/saAoRXSixug" frameborder="0" allowfullscreen></iframe>
 
