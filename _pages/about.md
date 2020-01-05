@@ -10,7 +10,7 @@ header-img: "img/logo.jpg"
 ## Our Mission and Contents
 ---------------------------
 
-Valleyrain International is a registered 501(c)(3) non-profit organization, which was founded in march, 2015 and based in San Francisco Bay Area.
+Valleyrain International is a registered 501(c)(3) non-profit organization, which was founded in march, 2015 and headquartered in San Francisco Bay Area.
 
 Our mission is to improve spiritual and cultural level of Chinese communities in US, mainly in the Bay Area. Our slogan is an incubator of Knowledge, a bridge of culture. We are trying to build a spiritual home for all Chinese residence in the United States who are keen to reading and learning new things.
 
