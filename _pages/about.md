@@ -18,6 +18,10 @@ Every Sunday afternoon, a host will lead to share or discuss one book or topic. 
 
 Since our first launch in March 2015, we have attracted many elites in a variety of professions, such as publishers, writers, documentary producers, radio hosts, and famous lawyers, painters, social activists and some start-up company founders as well.
 
+We were founded with the mission of building a bridge between Aisa and North America cultures. 
+
+To date, we have hosted upwards of 400 cultural events in San Francisco, Los Angeles, Beijing, and Shanghai, among other cities. At these events, we gather leading voices in the field to engage in dialogue and share knowledge.  
+
 As we are becoming more influential, we welcome more readers to join us.
 
 
@@ -34,7 +38,11 @@ As we are becoming more influential, we welcome more readers to join us.
 
 自2015年3月底举办第一次读书活动以来，书苑吸引了旧金山湾区各界知识界精英，包括有作家，出版商，影评人，编剧，纪录片导演，电台主持人等，同时还吸引了例如知名律师，画家，社会活动家，初创公司创始人等各界贤达。随着分享的书目涵盖范围日益广泛，我们的影响力也越来越大。
 
-另外书苑会定期不定期的举办增进书友之间交流的户外露营, 深海钓鱼，爬山远足等各种戶外或者室內活动。
+迄今为止, 谷雨在旧金山湾区，洛杉矶，北京，上海等地举办了400场的线下文化交流分享活动。
+
+邀请为谷雨做过分享的嘉宾包括，知名导演贾樟柯，“最牛历史老师”袁腾飞，知名学者秦晖，人大教授京城名嘴周孝正，奇葩说冠军邱晨，知名辩手艾力等。
+
+谷雨书苑接下来还会邀请更多文化圈的名人大咖，知名学者和大家见面，敬请期待。
 
 诚邀喜欢读书的朋友加入我们的大家庭。
 
@@ -54,7 +62,7 @@ As we are becoming more influential, we welcome more readers to join us.
 
 过往和将来几期分享的书目[Google doc](https://goo.gl/k8CgKM)和[文宣汇总](https://goo.gl/OTYGdA)。
 
-对谷雨书苑和网站建设有任何意见建议可以联系: [valleyrain.org@gmail.com](mailto:valleyrain.org@gmail.com)。
+对谷雨书苑和网站建设有任何意见建议可以联系: [admin@valleyrain.org](mailto:admin@valleyrain.org)。
 
 
 帮助我们
