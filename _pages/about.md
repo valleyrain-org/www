@@ -12,11 +12,9 @@ header-img: "img/logo.jpg"
 
 Valleyrain International is a registered 501(c)(3) non-profit organization, which was founded in march, 2015 and headquartered in San Francisco Bay Area.
 
-Our mission is to improve spiritual and cultural level of Chinese communities in US, mainly in the Bay Area.  
+We were founded with the mission of building a bridge between Aisa and North America cultures. 
 
 Since our first launch in March 2015, we have attracted many elites in a variety of professions, such as publishers, writers, documentary producers, radio hosts, and famous lawyers, painters, social activists and some start-up company founders as well.
-
-We were founded with the mission of building a bridge between Aisa and North America cultures. 
 
 To date, we have hosted upwards of 400 cultural events in San Francisco, Los Angeles, Beijing, and Shanghai, among other cities. At these events, we gather leading voices in the field to engage in dialogue and share knowledge.  
 
