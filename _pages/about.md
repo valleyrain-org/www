@@ -12,9 +12,7 @@ header-img: "img/logo.jpg"
 
 Valleyrain International is a registered 501(c)(3) non-profit organization, which was founded in march, 2015 and headquartered in San Francisco Bay Area.
 
-Our mission is to improve spiritual and cultural level of Chinese communities in US, mainly in the Bay Area. Our slogan is an incubator of Knowledge, a bridge of culture. We are trying to build a spiritual home for all Chinese residence in the United States who are keen to reading and learning new things.
-
-Every Sunday afternoon, a host will lead to share or discuss one book or topic. It could be about culture, social, history, economics, business or any other related areas like movie, music, painting, travel etc.
+Our mission is to improve spiritual and cultural level of Chinese communities in US, mainly in the Bay Area.  
 
 Since our first launch in March 2015, we have attracted many elites in a variety of professions, such as publishers, writers, documentary producers, radio hosts, and famous lawyers, painters, social activists and some start-up company founders as well.
 
@@ -28,11 +26,9 @@ As we are becoming more influential, we welcome more readers to join us.
 ## 我们的使命和任务
 ----------------
 
-谷雨书苑是一个立足于美国旧金山硅谷地区，由一群热爱读书的青年人自发组成的，面向广大华人社区的非营利读书分享团体。
+谷雨书苑是一个立足于美国旧金山硅谷地区，由一群热爱读书的青年人自发组成的，面向广大华人社区的非营利读书分享团体，致力于促进中美文化交流。
 
 我们每周日会在线下分享讨论一本书或者一个主题。分享的内容涵盖人文，社科，历史，经济，商业金融等各个领域，以及跟书籍相关的电影，音乐，绘画等等。
-
-谷雨书苑的使命是致力于提高湾区华人圈的精神文化生活水平。
 
 谷雨书苑成立于2015年仲春谷雨时节，希望通过这个社团的活动可以雨润硅谷，给大家带来精神境界的提升。
 
