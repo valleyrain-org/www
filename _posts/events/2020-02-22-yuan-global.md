@@ -112,9 +112,9 @@ TBA, Seattle, WA, 98195<br>
 7:00pm - 8:30pm<br>
 <br>
 场地：<br>
-University of Nevada, Las Vegas<br>
-4505 South Maryland Parkway<br>
-(TBA), Las Vegas, NV, 89154<br>
+<b>Gold Coast Hotel & Casino</b><br>
+4000 West Flamingo Road<br>
+Las Vegas, NV 89103<br>
 </details>
 
 <details>
