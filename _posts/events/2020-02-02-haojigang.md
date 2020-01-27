@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第260期 - 当我谈跑步时，我谈些什么》 by 郝继刚"
+title: "谷雨书苑第260期 - 《当我谈跑步时，我谈些什么》 by 郝继刚"
 category: event
 description: ""
 header-img: img/2020-02-02-haojigang.jpg
