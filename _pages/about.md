@@ -54,6 +54,8 @@ As we are becoming more influential, we welcome more readers to join us.
 
 大家可以通过读书会的官方微信号：Guyu-\-2015 和 [Facebook Group](https://www.facebook.com/groups/ValleyRain)进行线上讨论交流。
 
+<img src="/img/guyu_wechat.jpg" width="300">
+
 过往和将来几期分享的书目[Google doc](https://goo.gl/k8CgKM)和[文宣汇总](https://goo.gl/OTYGdA)。
 
 对谷雨书苑和网站建设有任何意见建议可以联系: [admin@valleyrain.org](mailto:admin@valleyrain.org)。
