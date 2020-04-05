@@ -1,0 +1,301 @@
+---
+layout: home
+title: "Guyu Reading Club (谷雨书苑)"
+permalink: /
+description: "Welcome to Guyu Reading Club"
+---
+
+<!-- Portfolio Grid Section -->
+<section id="portfolio" class="bg-light-gray">
+    <div class="uk-container uk-container-center">
+        <div class="uk-grid">
+            <div class="uk-width-1-1">
+                <h1 class="service-heading uk-text-center">Guyu Events/h1>
+            </div>
+
+             <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center"><a href="events/upcoming">New Events...</a></h3>
+	        <div class="tiles">
+
+	        {% for post in site.categories.event reversed limit:1 %} 
+	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
+	        {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
+	        {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+
+        	{% if postyear > nowyear %} 
+        	{% capture posttime %}{{ posttime | plus:'365'}}{% endcapture %}
+        	{% endif %}
+
+        	{% if postyear < nowyear %} 
+        	{% capture posttime %}{{ posttime | minus:'365'}}{% endcapture %}
+        	{% endif %}
+
+        	{% if posttime >= nowunix %}
+               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
+                <a class="uk-thumbnail" href="{{ post.url }}">
+                <img src="{{post.header-img}}" alt="img/guyu.jpg">
+                <div class="uk-thumbnail-caption">{{ post.title}}</div>
+                </a>
+
+	        {% endif %}
+        	{% endfor %}
+	        </div><!-- /.tiles -->
+             </div>
+
+             <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center"><a href="events/past">Past Events...</a></h3>
+	        <div class="tiles">
+
+	        {% for post in site.categories.event limit:3 %}
+	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
+	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
+
+	        {% capture nowyear %}{{'now' | date: '%Y'}}{% endcapture %}
+	        {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+
+        	{% if postyear > nowyear %} 
+        	{% capture posttime %}{{ posttime | plus:'365'}}{% endcapture %}
+        	{% endif %}
+ 
+        	{% if postyear < nowyear %} 
+        	{% capture posttime %}{{ posttime | minus:'365'}}{% endcapture %}
+        	{% endif %}
+
+
+                {% if posttime < nowunix %}
+               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
+                <a class="uk-thumbnail" href="{{ post.url }}">
+                <img src="{{post.header-img}}" alt="/img/guyu.jpg">
+                <div class="uk-thumbnail-caption">{{ post.title }}</div>
+                </a>
+
+	        {% endif %}
+        	{% endfor %}
+
+	        </div><!-- /.tiles -->
+             </div>
+
+              <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center"><a href="news">Guyu News...</a></h3>
+	        <div class="tiles">
+
+                {% for post in site.categories.news limit:1 %} 
+               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
+                <a class="uk-thumbnail" href="{{ post.url }}">
+                <img src="{{post.header-img}}" alt="img/guyu.jpg">
+                <div class="uk-thumbnail-caption">{{ post.title }}</div>
+                </a>
+
+        	{% endfor %}
+
+	        </div><!-- /.tiles -->
+             </div>
+
+               <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center"><a href="works">Guyu Originals...</a></h3>
+	        <div class="tiles">
+
+                {% for post in site.categories.novels limit:1 %} 
+               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
+                <a class="uk-thumbnail" href="{{ post.url }}">
+                <img src="{{post.header-img}}" alt="img/guyu.jpg">
+                <div class="uk-thumbnail-caption">{{ post.title }}</div>
+                </a>
+
+        	{% endfor %}
+
+	        </div><!-- /.tiles -->
+             </div>
+
+               <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center"><a href="movies">Movie Reviews ...</a></h3>
+	        <div class="tiles">
+
+                {% for post in site.categories.movies limit:1 %} 
+               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
+                <a class="uk-thumbnail" href="{{ post.url }}">
+                <img src="{{post.header-img}}" alt="img/guyu.jpg">
+                <div class="uk-thumbnail-caption">{{ post.title }}</div>
+                </a>
+
+        	{% endfor %}
+
+	        </div><!-- /.tiles -->
+             </div>
+  
+               <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center"><a href="books">Book Reviews...</a></h3>
+	        <div class="tiles">
+
+                {% for post in site.categories.books limit:1 %} 
+               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
+                <a class="uk-thumbnail" href="{{ post.url }}">
+                <img src="{{post.header-img}}" alt="img/guyu.jpg">
+                <div class="uk-thumbnail-caption">{{ post.title }}</div>
+                </a>
+
+        	{% endfor %}
+
+	        </div><!-- /.tiles -->
+             </div>
+
+      </div>
+    </div>
+</section>
+
+
+<!-- Services Section -->
+<section id="services">
+    <div class="uk-container uk-container-center">
+        <div class="uk-grid">
+            <div class="uk-width-1-1">
+            <h1 class="service-heading uk-text-center">Our Mission and Contents</h1>
+            </div>
+            <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center">Our Mission</h3>
+                <p class="text-muted">Valleyrain International is a registered 501(c)(3) non-profit organization founded in march, 2015 and headquartered in San Francisco Bay Area.<br>
+We were founded with the mission of building a bridge between Aisa and North America cultures.<br>
+            </div>
+            <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center">Contents</h3>
+                <p class="text-muted">
+                    We are trying to build a spiritual home for all Chinese residence in the United States who are keen to reading and learning new things.
+                    Every Sunday afternoon, a host will lead to share or discuss one book or topic. It could be about culture, social, history, economics, business or any other related areas like movie, music, painting, travel etc. Most of our events are free.
+                </p>
+            </div>
+            <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center">Archievement</h3>
+                <p class="text-muted">Since our first launch in March 2015, we have attracted many elites and grassroots in a variety of professions. To date, we have hosted upwards of 400 cultural events in San Francisco, Los Angeles, Beijing, and Shanghai, among other cities. At these events, we gather leading voices in the field to engage in dialogue and share knowledge.</p>
+            </div>
+            
+            <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>                
+            </div>
+            <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center">Reading Activity Process</h3>
+                <p class="text-muted">
+                    Register in advance to participate in the upcoming book sharing activity. The specific registration method is shown in the notice of each event.
+                    Before the start, everyone briefed themselves and the presenter shared the bibliography.
+                    After sharing for an hour, take a 15-minute break for communication between book friends.
+                    The sharing time is 2.5 hours, and the last 30 minutes are used for free discussion.
+                    Other common problems can be found<a href="faq">FAQ</a>。
+                </p>
+            </div>
+            <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center">Content Coverage</h3>
+                <p class="text-muted">The content to be shared covers various fields such as humanities, social sciences, history, economics, business and finance, as well as movies, music, and paintings related to books.
+                The complete bibliography can be found at<a href="event"><u><b><i>events</i></b></u></a>. 
+                If you would like to share a book or your own experience, feel free to contact our team<a href="mailto:valleyrain.org@gmail.com">(<u>valleyrain.org@gmail.com</u>)</a>, and we will try our best to arrange sharing activities。
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="portfolio" class="bg-light-gray">
+    <div class="uk-container uk-container-center">
+        <div class="uk-grid">
+            <div class="uk-width-1-1">
+                <h1 class="service-heading uk-text-center">Pictures of Past Events</h1>
+            </div>
+
+            <div class="uk-container-center uk-width-medium-3-5">
+                <div class="uk-slidenav-position" data-uk-slideshow="{autoplay:true, kenburns:true}">
+		<ul class="uk-slideshow" >
+		    <li><img src="/img/guyuteam.jpg" width="" height="" alt=""></li>
+		    <li><img src="/img/about/qiming.jpg" width="" height="" alt=""></li>
+		    <li><img src="/img/langchao.jpg" width="" height="" alt=""></li>
+		    <li><img src="/img/interview.jpg" width="" height="" alt=""></li>
+		    <li><img src="/img/interview1.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-04-05.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-04-19.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-05-31.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-06-14.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-06-29.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-07-05.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-07-12-shilun.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-08-16.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-08-23.jpg" width="" height="" alt=""></li>
+		    <li><img src="/img/ruandaren.jpg" width="" height="" alt=""></li>
+		    <li><img src="/img/2015-11-29/group.jpg" width="" height="" alt=""></li>
+                    <li><img src="/img/2015-11-15.jpg" width="" height="" alt=""></li>
+		</ul>
+		<a href="#" class="uk-slidenav uk-slidenav-contrast uk-slidenav-previous" data-uk-slideshow-item="previous"></a>
+		<a href="#" class="uk-slidenav uk-slidenav-contrast uk-slidenav-next" data-uk-slideshow-item="next"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="portfolio" class="bg-light-gray">
+    <div class="uk-container uk-container-center">
+        <div class="uk-grid">
+            <div class="uk-width-1-1">
+                <h1 class="service-heading uk-text-center">All Categories</h1>
+            </div>
+
+            <div class="uk-container-center uk-width-medium-3-5">
+                {% for category in site.categories %}
+                    <!--li style="font-size: {{ category | last | size | times: 50 | divided_by: site.categories.size |plus:70}}%"-->
+	            <li style="font-size: 100%">
+                    <class="uk-text-center">
+                    <a href="/{{ category | first | slugize }}/">
+                    {{ category | first }} 
+                    </a>
+                    </li>
+                 {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+
+
