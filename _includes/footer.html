@@ -3,21 +3,13 @@
 <div class="uk-container uk-container-center">
         <div class="uk-grid">
             <div class="uk-width-large-2-3 uk-width-medium-5-6 uk-container-center uk-text-center">
-                <a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" class="uk-icon-rss uk-icon-button"></a>
-                {% if site.twitter_username %}
-                    <a href="https://twitter.com/{{ site.twitter_username }}" class="uk-icon-twitter uk-icon-button"></a>
-                {% endif %}
+                <a href="https://www.youtube.com/channel/UCzuQbOXWdQZfdMLfU-w1jvg" class="uk-icon-youtube uk-icon-button"></a>
                 {% if site.facebook_username %}
                     <a href="https://www.facebook.com/{{ site.facebook_username }}" class="uk-icon-facebook uk-icon-button"></a>
-                {% endif %}
-                {% if site.github_username %}
-                    <a href="https://github.com/{{ site.github_username }}/" class="uk-icon-github uk-icon-button"></a>
-                {% endif %}
-                {% if site.douban_username %}
-                    <a href="https://www.douban.com/people/{{ site.douban_username }} " class="uk-icon-button">
-                        <img alt="豆" style="padding-bottom: 4px;" src="{{ "/img/douban-icon.png" | prepend: site.baseurl | prepend: site.url }}">
-                    </a>
-                {% endif %}
+                {% endif %}    
+                {% if site.twitter_username %}
+                    <a href="https://twitter.com/{{ site.twitter_username }}" class="uk-icon-twitter uk-icon-button"></a>
+                {% endif %}                
                 <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
             </div>
         </div>
