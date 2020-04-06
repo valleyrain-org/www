@@ -210,32 +210,7 @@ We were founded with the mission of building a bridge between Aisa and North Ame
                     <i class="fa fa-circle fa-stack-2x text-primary"></i>
                     <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
                 </span>                
-            </div>
-            <div class="uk-width-medium-1-3">
-                <span class="fa-stack fa-4x">
-                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                    <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
-                </span>
-                <h3 class="service-heading uk-text-center">Reading Activity Process</h3>
-                <p class="text-muted">
-                    Register in advance to participate in the upcoming book sharing activity. The specific registration method is shown in the notice of each event.
-                    Before the start, everyone briefed themselves and the presenter shared the bibliography.
-                    After sharing for an hour, take a 15-minute break for communication between book friends.
-                    The sharing time is 2.5 hours, and the last 30 minutes are used for free discussion.
-                    Other common problems can be found<a href="faq">FAQ</a>。
-                </p>
-            </div>
-            <div class="uk-width-medium-1-3">
-                <span class="fa-stack fa-4x">
-                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                    <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
-                </span>
-                <h3 class="service-heading uk-text-center">Content Coverage</h3>
-                <p class="text-muted">The content to be shared covers various fields such as humanities, social sciences, history, economics, business and finance, as well as movies, music, and paintings related to books.
-                The complete bibliography can be found at<a href="event"><u><b><i>events</i></b></u></a>. 
-                If you would like to share a book or your own experience, feel free to contact our team<a href="mailto:valleyrain.org@gmail.com">(<u>valleyrain.org@gmail.com</u>)</a>, and we will try our best to arrange sharing activities。
-                </p>
-            </div>
+            </div>            
         </div>
     </div>
 </section>
