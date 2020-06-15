@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第270期 — 健康的亲密关系 by 康文婷"
 category: event
 description: ""
-header-img: img/2020-06-21-kangwenting-1.jpg
+header-img: img/2020-06-21-kangwenting-1.jpeg
 ---
 
 ## 报名链接
