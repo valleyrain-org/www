@@ -7,7 +7,7 @@ header-img: img/2020-08-30-zhangning.jpg
 ---
 
 ## 报名链接
-<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=118578366085&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;" ><iframe src="//eventbrite.com/tickets-external?eid=118696383077&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 活动时间和地址
 2020年8月30日，周日2:00pm - 4:00pm (美西时间)
