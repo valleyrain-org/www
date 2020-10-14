@@ -14,6 +14,10 @@ header-img: img/2020-10-15-yuantengfei.jpg
 
 https://www.youtube.com/channel/UCzuQbOXWdQZfdMLfU-w1jvg
 
-本次活动我们将与琢见论坛（纽约华人读书会）共同举办。
-
 <img src="/img/2020-10-15-yuantengfei.jpg" align="center" width="100%" >
+
+
+
+本次活动我们将与琢见论坛（纽约华人读书会）共同举办。
+<img src="/img/zhuojian-logo.jpg" align="center" width="60%" >
+<img src="/img/zhuojian-wechat.jpg" align="center" width="60%" >
