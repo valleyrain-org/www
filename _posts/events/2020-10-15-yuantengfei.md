@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨琢见线上讲座 — 袁腾飞YouTube直播"
+title: "谷雨书苑第275期[谷雨-琢见论坛] — 袁腾飞YouTube直播"
 category: event
 description: ""
 header-img: img/2020-10-15-yuantengfei.jpg
