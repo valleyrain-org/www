@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨-琢见论坛 — 袁腾飞“侃”美国史Online"
+title: "谷雨书苑第272期[谷雨-琢见论坛] — 袁腾飞“侃”美国史Online"
 category: event
 description: ""
 header-img: img/2020-07-18-meiguoshi.png
