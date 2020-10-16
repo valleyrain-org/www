@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第272期 — 古典音乐与贝多芬 by 章凝"
+title: "谷雨书苑第273期 — 古典音乐与贝多芬 by 章凝"
 category: event
 description: ""
 header-img: img/2020-08-30-zhangning.jpg
