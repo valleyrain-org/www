@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第277期[谷雨-琢见论坛] — 石国鹏： 美国大选那些事"
+title: "谷雨书苑第278期[谷雨-琢见论坛] — 石国鹏： 美国大选那些事"
 category: event
 description: ""
 header-img: img/2020-11-14-shiguopeng.jpg
