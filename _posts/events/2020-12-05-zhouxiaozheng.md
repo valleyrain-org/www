@@ -10,7 +10,7 @@ header-img: img/2020-12-05-zhouxiaozheng.jpg
 ## 活动时间和地址
 2020年12月5日，周六 3:00pm (美西时间)
 
-欢迎订阅和关注谷雨书苑YouTube频道，及时获取石国鹏老师的直播提醒：
+欢迎订阅和关注谷雨书苑YouTube频道，及时获取周孝正教授的直播提醒：
 
 https://www.youtube.com/channel/UCzuQbOXWdQZfdMLfU-w1jvg
 
