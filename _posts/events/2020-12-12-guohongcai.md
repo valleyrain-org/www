@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第281期[谷雨-琢见论坛] — 郭宏才：比特币的过去、现在、未来
+title: "谷雨书苑第281期[谷雨-琢见论坛] — 郭宏才：比特币的过去、现在、未来"
 category: event
 description: ""
 header-img: img/2020-12-12-guohongcai.png
