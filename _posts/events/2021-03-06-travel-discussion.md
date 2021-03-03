@@ -24,4 +24,17 @@ Von，谷雨书苑环球系列《走進幸福的雷龍之國—不丹》分享�
 
 Jian Kang，环球旅行达人，足迹遍布160个国家。
 
+## 分享人风采
+<img src="/img/2021-03-06-von.jpg" align="center" width="80%" >
 
+Von
+
+
+<img src="/img/2021-03-06-wuxuanli.jpg" align="center" width="80%" >
+
+武萱礼
+
+
+<img src="/img/2021-03-06-kangjian.png" align="center" width="80%" >
+
+Jian Kang
