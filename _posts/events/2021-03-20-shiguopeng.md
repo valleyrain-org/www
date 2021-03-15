@@ -18,7 +18,7 @@ https://www.youtube.com/channel/UCzuQbOXWdQZfdMLfU-w1jvg
 
 本次直播会通过YouTube，Facebook，Twitter等平台同步直播
 
-<img src="/img/2021-03-20-shiguopeng.jpg" align="center" width="80%" >
+<img src="/img/2021-03-20-shiguopeng.jpg" align="center" width="100%" >
 
 *****郑重声明：严禁未经授权，擅自盗用谷雨原装正版的视频，音频。该活动结束之后，谷雨会第一时间上传相关活动音频，视频到谷雨的微信公众号。版权所有，翻版必究。有小伙伴，发现投诉并成功下架5个以上盗版谷雨版权内容的，凭相关截图将有机会获得谷雨大咖的亲笔签名。
 
