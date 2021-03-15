@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第293期 石国鹏：对教育的一些思考"
 category: event
 description: ""
-header-img: img/2021-03-20-shiguopeng.png
+header-img: img/2021-03-20-shiguopeng.jpg
 ---
 
 
