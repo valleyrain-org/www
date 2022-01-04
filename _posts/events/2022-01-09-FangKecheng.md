@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第311期 — 对话方可成"
 category: event
 description: ""
-header-img: img/2022-01-03-FangKecheng.jpeg
+header-img: img/2022-01-09-FangKecheng.jpeg
 ---
 
 
@@ -26,4 +26,4 @@ https://www.youtube.com/channel/UCzuQbOXWdQZfdMLfU-w1jvg
 ## 主持人介绍
 Yilia姜雪，成长于北京人，求学于欧洲，安家于美洲。法国🇫🇷体育休闲旅游管理及丹麦🇩🇰战略管理双硕士，曾任职欧洲五星酒店、五百强企业管理岗。
 
-<img src="/img/2022-01-03-FangKecheng.jpeg" align="center" width="100%" >
+<img src="/img/2022-01-09-FangKecheng.jpeg" align="center" width="100%" >
