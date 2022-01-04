@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第311期 — 对话方可成”
+title: "谷雨书苑第311期 — 对话方可成"
 category: event
 description: ""
 header-img: img/2022-01-03-FangKecheng.jpeg
