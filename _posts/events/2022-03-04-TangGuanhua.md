@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第314期 —-：在中国大陆探索共识社区"
+title: "谷雨书苑第314期 —-在中国大陆探索共识社区"
 category: event
 description: ""
 header-img: img/TangGuanhua.jpeg
