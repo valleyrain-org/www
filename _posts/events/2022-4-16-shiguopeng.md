@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第316期 —石国鹏漫谈俄乌战争"
 category: event
 description: ""
-header-img: img/shi.jpeg
+header-img: img/Shi.jpeg
 ---
 
 
