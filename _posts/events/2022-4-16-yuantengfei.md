@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第316期 —石国鹏漫谈俄乌战争"
+title: "谷雨书苑第317期 —袁腾飞谈中国传统文化在当下的意义"
 category: event
 description: ""
 header-img: img/袁老师 文化封面.jpeg
