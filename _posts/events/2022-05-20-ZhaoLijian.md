@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第319期 赵谈中国传统文化在当下的意义"
+title: "谷雨书苑第319期 赵利剑---美国“国父”华盛顿"
 category: event
 description: ""
 header-img: img/美国‘国父’华盛顿_26-27.png
