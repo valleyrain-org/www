@@ -7,7 +7,7 @@ header-img: img/home-bg.jpg
 ---
 
 ## 报名链接
-TBD
+<iframe src="//www.eventbrite.com/e/326-tickets-378126435347" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
 ## 分享嘉宾介绍
 
