@@ -66,3 +66,4 @@ TBD
 
 <img src="/img/2022-07-10-ruandaren3.jpeg" align="center" width="100%" >
 
+<img src="/img/2022-07-10-ruandaren.JPG" align="center" width="100%" >
