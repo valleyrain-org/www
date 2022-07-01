@@ -3,7 +3,7 @@ layout: post
 title: "谷雨书苑第326期 — 阮大仁论行书第三讲 — 应该把笔紧还是把笔松？用拉力或推力写毛笔字的不同"
 category: event
 description: ""
-header-img: img/home-bg.jpg
+header-img: img/2022-07-10-ruandaren.JPG
 ---
 
 ## 报名链接
