@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第326期 — 阮大仁论行书第三讲 — 应该把笔紧还是把笔松？用拉力或推力写毛笔字的不同"
+title: "谷雨书苑第327期 — 阮大仁论行书第三讲 — 应该把笔紧还是把笔松？用拉力或推力写毛笔字的不同"
 category: event
 description: ""
 header-img: img/2022-07-10-ruandaren.JPG
@@ -50,15 +50,15 @@ header-img: img/2022-07-10-ruandaren.JPG
 
 欢迎订阅和关注谷雨书苑YouTube频道，及时获取直播提醒：
 
-YouTube直播入口 TBD
+YouTube直播入口 https://youtu.be/rD2cp7cvuCE
 
 本次直播会通过YouTube，Facebook，Twitter等平台同步直播
 
 参与方式三 (线上)：
 
 国内观众欢迎访问Zoom链接，手机端需要使用Zoom App，电脑端可以直接使用浏览器打开链接。
-
-TBD
+https://stanford.zoom.us/j/98210386833?pwd=T0xMNjEvRXErV1k1WWMrL3U1UXBwZz09
+密码: 20220710
 
 <img src="/img/2022-07-10-ruandaren1.jpg" align="center" width="100%" >
 
