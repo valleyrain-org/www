@@ -26,31 +26,17 @@ header-img: img/2022-08-13-zhangyanshuo2.png
 请报名参与活动之朋友提前扫描微信群二维码加入群聊👇🏻
 
 ## 活动时间和地址
+
 2022年8月13日，周六3:00 - 5:00pm (美西时间)
 
-2022年8月13日，周六6:00 - 8:00pm (美东时间)
-
-2022年8月14日，周日6:00 - 8:00am (北京时间)
-
-参与方式一 (线下)：
-
-硅谷亚洲艺术中心 Silicon Valley Asian Art Center 
+硅谷亚洲艺术中心 
+Silicon Valley Asian Art Center
 3777 Stevens Creek Blvd (4th floor), Santa Clara, CA 95051
 
 
-参与方式二（线上）：
 
-欢迎订阅和关注谷雨书苑YouTube频道，及时获取直播提醒：
-
-YouTube直播入口 链接待定
-
-本次直播会通过YouTube，Facebook，Twitter等平台同步直播
-
-
-参与方式三 (线上)：
-
-国内观众欢迎访问Zoom链接，手机端需要使用Zoom App，电脑端可以直接使用浏览器打开链接。
-链接待定
+<img src="/img/2022-08-13-zhangyanshuo3.jpeg" align="center" width="100%" >
+请报名参与活动之朋友提前扫描微信群二维码加入群聊
         
 <img src="/img/2022-08-13-zhangyanshuo1.jpg" align="center" width="100%" >
 张彦硕
@@ -59,5 +45,4 @@ YouTube直播入口 链接待定
 张彦硕	创作 大峡谷三部曲 Canyon Trilogy 油画 （局部）
 
 
-<img src="/img/2022-08-13-zhangyanshuo3.jpeg" align="center" width="100%" >
-请报名参与活动之朋友提前扫描微信群二维码加入群聊
+
