@@ -29,7 +29,7 @@ header-img: img/2022-08-14-tanhanwei2.jpeg
 
 ## 活动时间和地址
 
-2022年8月14日，周日上午 3pm - 5pm (美西时间)
+2022年8月14日，周日下午 3pm - 5pm (美西时间)
 
 2022年8月14日，周日下午 6pm - 8pm (美东时间)
 
@@ -37,7 +37,7 @@ header-img: img/2022-08-14-tanhanwei2.jpeg
 
 欢迎订阅和关注谷雨书苑YouTube频道，及时获取直播提醒：
 
-YouTube直播入口：TBD
+YouTube直播入口：https://youtu.be/R2zdbtjj0vs
 
 本次直播会通过YouTube，Facebook，Twitter等平台同步直播
 
