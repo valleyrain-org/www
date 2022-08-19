@@ -64,6 +64,6 @@ https://stanford.zoom.us/j/95127657962?pwd=M29HV0I3VThKUmtVRGxZME5ERFdmUT09
 
 <img src="/img/2022-08-21-ruandaren2.jpeg" align="center" width="100%" >
 
-<img src="/img/2022-08-21-ruandaren3.jpeg" align="center" width="100%" >
+<img src="/img/2022-08-21-ruandaren3.jpg" align="center" width="100%" >
 
 <img src="/img/2022-08-21-ruandaren.JPG" align="center" width="100%" >
