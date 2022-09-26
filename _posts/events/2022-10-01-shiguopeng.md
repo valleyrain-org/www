@@ -16,7 +16,7 @@ header-img: img/2022-10-01-shiguopeng-head.jpeg
 
 欢迎订阅和关注谷雨书苑YouTube频道，及时获取直播提醒：
 
-YouTube直播入口 待定
+YouTube直播入口 https://youtu.be/AkBYnWrkM4k
 
 本次直播会通过YouTube，Facebook，Twitter等平台同步直播
 
