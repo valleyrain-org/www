@@ -27,8 +27,12 @@ header-img: img/2023-02-25-jianshang2.jpg
 参与方式 (线下)：
 Room 100, 3160 De La Cruz Blvd Santa Clara, CA 95054
 
+<img src="/img/Guyu_site_DeLaCruzBlvd1.png" align="center" width="100%" >
+<img src="/img/Guyu_site_DeLaCruzBlvd2.png" align="center" width="100%" >
+
 本次活动将会录像，编辑上传至谷雨YouTube官方频道，敬请关注
 https://www.youtube.com/channel/UCzuQbOXWdQZfdMLfU-w1jvg
 
 
 <img src="/img/2023-02-25-jianshang.jpg" align="center" width="100%" >
+
