@@ -9,12 +9,14 @@ header-img: img/2023-03-04-fengchuidaohua2.png
 ## 报名链接
 <iframe src="//www.eventbrite.com/e/339-tickets-559106130487" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
-## 分享嘉宾介绍
-这是“壹嘉個人史”系列新書，于2023年1月由壹嘉出版社出版（[壹嘉书讯](https://mp.weixin.qq.com/s/cddP1TbuuTIDRKcmV3AKTw)）。
+## 分享介绍
+《风吹稻花香两岸·一个外省人的台湾回忆》是“壹嘉個人史”系列新書，于2023年1月由壹嘉出版社出版（[壹嘉书讯](https://mp.weixin.qq.com/s/cddP1TbuuTIDRKcmV3AKTw)）。
 
 届时，我们请到作者黄雅纯女士与大家见面。为新书作序的前世界日报社长、画家[古铣贤](https://www.worldjournal.com/wj/amp/story/121472/6738403)先生，和壹嘉出版社社长刘雁女士，也将应邀参与活动。
 
-## 分享内容介绍
+本次活动为谷雨书苑与壹嘉出版、硅谷亚洲艺术中心合作主办。
+
+## 图书简介
 
 以下是Stream为新书写的短评简介，请参阅。
 
