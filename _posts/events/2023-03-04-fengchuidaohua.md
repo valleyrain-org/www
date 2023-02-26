@@ -49,4 +49,6 @@ Silicon Valley Asian Art Center
 本次活动将会录像，编辑上传至谷雨YouTube官方频道，敬请关注
 https://www.youtube.com/channel/UCzuQbOXWdQZfdMLfU-w1jvg
 
+<img src="/img/Guyu_site_SVAAC1.png" align="center" width="100%" >
+<img src="/img/Guyu_site_SVAAC2.png" align="center" width="100%" >
 
