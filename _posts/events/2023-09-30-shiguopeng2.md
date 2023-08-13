@@ -21,12 +21,15 @@ header-img: img/2023-09-30-shiguopeng.png
 ## 活动时间和地址 Date and time
 2023年9月30日，周六 6:30-8:00pm (美西时间)
 
-地点：TBD
-
 Saturday, September 30 · 6:30 - 8 pm PDT
 
-Location: TBD
+地点 Location: 
 
+Foothill College 
+
+12345 El Monte Road 
+
+Los Altos Hills, CA 94022
 
 <img src="/img/2023-09-30-shiguopeng.png" align="center" width="100%" >
 
