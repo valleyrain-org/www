@@ -20,6 +20,7 @@ header-img: img/2023-09-29-shiguopeng.png
 
 ## 活动时间和地址 Date and time
 2023年9月29日，周五 7:00-9:00pm (美西时间)
+
 Friday, September 29 · 7 - 9 pm PDT
 
 地点 Location: 
