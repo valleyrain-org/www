@@ -21,11 +21,15 @@ header-img: img/2023-10-01-shiguopeng.png
 ## 活动时间和地址 Date and time
 2023年10月1日，周日 4:00-6:00pm (美西时间)
 
-地点：TBD
-
 Sunday, October 1 · 4 - 6 pm PDT
 
-Location: TBD
+地点 Location: 
+
+The University of British Columbia 
+
+SWNG 222 
+
+Vancouver, BC V6T 1Z4 Canada
 
 
 <img src="/img/2023-10-01-shiguopeng.png" align="center" width="100%" >
