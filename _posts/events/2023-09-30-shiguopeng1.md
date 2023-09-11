@@ -25,10 +25,8 @@ Saturday, September 30 · 3 - 5 pm PDT
 
 地点 Location: 
 
-Foothill College 
-
-12345 El Monte Road 
-
+5015, building 5000, 
+12345 El Monte Road, 
 Los Altos Hills, CA 94022
 
 
