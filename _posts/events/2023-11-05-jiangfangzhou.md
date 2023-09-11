@@ -22,13 +22,9 @@ header-img: img/2023-11-04-jingfangzhou2.jpeg
 Sunday, November 5 · 4 - 5:30pm PDT
 
 地点 Location: 
-Carlmont Performing Arts Center 
-
-1400 Alameda de las Pulgas 
-
-Belmont, CA 94002
-
-Located in Carlmont High School
+5015, building 5000
+12345 El Monte Road
+Los Altos Hills, CA 94022
 
 <img src="/img/2023-11-04-jingfangzhou.png" align="center" width="100%" >
 <img src="/img/2023-11-04-jingfangzhou.jpeg" align="center" width="100%" >
