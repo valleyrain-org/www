@@ -25,11 +25,7 @@ Saturday, September 30 · 6:30 - 8 pm PDT
 
 地点 Location: 
 
-Foothill College 
-
-12345 El Monte Road 
-
-Los Altos Hills, CA 94022
+5015, building 5000, 12345 El Monte Road, Los Altos Hills, CA 94022
 
 <img src="/img/2023-09-30-shiguopeng.png" align="center" width="100%" >
 
