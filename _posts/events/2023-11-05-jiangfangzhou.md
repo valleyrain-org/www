@@ -21,7 +21,8 @@ header-img: img/2023-11-04-jingfangzhou2.jpeg
 
 Sunday, November 5 · 4 - 5:30pm PDT
 
-地点 Location: 
+地点 Location:
+
 5015, building 5000,
 12345 El Monte Road,
 Los Altos Hills, CA 94022
