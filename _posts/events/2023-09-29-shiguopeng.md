@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "石国鹏巡讲 洛杉矶站 ---- 从晚清到民国 —— 历史风云录"
+title: "谷雨书苑第358期 -- 石国鹏巡讲 洛杉矶站 ---- 从晚清到民国 —— 历史风云录"
 category: event
 description: ""
 header-img: img/2023-09-29-shiguopeng.png
