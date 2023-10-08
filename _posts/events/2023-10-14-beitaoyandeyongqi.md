@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑 第363期 — 炉边谈话《被讨厌的勇气》"
+title: "谷雨书苑 第363期 — 围炉共读《被讨厌的勇气》"
 category: event
 description: ""
 header-img: img/2023-10-14-beitaoyandeyongqi2.png
