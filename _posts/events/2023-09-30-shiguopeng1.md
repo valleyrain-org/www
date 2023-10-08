@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第359期 -- 石国鹏巡讲 湾区站 ---- 天选之地 美利坚合众国的诞生(上) —— 从《五月花号公约》到《独立宣言》"
+title: "谷雨书苑第359期 —— 石国鹏巡讲 湾区站 ———— 天选之地 美利坚合众国的诞生(上) —— 从《五月花号公约》到《独立宣言》"
 category: event
 description: ""
 header-img: img/2023-09-30-shiguopeng.png
