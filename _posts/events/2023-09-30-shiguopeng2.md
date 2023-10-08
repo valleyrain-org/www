@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "石国鹏巡讲 湾区站 ---- 天选之地 美利坚合众国的诞生(下) —— 《1787年宪法》和《权利法案》"
+title: "谷雨书苑第360期 -- 石国鹏巡讲 湾区站 ---- 天选之地 美利坚合众国的诞生(下) —— 《1787年宪法》和《权利法案》"
 category: event
 description: ""
 header-img: img/2023-09-30-shiguopeng.png
