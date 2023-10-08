@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑第361期 —— 石国鹏巡讲 温哥华站 ———— 从晚清到民国 —— 历史风云录"
+title: "谷雨书苑第361期 — 石国鹏巡讲 温哥华站 —— 从晚清到民国 —— 历史风云录"
 category: event
 description: ""
 header-img: img/2023-10-01-shiguopeng.png
