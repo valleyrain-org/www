@@ -14,6 +14,9 @@ header-img: img/2023-11-18-chinesegold-header.jpg
 
 Join us in exploring the history of Monterey Bay Chinese Americans, with **Sandy Lydon**, the book's author; **George Ow**, one of the last residents of Santa Cruz's final Chinatown; **Rui Li**, an artist and educator who transformed the history into multimedia; and **Haoze Li**, a UCSC linguist interested in the language of heritage Chinese bilinguals. They will unveil this history through **compelling conversations** and **multimedia exhibitions**.
 
+谷雨书苑邀请您一起探索蒙特雷湾华裔美国人的一段不为人知的历史，与书的作者Sandy Lydon、Santa Cruz最后一个唐人街的居民George Ow、教育家Rui Li和UCSC语言学家Haoze Li一同交流。他们将通过引人入胜的对话和多媒体展览来展现这段尘封的华人血泪史。
+
+
 <img src="/img/2023-11-18-chinesegold.jpg" align="center" width="100%" >
 
 ## Date and Time
