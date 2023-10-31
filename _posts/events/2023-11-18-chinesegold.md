@@ -8,9 +8,9 @@ header-img: img/2023-11-18-chinesegold-header.jpg
 
 **Did you know that Chinese immigrants initially arrived in the Bay Area during the mid-19th century, but had to wait a full century to be recognized as normal US citizens?**
 
-**Did you know Santa Cruz once had five distinct Chinatowns, and today, none of them exist?**
+**Did you know that Santa Cruz once had five distinct Chinatowns, and today, none of them exist?**
 
-**Did you know the hidden history of Chinese immigrants in Monterey Bay, even unfamiliar to most Chinese Americans, but uncovered by a non-Chinese author's book?**
+**Did you know that the hidden history of Chinese immigrants in Monterey Bay, even unfamiliar to most Chinese Americans nowadays, was uncovered by a non-Chinese author's book?**
 
 Join us in exploring the history of Monterey Bay Chinese Americans, with **Sandy Lydon**, the book's author; **George Ow**, one of the last residents of Santa Cruz's final Chinatown; **Rui Li**, an artist and educator who transformed the history into multimedia; and **Haoze Li**, a UCSC linguist interested in the language of heritage Chinese bilinguals. They will unveil this history through **compelling conversations** and **multimedia exhibitions**.
 
