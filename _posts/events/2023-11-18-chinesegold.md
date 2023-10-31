@@ -12,9 +12,9 @@ header-img: img/2023-11-18-chinesegold-header.jpg
 
 * **Did you know that the hidden history of Chinese immigrants in Monterey Bay, even unfamiliar to most Chinese Americans nowadays, was uncovered by a non-Chinese author's book?**
 
-Join us in exploring the history of Monterey Bay Chinese Americans, with **Sandy Lydon**, the book's author; **George Ow**, one of the last residents of Santa Cruz's final Chinatown; **Rui Li**, an artist and educator who transformed the history into multimedia; and **Haoze Li**, a UCSC linguist interested in the language of heritage Chinese bilinguals. They will unveil this history through **compelling conversations** and **multimedia exhibitions**.
+Join us in exploring the history of Monterey Bay Chinese Americans, with **Sandy Lydon**, the book's author; **George Ow**, one of the last residents of Santa Cruz's final Chinatown; **Rui Li**, an educator and founder of Flex Kids Culture; and **Haoze Li**, a UCSC linguist interested in the language of heritage Chinese bilinguals. They will unveil this history through **compelling conversations** and **multimedia exhibitions**.
 
-谷雨书苑邀请您一起探索蒙特雷湾华裔美国人的一段不为人知的历史，与书的作者Sandy Lydon、Santa Cruz最后一个唐人街的居民George Ow、教育家Rui Li和UCSC语言学家Haoze Li一同交流。他们将通过引人入胜的对话和多媒体展览来展现这段尘封的华人移民血泪史。
+谷雨书苑联合Flex Kids Culture邀请您一起探索蒙特雷湾华裔美国人的一段不为人知的历史，与书的作者Sandy Lydon、Santa Cruz最后一个唐人街的居民George Ow、教育家Rui Li和UCSC语言学家Haoze Li一同交流。他们将通过引人入胜的对话和多媒体展览来展现这段尘封的华人移民血泪史。
 
 <img src="/img/2023-11-18-chinesegold.jpg" align="center" width="100%" >
 
@@ -60,6 +60,10 @@ In fact, 98 Chinese lived in the towns and villages that dotted this coastal cre
 * About Sandy Lydon: https://www.sandylydon.com/
 
 * About George Ow: https://www.goodtimes.sc/george-ows-chinatown/
+
+* About Rui Li and Flex Kids Culture: https://www.flexkids.org/
+
+* About Haoze Li: https://haozeli-ling.github.io/haozeli/LHZ.html
 
 * About Santa Cruz Chinatown: https://www.santacruz.org/blog/the-last-chinatown-in-santa-cruz/
 
