@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Chinese Gold (中国金): The Hidden History of Chinese in The Bay with Sandy Lydon in Conversation with George Ow"
+title: "Chinese Gold : The Hidden History of Chinese in The Bay with Sandy Lydon in Conversation with George Ow"
 category: event
-description: ""
+description: "中国金：在蒙特雷湾区的中国人 -- 与作者对谈"
 header-img: img/2023-11-18-chinesegold-header.jpg
 ---
 
