@@ -3,11 +3,11 @@ layout: post
 title: "Chinese Gold: The Hidden History of Chinese in The Bay with Sandy Lydon in Conversation with George Ow"
 category: event
 description: ""
-header-img: img/2023-11-18-chinesegold.jpg
+header-img: img/2023-11-18-chinesegold-header.jpg
 ---
 
 ## Get free tickets
-<iframe src="//www.eventbrite.com/e/748828886357" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<iframe src="//www.eventbrite.com/e/748828886357" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
 **Did you know that Chinese immigrants initially arrived in the Bay Area during the mid-19th century, but had to wait a full century to be recognized as normal US citizens?**
 
