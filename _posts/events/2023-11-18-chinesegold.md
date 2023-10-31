@@ -54,13 +54,16 @@ In fact, 98 Chinese lived in the towns and villages that dotted this coastal cre
 **S﻿anta Cruz Dragon Gate with George Ow**
 
 ## Learn More
-* An interview with George Ow & Sandy Lydon: https://www.youtube.com/watch?v=IBHdo723I8Y
 
 * About Sandy Lydon: https://www.sandylydon.com/
 
 * About George Ow: https://www.goodtimes.sc/george-ows-chinatown/
 
 * About Santa Cruz Chinatown: https://www.santacruz.org/blog/the-last-chinatown-in-santa-cruz/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KgZC6waQif4?si=ACf0yOmwDbCk7D1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IBHdo723I8Y?si=CxLPIHLPgfLatbvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## About Us
