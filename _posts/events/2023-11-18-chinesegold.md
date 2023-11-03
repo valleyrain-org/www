@@ -18,6 +18,8 @@ Join us in exploring the history of Monterey Bay Chinese Americans, with **Sandy
 
 <img src="/img/2023-11-18-guests.png" align="center" width="100%" >
 
+
+
 English/Chinese version of the book will be available for purchase on site and online at https://www.flexkids.org/products.
 
 <img src="/img/2023-11-18-chinesegold.jpg" align="center" width="100%" >
