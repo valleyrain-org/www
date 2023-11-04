@@ -22,7 +22,7 @@ header-img: img/2023-11-04-jingfangzhou2.jpeg
 Saturday, November 4 · 4 - 5:30pm PDT
 
 地点 Location: 
-Pasadena City College, Westerbeck Recital Hall
+Pasadena City College, Lecture Hall C333
 
 1570 East Colorado Boulevard 
 
