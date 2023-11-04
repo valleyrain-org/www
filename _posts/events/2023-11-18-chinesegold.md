@@ -16,7 +16,7 @@ Join us in exploring the history of Monterey Bay Chinese Americans, with **Sandy
 
 谷雨书苑联合Flex Kids Culture邀请您一起探索蒙特雷湾华裔美国人的一段不为人知的历史，与《中国金》的作者Sandy Lydon、Santa Cruz曾经的唐人街的居民George Ow、Flex Kids Culture创始人Rui Li和UCSC语言学家Haoze Li一同交流。他们将通过引人入胜的对话和多媒体展览来展现这段尘封的华人移民血泪史。
 
-<img src="/img/2023-11-18-guestsnew.png" align="center" width="100%" >
+<img src="/img/2023-11-18-speaker.png" align="center" width="100%" >
 
 
 
