@@ -16,9 +16,7 @@ header-img: img/2023-12-28-shiguopeng.jpeg
 
 欢迎订阅和关注谷雨书苑YouTube频道，及时获取直播提醒
 
-YouTube直播入口 https://www.youtube.com/live/VYwUMI9gUug
-
-https://www.youtube.com/live/eTDeylhfywU
+YouTube直播入口 https://www.youtube.com/live/eTDeylhfywU
 
 
 
