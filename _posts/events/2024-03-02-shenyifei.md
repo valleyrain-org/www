@@ -14,7 +14,7 @@ description: ""
 ## 活动时间和地址 Date and time
 2024年3月2日，周六 4:00-6:00pm (美西时间)
 
-Friday, February 16, 2024 · 7 - 9pm PST
+Saturday, March 2, 2024 · 4 - 6pm PST
 
 地点：TBD
 
