@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷雨书苑特别企划 — 亲密关系的变迁和自我发展 by 沈奕斐"
+title: "谷雨书苑第381期 谷雨书苑特别企划 — 亲密关系的变迁和自我发展 by 沈奕斐"
 category: event
 description: ""
 header-img: img/2024-03-02-shenyifei2.jpeg
