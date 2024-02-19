@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蒋方舟巡讲 湾区站 ---- 和蒋方舟一起探究文学中的母女关系"
+title: "谷雨书苑第369期 蒋方舟巡讲 湾区站 ---- 和蒋方舟一起探究文学中的母女关系"
 category: event
 description: ""
 header-img: img/2023-11-04-jingfangzhou2.jpeg
