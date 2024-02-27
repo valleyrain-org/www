@@ -17,9 +17,7 @@ header-img: img/2024-03-02-shenyifei2.jpeg
 
 Saturday, March 2, 2024 · 4 - 6pm PST
 
-地点：TBD
-
-Location: TBD
+地点 / Location：3120 Scott Boulevard, Santa Clara, CA 95054
 
 <img src="/img/2024-03-02-shenyifei1.jpeg" align="center" width="100%" >
 <img src="/img/2024-03-02-shenyifei2.jpeg" align="center" width="100%" >
