@@ -3,11 +3,14 @@ layout: post
 title: "谷雨书苑第393期 — 谷雨线上讲堂 石国鹏老师 之 民国风骨"
 category: event
 description: ""
-header-img: img/2024-08-16-shiguopeng.jpg
+header-img: img/2024-08-23-shiguopeng.jpg
 ---
 
 
 ## 活动时间和地址
+
+* 因石老师抱恙，时间顺延一周至 美西时间8月23号4pm，直播链接已更新
+
 2024年08月16日，周五 4:00pm (美西时间)
 
 2024年08月16日，周五 7:00pm (美东时间)
@@ -16,11 +19,10 @@ header-img: img/2024-08-16-shiguopeng.jpg
 
 欢迎订阅和关注谷雨书苑YouTube频道，及时获取直播提醒
 
-YouTube [直播入口](https://www.youtube.com/watch?v=jwNJ3mgsIL8)
+YouTube [直播入口](https://www.youtube.com/live/jwNJ3mgsIL8)
 
 
-
-<img src="/img/2024-08-16-shiguopeng.jpg" align="center" width="100%" >
+<img src="/img/2024-08-23-shiguopeng.jpg" align="center" width="100%" >
 
 ## 关于谷雨
 谷雨书苑2015年创立于旧金山湾区，致力于促进中美文化交流，丰富海外华人精神文化生活。
