@@ -26,9 +26,9 @@ header-img: img/2025-01-11-zhoudawei_0.jpeg
 <img src="/img/2025-01-11-zhoudawei_2.jpeg" align="center" width="100%" >
 
 ## 活动时间和地址 Date and time
-2025年1月11日，周日 3:00-4:30pm (美西时间)
+2025年1月11日，周六 3:00-4:30pm (美西时间)
 
-Sunday, September 22 · 4 - 6pm EDT
+Saturday, January 11 2025, 3:00-4:30pm PST
 
 地点/Location: Shenzhen Bay Innovation Center， 3rd floor
 
