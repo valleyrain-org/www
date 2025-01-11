@@ -7,7 +7,7 @@ header-img: img/2025-01-18-wutaishan.jpg
 ---
 
 ## 更多详情 请戳 购票入口 More Info and Buy tickets
-<iframe src="//https://www.eventbrite.com/e/397-by-tickets-1133492098379" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<iframe src="//www.eventbrite.com/e/397-by-tickets-1133492098379" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
 ## 活动介绍
 美术教授郭秋英携孙悟空带你探秘山西千年古刹
