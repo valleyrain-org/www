@@ -30,7 +30,9 @@ header-img: img/2025-02-08-sanxingdui0.jpg
 
 Saturday, Feburary 08 2025, 3:00-5:00pm PST
 
-地点/Location: South Bay (TBD)
+地点/Location: 
+Shenzhen Bay Innovation Center， 3rd floor
+3120 Scott Boulevard Santa Clara, CA 95054
 
 
 ## 关于我们
