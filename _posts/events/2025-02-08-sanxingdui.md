@@ -6,6 +6,9 @@ description: ""
 header-img: img/2025-02-08-sanxingdui0.jpg
 ---
 
+## Attention:
+活动地点改为 Silicon Valley Asian Art Center, 3777 Stevens Creek Blvd # 400M, Santa Clara, CA 95051
+
 ## 更多详情 请戳 购票入口 More Info and Buy tickets
 <iframe src="//www.eventbrite.com/e/398-by-tickets-1206308363789" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
@@ -31,8 +34,7 @@ header-img: img/2025-02-08-sanxingdui0.jpg
 Saturday, Feburary 08 2025, 3:00-5:00pm PST
 
 地点/Location: 
-Shenzhen Bay Innovation Center， 3rd floor
-3120 Scott Boulevard Santa Clara, CA 95054
+Silicon Valley Asian Art Center, 3777 Stevens Creek Blvd # 400M, Santa Clara, CA 95051
 
 
 ## 关于我们
