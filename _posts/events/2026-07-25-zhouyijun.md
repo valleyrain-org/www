@@ -33,7 +33,7 @@ San Mateo, CA
 
 [周轶君对话陈丹青｜困惑？哪一代年轻人不是这样](https://www.youtube.com/watch?v=Myi2nsPxlf4) 
 
-[圆桌派 第五季 多样：“我相信人类的代码中有爱” ｜窦文涛/周轶君/马未都/许子东/尹烨 ](https://www.youtube.com/watch?v=NV7FEUuH8cY) 
+[多样：“我相信人类的代码中有爱” ｜窦文涛/周轶君/马未都/许子东/尹烨 ](https://www.youtube.com/watch?v=NV7FEUuH8cY) 
 
 
 ## 关于我们
