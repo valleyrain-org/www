@@ -3,7 +3,7 @@ layout: post
 title: "谷雨对话周轶君（西雅图场）"
 category: event
 description: ""
-header-img: img/2026-07-25-zhouyijun.webp
+header-img: img/2026-07-26-zhouyijun.jpg
 ---
 
 ## 更多详情 请戳 购票入口 More Info and Buy tickets
