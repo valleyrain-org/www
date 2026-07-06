@@ -3,7 +3,7 @@ layout: post
 title: "谷雨对话周轶君（西雅图场）"
 category: event
 description: ""
-header-img: img/2026-07-26-zhouyijun.jpg
+header-img: img/2026-07-26-zhouyijun-seattle.jpg
 ---
 
 ## 更多详情 请戳 购票入口 More Info and Buy tickets
@@ -27,7 +27,7 @@ Wyncote Forum
 
 Seattle, WA 98101
 
-<img src="/img/2026-07-26-zhouyijun.jpg" align="center" width="100%">
+<img src="/img/2026-07-26-zhouyijun-seattle.jpg" align="center" width="100%">
 参考视频请点击下方链接：
 
 [周轶君：我对日本女性的了解还停留在像“清朝”的时候！](https://www.youtube.com/watch?v=fUDgujqNXqY) 
