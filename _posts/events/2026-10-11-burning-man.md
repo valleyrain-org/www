@@ -11,7 +11,7 @@ header-img: img/2026-10-11-burning-man.webp
 
 ## 活动介绍
 
-Between Dust & Starlight -- 与你聊聊造梦者眼中的火人节
+如何在沙漠里造一场梦
 
 八月末，人们带着水、食物、燃料和一切沙漠里的生活必需，风尘仆仆地开往内华达州Black Rock Desert。
 
@@ -30,6 +30,8 @@ Between Dust & Starlight -- 与你聊聊造梦者眼中的火人节
 他们在那里看见了什么，带走了什么？离开以后留了什么？
 10月11日，Saratoga Library。两位参与者将用她们的声音，讲述她们眼睛看到的、身体感受到的，以及离开之后仍然与她们相互作用着的那座城。
 
+本次活动由谷雨书苑和Beyond Pages Book Club联合举办
+
 ## 分享嘉宾
 
 Yiying
@@ -38,10 +40,14 @@ Yiying
 Axin
 营地组织者，returning burner，building things in the middle of nowhere
 
+Ting (Moderator)
+Host of Beyond Pages Book Club
+
 ## 活动时间和地址 Date and time
 2026年10月11日 2:00pm-4:00pm
 
 地点 Location: 
+
 Saratoga Library Community Room
 13650 Saratoga Ave, Saratoga
 
