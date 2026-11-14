@@ -8,9 +8,9 @@ header-img: img/2027-02-20-yuantengfei-landscape.PNG
 
 ## 活动报名 Registration
 
-[点击前往 Eventbrite 报名 Register on Eventbrite](https://www.eventbrite.com/e/2004819124971?aff=oddtdtcreator)
+[点击前往 Eventbrite 报名 Register on Eventbrite](https://www.eventbrite.com/e/2004819124971)
 
-<iframe src="https://www.eventbrite.com/e/2004834824930" title="袁腾飞达拉斯站：带你走进一个真实的清朝活动报名" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<iframe src="https://www.eventbrite.com/e/2004819124971" title="袁腾飞达拉斯站：带你走进一个真实的清朝活动报名" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
 ## 活动介绍 Event Overview
 
