@@ -10,7 +10,7 @@ header-img: img/2027-02-21-yuantengfei-landscape.PNG
 
 [点击前往 Eventbrite 报名 Register on Eventbrite](https://www.eventbrite.com/e/2004819124971?aff=oddtdtcreator)
 
-<iframe src="https://www.eventbrite.com/e/2004819124971" title="勋章与战火：袁腾飞带你走进历史现场" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<iframe src="https://www.eventbrite.com/e/2004834824930" title="勋章与战火：袁腾飞带你走进历史现场" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 
 ## 活动介绍 Event Overview
 
