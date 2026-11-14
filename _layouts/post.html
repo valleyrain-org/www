@@ -4,6 +4,7 @@ layout: default
 
 {% if page.header-img-full and page.header-img %}
 <header class="intro-header intro-header-full">
+    <img class="post-banner" src="{{ page.header-img | relative_url }}" alt="">
 {% else %}
 {% include header-with-img.html %}
 {% endif %}
@@ -20,9 +21,6 @@ layout: default
             </div>
         </div>
     </div>
-    {% if page.header-img-full and page.header-img %}
-        <img class="post-banner" src="{{ page.header-img | relative_url }}" alt="">
-    {% endif %}
 </header>
 
 <!-- Post Content -->
