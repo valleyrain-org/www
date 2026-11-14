@@ -31,10 +31,6 @@ header-img-full: true
 1. **国家越战博物馆**（National Vietnam War Museum） — 12685 Mineral Wells Highway, Weatherford, TX 76088
 2. **美国荣誉勋章博物馆**（National Medal of Honor Museum） — 1861 AT&T Way, Arlington, TX 76011
 
-## 主办方 Hosts
-
-- 谷雨书苑 ValleyRain International
-
 ## 活动海报 Event Poster
 
 ![袁腾飞达拉斯站博物馆实地研学海报：勋章与战火]({{ site.baseurl }}/img/2027-02-21-yuantengfei.PNG)
