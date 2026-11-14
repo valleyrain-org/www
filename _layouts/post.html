@@ -2,12 +2,7 @@
 layout: default
 ---
 
-{% if page.header-img-full and page.header-img %}
-<header class="intro-header intro-header-full">
-    <img class="post-banner" src="{{ page.header-img | relative_url }}" alt="">
-{% else %}
 {% include header-with-img.html %}
-{% endif %}
     <div class="uk-container uk-container-center uk-margin-large-bottom">
         <div class="uk-grid">
             <div class="uk-width-1-1 uk-width-large-2-3 uk-width-medium-5-6 uk-container-center">
