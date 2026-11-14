@@ -4,6 +4,7 @@ title: "（达拉斯站）袁腾飞带你走进一个真实的清朝"
 category: event
 description: "别被清宫剧骗了——跟着袁腾飞从影视剧走进真实历史，轻松认识一个真实的清朝。"
 header-img: img/2027-02-20-yuantengfei-landscape.PNG
+header-img-full: true
 ---
 
 ## 活动报名 Registration

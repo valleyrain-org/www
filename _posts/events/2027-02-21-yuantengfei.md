@@ -4,6 +4,7 @@ title: "（达拉斯站）勋章与战火：袁腾飞带你走进历史现场"
 category: event
 description: "跟随袁腾飞参访国家越战博物馆和美国荣誉勋章博物馆，了解越战历史与荣誉勋章背后的故事。"
 header-img: img/2027-02-21-yuantengfei-landscape.PNG
+header-img-full: true
 ---
 
 ## 活动报名 Registration
