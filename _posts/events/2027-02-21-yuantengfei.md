@@ -6,19 +6,22 @@ description: "跟随袁腾飞参访国家越战博物馆和美国荣誉勋章博
 header-img: img/2027-02-21-yuantengfei-landscape.PNG
 ---
 
+## 活动报名 Registration
+
+[点击前往 Eventbrite 报名 Register on Eventbrite](https://www.eventbrite.com/e/2004819124971?aff=oddtdtcreator)
+
+<iframe src="https://www.eventbrite.com/e/2004819124971" title="勋章与战火：袁腾飞带你走进历史现场" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+
 ## 活动介绍 Event Overview
 
 ### 勋章与战火：袁腾飞带你走进历史现场 Medals and War — Exploring History with Yuan Tengfei
 
-谷雨书苑邀请历史教师袁腾飞带领大家走进两座博物馆，从展品与历史故事出发，了解越战历史，思考战争与和平，并探寻荣誉勋章背后的人物故事。
+跟随袁腾飞老师走进国家越战博物馆与美国荣誉勋章博物馆，在历史现场轻松听懂战争与荣誉。
+这是一场面向公众的线下活动，由袁腾飞老师带你走进两座博物馆，了解越战与荣誉勋章相关历史。
 
 ## 分享嘉宾 Guest Speaker
 
-**袁腾飞**，历史教师、作家，以幽默风趣、通俗易懂的讲史风格为观众所熟悉。
-
-2009年，他主讲的《两宋风云》在央视《百家讲坛》播出，从历史人物与关键事件切入，讲述两宋之际的风云变迁。2010年，他又在该栏目主讲《塞北三朝之辽》，带领观众了解契丹与辽朝的兴衰。
-
-此后，他还录制了《腾飞五千年》《袁游》等历史文化节目，并出版《两宋风云》《这个历史挺靠谱》等著作。从课堂到电视讲坛，再到历史文化节目，他将复杂的历史脉络讲得生动鲜活，让观众在故事中理解时代变迁与人物抉择。
+{% include yuan-tengfei.md %}
 
 ## 活动时间和地址 Date, Time, and Locations
 

@@ -8,4 +8,4 @@ ValleyRain International, a registered 501(c)(3) non-profit cultural organizatio
 
 We were founded with the mission of building a bridge between Asia and North America cultures.
 
-To date, we have hosted upwards of 500 cultural events in San Francisco, Los Angeles, Dallas, Beijing, and Shanghai, among other cities. At these events, we gather leading voices in the field to engage in dialogue and share knowledge.
+To date, we have hosted 600 in-person cultural events in San Francisco, Los Angeles, Dallas, Beijing, and Shanghai, among other cities. At these events, we gather leading voices in the field to engage in dialogue and share knowledge.
